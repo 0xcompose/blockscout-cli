@@ -1,0 +1,229 @@
+{
+  "token": {
+    "address": "0x5267F7eE069CEB3D8F1c760c215569b79d0685aD",
+    "name": "VerioIP",
+    "symbol": "vIP",
+    "decimals": 18,
+    "total_supply": "7193762260880877736198385",
+    "total_supply_formatted": "7193762.26088"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x23eC44511347093F15Db7A5AaCDCaa20B6E2e441",
+      "balance": "1300000000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1d17D257e73333BB776E5E36ee71a85fb6182108",
+      "balance": "727668545173638180028509",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa55256C7a140C15150921D8D416387D61F1AFF61",
+      "balance": "320518187774507095256502",
+      "is_verified": false
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0xB1C4EA6C1c00567Da188eE0CFa8300185580B1a9",
+      "balance": "67200646561283856520501",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x8a8139Bf88a645119701902c5a7Eb2669252b6ca",
+      "balance": "63642456298677241645256",
+      "is_verified": true
+    },
+    {
+      "name": "VerioBribeVaultV2",
+      "address": "0x29038303100931fA3Cd421ceb1632F1Bb22950Ac",
+      "balance": "61302420014548008959935",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x4A2B3efce907a82B05db629C7A19CDA0cd452393",
+      "balance": "14883000340000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa91aa5ed597b7396a149EaF90C9c1E1b512b8c1B",
+      "balance": "14031318690000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x298b7D6027Cc6611A500Bb465d275cF0f7153FE2",
+      "balance": "8419526730000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc5EBe5cbF8EcB6f897E0c3b7E93BbC99d1012D11",
+      "balance": "7437930050000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xBc1F4BE1Faf030eF96bc76233aeA8eB5495BEB58",
+      "balance": "6610362210000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6b1e1a09435AC3DEfCC70A0B9515761b8B7C3c1B",
+      "balance": "4553269150000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xCb0eDDC82F28BdD103aE37eC3eEa3e6594e2CE7C",
+      "balance": "3481405000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xc2787Ae7299620a381F1dB56B0E415fF271217F1",
+      "balance": "3323369160000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x521c5aEdF9D2Ae3f705133C38a31Fd9924B5801a",
+      "balance": "3065607860000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE11Cc7a4cDD8a0e77192DcB60D5379bE4B9617fe",
+      "balance": "2526309800000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2E0c4997a065A5bD5EcfAf6A2b18eA835e738266",
+      "balance": "1669575980000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x8f4d7e4FC8Bc0Cbe24c3e48669A10F47F20c6332",
+      "balance": "1556463360000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x14CCc279232F98Db8D57842A9f0168b20f89a002",
+      "balance": "1478423100000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2CBC6f25345dfccD8A94E9a1EAec2ed73B5f593C",
+      "balance": "1172829110000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe1D102f0d36255962D1E3755c3bE1Da25F36046A",
+      "balance": "1065294240000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xaAb59B614E4076A833C09e82d1c26Cdc66053663",
+      "balance": "690651540000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0xd05F9692E27A308568fAa0E5a2291209DCa398Ca",
+      "balance": "655336318985887735090",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x954DF51B45BAf4C5B1a88b5BFCe8a7e732Ef1957",
+      "balance": "624299500000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xC7Cc67B2300d475F66E7fb21E04507E0E4839693",
+      "balance": "475614949579208802335",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x3D7b86d58827B7FB6A25F136226FCFad85F99De0",
+      "balance": "443323540000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x673078B6FC5d570629F416e200588421545017d9",
+      "balance": "428741003831437612162",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x65A377fF36Fc01395df4A238de9Ab94DCBd4742a",
+      "balance": "381155949185243292322",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5a317875F74e2D2d0BC99064351da219dAedCB07",
+      "balance": "330000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3ac509a4df368CC4f8d10601B0B8bBd45Df8D755",
+      "balance": "287373836556129320139",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4aB706dB77233CC1330a89D6a91e42Aa895C20f3",
+      "balance": "237107640000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1a1D08035E69F190B8Ba7df34669963BcB94e312",
+      "balance": "218897000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1B7Db62F582D77dDD82ab7766a20C1f74cE1e97f",
+      "balance": "119218450046258427830",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe5CDD969dcD1E074DeEa97bC2B2A0B2A9E383E4E",
+      "balance": "115240210314399644805",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x385b46a1FE132a8f31C5E648d6ce9f524c52e011",
+      "balance": "100108000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xdC71a5023EBF19173dD139251DaC98d4b13A84c0",
+      "balance": "85590485793628306488",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 36
+}

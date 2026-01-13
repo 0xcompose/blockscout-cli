@@ -1,0 +1,25 @@
+{
+  "token": {
+    "address": "0x2460E95F24bBd21d1FBA27A751970c2455e9D7E9",
+    "name": "IP Exchange",
+    "symbol": "IPX",
+    "decimals": 18,
+    "total_supply": "100000000000000000000000000",
+    "total_supply_formatted": "100000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "SafeProxy",
+      "address": "0x954e71B6cb446A2dC802959f28739A1dF3e48F02",
+      "balance": "97999889000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0xd74cb96C7D7Dcb37a51c5c5Dd677D623EEa4916A",
+      "balance": "51925988308000000000000",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}

@@ -1,0 +1,91 @@
+{
+  "token": {
+    "address": "0xC9cbbD8f211300Dd0e7a3933b7AeEdAC6F61Dd52",
+    "name": "Aria",
+    "symbol": "ARIAIP",
+    "decimals": 18,
+    "total_supply": "1000000000000000000000000000",
+    "total_supply_formatted": "1000000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "SafeProxy",
+      "address": "0xBd185391b7666c661c9053732cC602C566794B65",
+      "balance": "210000000000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xA74550b67d52EC87aE926e0ecf064c8745Cc2AC6",
+      "balance": "210000000000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x74f372c5F8b10d66E54eccC80b5bF77Bf6d7A385",
+      "balance": "199690967462100000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x7cb4111574FA419706708ec087436C1aC7F3a439",
+      "balance": "180000000000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x018E828B4d035004029FF586183bE3292aD3F9C6",
+      "balance": "94457892782677737258420620",
+      "is_verified": true
+    },
+    {
+      "name": "AriaOFTAdapter",
+      "address": "0x328fd76ce33cf72CBbC206515aB58D7101104Ba7",
+      "balance": "34906353961504000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x09BBA0F779a8f638eAF0cfe2E3D82a17D09E620B",
+      "balance": "11200958818447688000000000",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x195050447F8c7C42Ea6bE4E4EE2eCC5422b5E46a",
+      "balance": "4360799100382849250039995",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x3f75bCe36d3161cf20A90B96a616fF7BA1E7810E",
+      "balance": "2304116700200932738815828",
+      "is_verified": false
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xb1413f906F99547aeE43468c3ad709A3268FdF94",
+      "balance": "1980972086989703842637761",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5A4cFFa1ea84ff371736de20e61F3e437c9a67EC",
+      "balance": "1579918946420290430403240",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x62d52D53d3F8D84340ECD6884753480054ab0b8A",
+      "balance": "1357921312582155439141210",
+      "is_verified": false
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x436195478400ECE0014BD5c8A8c3fa7a27095245",
+      "balance": "395472982848331507386746",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 13
+}

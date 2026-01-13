@@ -1,0 +1,121 @@
+{
+  "token": {
+    "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+    "name": "Stargate Bridged USDC",
+    "symbol": "USDC.E",
+    "decimals": 6,
+    "total_supply": "2417146533707",
+    "total_supply_formatted": "2417146.53370"
+  },
+  "contract_holders": [
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x4a170A20Dd1ff838C99d49Ac18b517a339206E83",
+      "balance": "346090488277",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xc56c1bE28a22CED0270A4D2F45753d2b6300c1Ae",
+      "balance": "339381310278",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0x816f722424B49Cf1275cc86DA9840Fbd5a6167e9",
+      "balance": "186678620900",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x555CE236C0220695b68341bc48C68d52210cC35b",
+      "balance": "116173407870",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xFD061584f1F88F24fe11Dfa12B9D283afe2FC9F8",
+      "balance": "17225984219",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x444862d9bB70d193E0b9B6DE91F79D603A74f9Eb",
+      "balance": "16704821457",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66",
+      "balance": "12717096349",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x4d3649da4F869f3EC352Ef9D445Fca31E5DA6a1C",
+      "balance": "8547744817",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x13372fEE2128183870eAC7eaEb3850Ec0c23F3e4",
+      "balance": "6405516125",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE246d419efa83AC80bbcAC8c23D357eecFc424Af",
+      "balance": "5070579540",
+      "is_verified": true
+    },
+    {
+      "name": "MultiSigWalletWithTimelock",
+      "address": "0x97D52E1610b4eF673A10584bE5855ada4e7F1f44",
+      "balance": "5000000000",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x3DD013fdDF4dAa3b642A1538E274d85e8E54AE8b",
+      "balance": "3119468620",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0xB6A137017A2414Ecb7De6F0599581d1Ab9C3ADE3",
+      "balance": "2806355121",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9D157268B8d3B02e2BBf75A1aefa2b1cFFcB9ed8",
+      "balance": "2780897095",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x8D7CF32690dD5a6F99F2670029f65c7765aC20aB",
+      "balance": "2735988287",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xfF9333E6168D89374382cd0d92c6b14444632E78",
+      "balance": "2337367641",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x0848F4AE872545C901D3325AEFf09F0fa8952AfC",
+      "balance": "2206870000",
+      "is_verified": false
+    },
+    {
+      "name": "SafetyBoxStorage",
+      "address": "0xbA6Ef62dbC64A136362aec11fd3596f7c5e8A8eD",
+      "balance": "1806711551",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 18
+}

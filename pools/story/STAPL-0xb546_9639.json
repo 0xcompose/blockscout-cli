@@ -1,0 +1,49 @@
+{
+  "token": {
+    "address": "0xb5461c1FD0312Cd4bF037058F8a391e6A42F9639",
+    "name": "Staked Aria Premier Launch",
+    "symbol": "STAPL",
+    "decimals": 18,
+    "total_supply": "7582900182532671920891995",
+    "total_supply_formatted": "7582900.18253"
+  },
+  "contract_holders": [
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x517CEDB3592e35f582893Ae1812E8607Db5DEd5D",
+      "balance": "442195657367924971267794",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x1c763a27a0f66ea692CEe68456a451aCFAd16EB0",
+      "balance": "255531485138157103958111",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x841A04a5b30ee9270E1E51658545E280e4682668",
+      "balance": "154599752138309049408132",
+      "is_verified": false
+    },
+    {
+      "name": "BT-VPT APL",
+      "address": "0x44d1D53433aAA6Ab4325f90ee216B18f1ceaFa88",
+      "balance": "2642454528137577813358",
+      "is_verified": false
+    },
+    {
+      "name": "BT-VPT APL 1",
+      "address": "0x110477Af9AC7837Fd0E8A1b917982FD6065EBa88",
+      "balance": "641538467076262105553",
+      "is_verified": false
+    },
+    {
+      "name": "YT APL 5NOV2025",
+      "address": "0x8bf78a05461f838801503bAA33d43fc67a9Ab65A",
+      "balance": "447055213181128423756",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 6
+}

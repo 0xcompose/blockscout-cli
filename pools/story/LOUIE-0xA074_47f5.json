@@ -1,0 +1,25 @@
+{
+  "token": {
+    "address": "0xA074AcA68eeB6c831A78c84606F3CB44F9E547f5",
+    "name": "Louie",
+    "symbol": "LOUIE",
+    "decimals": 18,
+    "total_supply": "998754107196843641544922103",
+    "total_supply_formatted": "998754107.19684"
+  },
+  "contract_holders": [
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x8C5E86e77fF6bEA838A049C1210F735472fD0Ebb",
+      "balance": "54908922847444354966176468",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x81336266Ba5F26B8AFf7d2b2A2305F52A39292b2",
+      "balance": "21145952932098765432099489",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}

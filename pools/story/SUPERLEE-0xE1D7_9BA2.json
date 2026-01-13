@@ -1,0 +1,31 @@
+{
+  "token": {
+    "address": "0xE1D79D90551F8dDEF1904887629c6f3f89f39BA2",
+    "name": "SUPERLEE",
+    "symbol": "SUPERLEE",
+    "decimals": 18,
+    "total_supply": "992078254960579023987083193",
+    "total_supply_formatted": "992078254.96057"
+  },
+  "contract_holders": [
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x548C5f4870189f00534325961E4571993fC82Aa8",
+      "balance": "564118465144788286351059329",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x81336266Ba5F26B8AFf7d2b2A2305F52A39292b2",
+      "balance": "30000000000000000000001026",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xd0EFb8Cd4c7a3Eefe823Fe963af9661D8F0CB745",
+      "balance": "2082342548622236724829035",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 3
+}

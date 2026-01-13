@@ -1,0 +1,31 @@
+{
+  "token": {
+    "address": "0x25F9c9715d1D700A50B2a9A06D80FE9f98CcB549",
+    "name": "BENJAMIN",
+    "symbol": "BENJI",
+    "decimals": 18,
+    "total_supply": "1000000000000000000000000000",
+    "total_supply_formatted": "1000000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xFD061584f1F88F24fe11Dfa12B9D283afe2FC9F8",
+      "balance": "283053881751703137450219845",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0xA011b6762a191a231ca50a677AD093eDf803312E",
+      "balance": "83058278615755730028535601",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE246d419efa83AC80bbcAC8c23D357eecFc424Af",
+      "balance": "600448504905146556206005",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 3
+}

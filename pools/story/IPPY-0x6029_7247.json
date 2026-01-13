@@ -1,0 +1,19 @@
+{
+  "token": {
+    "address": "0x6029271383FA08F3d416419284346C5948f87247",
+    "name": "Ippy",
+    "symbol": "IPPY",
+    "decimals": 18,
+    "total_supply": "1000000000000000000000000000000",
+    "total_supply_formatted": "1000000000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "PiperXswap V2",
+      "address": "0x037B4645D811930A5586F626EF5a2D43cc1B2dba",
+      "balance": "2411758763188708030357422154",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 1
+}

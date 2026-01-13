@@ -1,0 +1,12 @@
+{
+  "token": {
+    "address": "0x02d855bB5CECd01dA4f3de362f7A5bdB57870106",
+    "name": "Staked Aria",
+    "symbol": "stARIAIP",
+    "decimals": 18,
+    "total_supply": "1980972086989703842637761",
+    "total_supply_formatted": "1980972.08698"
+  },
+  "contract_holders": [],
+  "total_contract_holders": 0
+}

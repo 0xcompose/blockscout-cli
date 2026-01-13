@@ -1,0 +1,439 @@
+{
+  "token": {
+    "address": "0x1514000000000000000000000000000000000000",
+    "name": "Wrapped IP",
+    "symbol": "WIP",
+    "decimals": 18,
+    "total_supply": "684894054237500444188533",
+    "total_supply_formatted": "684894.05423"
+  },
+  "contract_holders": [
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x4a170A20Dd1ff838C99d49Ac18b517a339206E83",
+      "balance": "86815766842096375305031",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x15701E58038AFB06C4416A74C50eE8DF2A0c0B42",
+      "balance": "81815754845066524433946",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xc56c1bE28a22CED0270A4D2F45753d2b6300c1Ae",
+      "balance": "81310567805236500805421",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x3191De9B71687Cf1f964b8ABDa7BdC8f1d5c5580",
+      "balance": "69271039132140170580881",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x8a8139Bf88a645119701902c5a7Eb2669252b6ca",
+      "balance": "41049222865516393725037",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0xB1C4EA6C1c00567Da188eE0CFa8300185580B1a9",
+      "balance": "40827746603967099559653",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x8Cb0A60ADc920fD5ae8AEC1775F231D3cB3004Ea",
+      "balance": "29855787680280745509527",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x50457749f101c38d8c979f9b2136d2EcBd8C2441",
+      "balance": "28426015620383733589843",
+      "is_verified": true
+    },
+    {
+      "name": "PiperXswap V2",
+      "address": "0xdD268BbAc5A3F861F5f798C02e0A043a5AdA6546",
+      "balance": "26897270903692261274459",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0AC011eb02a44D3FD7Ad2e837a9f5a330913Af13",
+      "balance": "26090519059959589388043",
+      "is_verified": false
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0xa079689B9d9534dadC6afA3E4D543C866b2BFc01",
+      "balance": "19271674331706835932274",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x8C5E86e77fF6bEA838A049C1210F735472fD0Ebb",
+      "balance": "14125200326557540075244",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x41F10BBa8BfE320b3dD1db930cE30ccbf63AE976",
+      "balance": "11345944544763919885294",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x444862d9bB70d193E0b9B6DE91F79D603A74f9Eb",
+      "balance": "7413945276296555579953",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xA3d2605B61C44f3EC67DEa94E7DB0ea28e73AE8e",
+      "balance": "6551303580575252903334",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xe028Ff98908f55f8548568E92078b80Ecbf5BDC8",
+      "balance": "6155166522983054908294",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5A4cFFa1ea84ff371736de20e61F3e437c9a67EC",
+      "balance": "5909328704022949342861",
+      "is_verified": false
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x402B4Dadd7eD67c08f98f30C7b8C975a03063a42",
+      "balance": "4527631994487837190989",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xcC5C7794c51489c524adbF01917616fa008b24D4",
+      "balance": "3566116669845197992188",
+      "is_verified": false
+    },
+    {
+      "name": "PiperXswap V2",
+      "address": "0x65c53A48795450f3579CE7d4081a99cd9C9ab1DA",
+      "balance": "3529649335121124907086",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE246d419efa83AC80bbcAC8c23D357eecFc424Af",
+      "balance": "2812809048674116510895",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xf9D0459fB1099EC274C950C660e3991962Ec5aA7",
+      "balance": "2664663263026061859329",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xA44F486E84879F85E90C63bD5b5580DfC1C23eD1",
+      "balance": "2157514603408775855019",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xC528F7bbC29F5fC0725066f0EEe9feC7b3D5d68C",
+      "balance": "2096318478935322527380",
+      "is_verified": false
+    },
+    {
+      "name": "PiperXswap V2",
+      "address": "0x5827B9B2E155393347735CE93BCCBEA2b610304d",
+      "balance": "2042825612265996818904",
+      "is_verified": false
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x14181b8a908E7b0Eb53adacb9949584783a28D51",
+      "balance": "2042744766314232971905",
+      "is_verified": true
+    },
+    {
+      "name": "PoolManager",
+      "address": "0x170e0C91ffa71dc3c16d43f754b3AECe688470c8",
+      "balance": "1189093754641790101473",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xB01C6B63aC62f17532B9EC47CC811714B3716A1f",
+      "balance": "1128000000000000002101",
+      "is_verified": false
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x97c26FCb4A0Af26e4E2a577349f6E151b287ecCE",
+      "balance": "1064033532036979054925",
+      "is_verified": true
+    },
+    {
+      "name": "AlphaHunter",
+      "address": "0xB0C3dE0EA48C645531c589b1c29b777209Fd0EFf",
+      "balance": "1045280446082064857656",
+      "is_verified": true
+    },
+    {
+      "name": "AlphaHunterV3",
+      "address": "0xa31A12D2736d3371273e462f6E272db998aE8b28",
+      "balance": "1043396974413046261944",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0xd05F9692E27A308568fAa0E5a2291209DCa398Ca",
+      "balance": "881644397441393864487",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x7d2958199C61017D0E51A0376aCbD3347a3e9736",
+      "balance": "861586937585064101832",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x57ED1162bc2Cd89dd46857ED7ABB76fFe75A762c",
+      "balance": "855277437121814889406",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xBE6a32A8E85e4F960ce2Df230D665d49748A993c",
+      "balance": "818410112941663690260",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x9dFF955668f79a7fcB7396d244822257Fa409cD9",
+      "balance": "784958774734418361325",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xC7Cc67B2300d475F66E7fb21E04507E0E4839693",
+      "balance": "762276460999948297361",
+      "is_verified": true
+    },
+    {
+      "name": "PiperXswap V2",
+      "address": "0x4139E6C74e8c437d7D72542926bf4cfdB320D9f1",
+      "balance": "758591813084250855938",
+      "is_verified": false
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x8825a689EEAdfC2c88E6b42b2D4C429Dbe8e2F57",
+      "balance": "703477037701974853160",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xBe54FB168b3c982b7AaE60dB6CF75Bd8447b390E",
+      "balance": "683547144508699534197",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x1d17D257e73333BB776E5E36ee71a85fb6182108",
+      "balance": "537375359002832456063",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x00000000005B87A9d0810D7824AEd8498B6c6Dce",
+      "balance": "473472888675661570507",
+      "is_verified": false
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x548C5f4870189f00534325961E4571993fC82Aa8",
+      "balance": "435998102617498973068",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xc2AC0B1C9e86b7971BB43D4D3858e3c1Ae60C96a",
+      "balance": "425209480321938643288",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xd02CD85FD24034C2f295135178991DfaBe404433",
+      "balance": "387387534258258922363",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x3f75bCe36d3161cf20A90B96a616fF7BA1E7810E",
+      "balance": "380757071534662921918",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb3927817D37b840868eCd7FA82613d3830C6C837",
+      "balance": "349709297734472824095",
+      "is_verified": false
+    },
+    {
+      "name": "MultiGachaLotteryPyth",
+      "address": "0x88643d4cFC111E7Fa403f6f117e6454d15974d23",
+      "balance": "337300000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "BeaconProxy",
+      "address": "0x75E1058FFeb86c86b413ABBfB4B175ec738D42De",
+      "balance": "316122754495900000000",
+      "is_verified": true
+    },
+    {
+      "name": "BeaconProxy",
+      "address": "0xA3217Cd0fB11F67cd161f87f721a37115270DdbA",
+      "balance": "305681267528646094248",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xf3E98A42aCf65fB5576DBbd1a3ef6Fe2CaED0944",
+      "balance": "290222216483628617307",
+      "is_verified": true
+    },
+    {
+      "name": "PredictionMarket",
+      "address": "0x35eF56e736386f96ea006Fa26E5db0d9D4A85e56",
+      "balance": "267803978915745314616",
+      "is_verified": true
+    },
+    {
+      "name": "BeaconProxy",
+      "address": "0xEDBF35060C3d55A681C416265aD3E725518f7740",
+      "balance": "264713104730304727504",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x6eb0e459A9050bE03C97703c1967f601bA46543e",
+      "balance": "232880622608898646329",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x84386055F90E898E8636e318a3ABf4ad672b51DF",
+      "balance": "221619804875023537276",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x90640392fFa330fF7Bf0b3ef32DB32A6dE5d0fDD",
+      "balance": "215971025659233634412",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntClaim",
+      "address": "0x49B7A09D117116875BA74B4900922886128e67bE",
+      "balance": "211685739001482957570",
+      "is_verified": true
+    },
+    {
+      "name": "BeaconProxy",
+      "address": "0xEc837f4FFeE8c211cbe0d61fDb2181DAB1F82799",
+      "balance": "208494862570844117423",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x7BDFc6EEd01FA67f5df7F0AA9e89561078a89741",
+      "balance": "206959022016017645192",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xD7bF9FAC69638ACCDd1FB05461f53e570e7125ac",
+      "balance": "202142794343890171885",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xF46E418D22BDE078c6379912E981eBFf16824D9f",
+      "balance": "188981139244324442779",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x52f3387c7A5B39f5869B392aC14D6e5892625207",
+      "balance": "175544213025727486417",
+      "is_verified": true
+    },
+    {
+      "name": "BeaconProxy",
+      "address": "0x100768751F3eb302A96874a6331203587399bC22",
+      "balance": "172638773660413717742",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xf4D0fF8b2734C4272C2a966fe3aB1E4ec7755500",
+      "balance": "165528123233371392043",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x3B0e9D16bbF05C6b259EB646DAc0CE133452Be9B",
+      "balance": "161770885163132948780",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xbb35E448aa94a2a89C904F6EB30ca8715F9df41a",
+      "balance": "145595333280058082919",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0xaE0AaC60458D1f66EEBF0d7E4371DC442EaA1079",
+      "balance": "140594197181717983531",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x38D3132C3735041684A6B1298c0422770e25401b",
+      "balance": "140465685991976024657",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x62587f50fF5B4108923db3A8785be7e02d9745Ed",
+      "balance": "140000279891191394291",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xA2E006703d6760dAc405De863C44A9E5FBE55984",
+      "balance": "137529488525786947158",
+      "is_verified": false
+    },
+    {
+      "name": "StoryHuntClaim",
+      "address": "0xa2d750Be40F7a910B2C02996E410918Db74292Fc",
+      "balance": "136812128714579073196",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 71
+}

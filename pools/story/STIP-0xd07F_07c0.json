@@ -1,0 +1,55 @@
+{
+  "token": {
+    "address": "0xd07Faed671decf3C5A6cc038dAD97c8EFDb507c0",
+    "name": "Staked IP",
+    "symbol": "STIP",
+    "decimals": 18,
+    "total_supply": "1316827312333274947485245",
+    "total_supply_formatted": "1316827.31233"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0xcC5C7794c51489c524adbF01917616fa008b24D4",
+      "balance": "1200000000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x3191De9B71687Cf1f964b8ABDa7BdC8f1d5c5580",
+      "balance": "28862577134517054366772",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x15701E58038AFB06C4416A74C50eE8DF2A0c0B42",
+      "balance": "20069938774204077871609",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x402B4Dadd7eD67c08f98f30C7b8C975a03063a42",
+      "balance": "3423638002577695246492",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x11398E96496D92B32A10004a1ce8549186E8c672",
+      "balance": "897800921038499538944",
+      "is_verified": true
+    },
+    {
+      "name": "StakedIP",
+      "address": "0x6269da41fe0Ae6576Db4fC745f36401581375907",
+      "balance": "9696677050148546060",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x738E7a21d2294E3682CcF523B4d5DD10673E42d8",
+      "balance": "1178468557816783121",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 7
+}

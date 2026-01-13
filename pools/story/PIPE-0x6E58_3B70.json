@@ -1,0 +1,12 @@
+{
+  "token": {
+    "address": "0x6E5847Ae61fA7D85E08f1c0B7678587dEfC63B70",
+    "name": "PipeCoin",
+    "symbol": "PIPE",
+    "decimals": 18,
+    "total_supply": "420069000000000000000000000000",
+    "total_supply_formatted": "420069000000.00000"
+  },
+  "contract_holders": [],
+  "total_contract_holders": 0
+}

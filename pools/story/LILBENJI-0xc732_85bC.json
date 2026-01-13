@@ -1,0 +1,55 @@
+{
+  "token": {
+    "address": "0xc732227dfF21E35f01089961fb4f191c8ACd85bC",
+    "name": "Lil Benji",
+    "symbol": "LILBENJI",
+    "decimals": 18,
+    "total_supply": "998548053678663887276571420",
+    "total_supply_formatted": "998548053.67866"
+  },
+  "contract_holders": [
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x0Ff29729750d53F1C711E603FaE9eb5EfC172790",
+      "balance": "933569281123203165087551711",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x81336266Ba5F26B8AFf7d2b2A2305F52A39292b2",
+      "balance": "30727621278838937804344231",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0x812A064e044A24f42CeB96A19a5740c04E13ccBe",
+      "balance": "1980865787665680927730049",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xd0EFb8Cd4c7a3Eefe823Fe963af9661D8F0CB745",
+      "balance": "1452019367984024634835905",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE246d419efa83AC80bbcAC8c23D357eecFc424Af",
+      "balance": "811013943475232121835816",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0xB57dF99244c8BF5BF46627cCd17e2fee2aC363DA",
+      "balance": "500000000750000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "PiperXswap V2",
+      "address": "0xdE7592AE71533Eb8Ce02BE13a250fDC6017F069a",
+      "balance": "48740279706330644301049",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 7
+}

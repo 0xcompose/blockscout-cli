@@ -1,0 +1,67 @@
+{
+  "token": {
+    "address": "0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
+    "name": "Stargate Bridged WETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "total_supply": "36241506000000000000",
+    "total_supply_formatted": "36.24150"
+  },
+  "contract_holders": [
+    {
+      "name": "MultiSigWalletWithTimelock",
+      "address": "0x97D52E1610b4eF673A10584bE5855ada4e7F1f44",
+      "balance": "8000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x3DD013fdDF4dAa3b642A1538E274d85e8E54AE8b",
+      "balance": "1626014142006736496",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x9dFF955668f79a7fcB7396d244822257Fa409cD9",
+      "balance": "1052877420183527234",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x0012dC8daEd76fd687b51aD6A4683aa151d3d59D",
+      "balance": "331632055000175367",
+      "is_verified": true
+    },
+    {
+      "name": "RelayDepository",
+      "address": "0x4cD00E387622C35bDDB9b4c962C136462338BC31",
+      "balance": "282352887574112961",
+      "is_verified": true
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x84386055F90E898E8636e318a3ABf4ad672b51DF",
+      "balance": "240919987510626258",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x2e65dEb500C8c5bf7eb92B4b23581BCf09F30117",
+      "balance": "164296348621738034",
+      "is_verified": true
+    },
+    {
+      "name": "PiperXswap V2",
+      "address": "0x1bD56a4Eb84E3EA57EFA35526c15f8b50C17F41D",
+      "balance": "75849878953357094",
+      "is_verified": false
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x1aa44CBcB153063E4e50172Fee6E2a9e881a574D",
+      "balance": "54014509371278494",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 9
+}

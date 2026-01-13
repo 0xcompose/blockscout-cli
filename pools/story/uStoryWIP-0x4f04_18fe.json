@@ -1,0 +1,25 @@
+{
+  "token": {
+    "address": "0x4f040Fb0847d595BC48C00173132a64881b418fe",
+    "name": "Unleash Story WIP",
+    "symbol": "uStoryWIP",
+    "decimals": 18,
+    "total_supply": "1296768887808991838017220",
+    "total_supply_formatted": "1296768.88780"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x6677881d945BFD12195B0d51A82B7Ae93A5b5c90",
+      "balance": "845823749189746273833167",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0407A78061c6b3fe31414e8BADfB0b92F09ef0D8",
+      "balance": "10416590871563703063554",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 2
+}

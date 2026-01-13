@@ -1,0 +1,19 @@
+{
+  "token": {
+    "address": "0xa9651875651Ff7F303605C23EF5c20C8f7BE8266",
+    "name": "Unleash Story USDC",
+    "symbol": "uStoryUSDC",
+    "decimals": 6,
+    "total_supply": "1652716787621",
+    "total_supply_formatted": "1652716.78762"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x0407A78061c6b3fe31414e8BADfB0b92F09ef0D8",
+      "balance": "18056651386",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 1
+}

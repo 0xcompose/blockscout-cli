@@ -1,0 +1,121 @@
+{
+  "token": {
+    "address": "0x2f7f07691615188b07Ea8198cF47A8BB11A3f2fc",
+    "name": "Drip Drip by Music",
+    "symbol": "DRIP",
+    "decimals": 18,
+    "total_supply": "1000000000000000000000000000",
+    "total_supply_formatted": "1000000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "PiperXswap V2",
+      "address": "0x48C5d816058E75bE4A7c6FE5FC2A8a0df06f47eF",
+      "balance": "14099535347746868107097979",
+      "is_verified": false
+    },
+    {
+      "name": "PiperXswap V2",
+      "address": "0x7353A7Bbb3125415FeA08617c9B1b5FD8C250916",
+      "balance": "1584726000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Drip Drip by Music",
+      "address": "0x2f7f07691615188b07Ea8198cF47A8BB11A3f2fc",
+      "balance": "1127670885380338074426509",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x42F1f4DA9d3BC8f62566c3f884040418D8de6794",
+      "balance": "956162000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xeB24DF24a42b57f6507CFc5BE0649a1E9eF90d22",
+      "balance": "830415000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x44A522B45a3b48BA9d02717d2A3D1B18575845E0",
+      "balance": "815789000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xCd63d3eccdB73BE742ebBdaC34faaf7Bf0F0B8C5",
+      "balance": "754634000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3AA36937112d68B8299D57942a19dd530BE4884c",
+      "balance": "656088000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x579b944f09660e10689643bdd577fC08Ed03bFf3",
+      "balance": "633835000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2E51328Ffed8B825dF9ee76fBAF707A22763FB88",
+      "balance": "595743000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc051376d4026fFa1BBaD021a9Cc11feFa92D8655",
+      "balance": "588974000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x04EaD857EC720B47aAc4cb145c3651bDd058Ad08",
+      "balance": "478018000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x8c977E92566d61e9bB3c60F5cEbc82790EDc09Fb",
+      "balance": "474078000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xA8C6deebb3cBfc907c392a0a2Cc6B398F367B1BE",
+      "balance": "459081000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5c35608EA0E1E79E65a43C07acf84f619bd90065",
+      "balance": "458803000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x71F1B3DCAF2e4931772E22d9b4e43f1f0f604e82",
+      "balance": "455293000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1C287806446d43839fcF2588f5be3eCE1b5047E9",
+      "balance": "455062000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB6E8A2A75E28858D7302E5Eef3f7451E3F570168",
+      "balance": "448536000000000000000000",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 18
+}

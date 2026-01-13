@@ -1,0 +1,25 @@
+{
+  "token": {
+    "address": "0xFb43F133FCf988E49C53008Befe9Ab4E4Ae9DC89",
+    "name": "WIPE",
+    "symbol": "WP",
+    "decimals": 18,
+    "total_supply": "1000000000000001000000000",
+    "total_supply_formatted": "1000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66",
+      "balance": "1000000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "D3xVaultStorage",
+      "address": "0xeEfAc39a45B99B8f2996c0c951a97cec420629de",
+      "balance": "1000000000000000000000",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}

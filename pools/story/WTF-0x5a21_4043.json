@@ -1,0 +1,25 @@
+{
+  "token": {
+    "address": "0x5a212776066b81e449fE74396cCe368Dc4b14043",
+    "name": "WhatTheFreg",
+    "symbol": "WTF",
+    "decimals": 18,
+    "total_supply": "1000000000000000000000000000",
+    "total_supply_formatted": "1000000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "WTFClaimVault",
+      "address": "0x55fb4076Eeb0AC46971C9e83BaFBf5977eCf20eE",
+      "balance": "607649492917397170400000000",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0xa079689B9d9534dadC6afA3E4D543C866b2BFc01",
+      "balance": "224263965900945594312545120",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}
