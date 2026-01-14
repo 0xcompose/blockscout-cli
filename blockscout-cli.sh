@@ -210,7 +210,9 @@ Custom Host:
 
 Commands:
   token <address>           Get token info
-  tokens [type]            Get list of tokens (optional: ERC-20, ERC-721, ERC-1155)
+  tokens [type]            Get list of tokens
+                           Types: ERC-20, ERC-721, ERC-1155 (use hyphen!)
+                           Multiple: ERC-20,ERC-721
   holders <token>          Get token holders
   tx <hash>                Get transaction details
   transfers <hash>         Get token transfers in transaction
@@ -230,8 +232,14 @@ Examples:
   # Get first 100 holders only
   $0 --paginate --limit 100 holders 0x...
 
+  # Get all ERC-20 tokens (note the hyphen!)
+  $0 tokens ERC-20
+  
   # Get all ERC-20 tokens on Optimism
   $0 optimism tokens ERC-20
+  
+  # Get only NFTs (ERC-721)
+  $0 tokens ERC-721
 
   # Use custom BlockScout instance (base URL or full API path)
   $0 https://www.storyscan.io token 0x...
