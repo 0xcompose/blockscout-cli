@@ -3,6 +3,7 @@
     "address": "0xb5461c1FD0312Cd4bF037058F8a391e6A42F9639",
     "name": "Staked Aria Premier Launch",
     "symbol": "STAPL",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "7582900182532671920891995",
     "total_supply_formatted": "7582900.18253"
@@ -11,13 +12,13 @@
     {
       "name": "UniswapV3Pool",
       "address": "0x517CEDB3592e35f582893Ae1812E8607Db5DEd5D",
-      "balance": "442195657367924971267794",
+      "balance": "442231028322766660614782",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0x1c763a27a0f66ea692CEe68456a451aCFAd16EB0",
-      "balance": "255531485138157103958111",
+      "balance": "255495996008334626376151",
       "is_verified": true
     },
     {

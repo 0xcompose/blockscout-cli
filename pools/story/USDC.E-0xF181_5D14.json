@@ -3,6 +3,7 @@
     "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
     "name": "Stargate Bridged USDC",
     "symbol": "USDC.E",
+    "type": "ERC-20",
     "decimals": 6,
     "total_supply": "2417146533707",
     "total_supply_formatted": "2417146.53370"
@@ -11,13 +12,13 @@
     {
       "name": "UniswapV3Pool",
       "address": "0x4a170A20Dd1ff838C99d49Ac18b517a339206E83",
-      "balance": "346090488277",
+      "balance": "324680942184",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0xc56c1bE28a22CED0270A4D2F45753d2b6300c1Ae",
-      "balance": "339381310278",
+      "balance": "315908749892",
       "is_verified": true
     },
     {
@@ -29,25 +30,31 @@
     {
       "name": null,
       "address": "0x555CE236C0220695b68341bc48C68d52210cC35b",
-      "balance": "116173407870",
+      "balance": "114368043811",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x0AC011eb02a44D3FD7Ad2e837a9f5a330913Af13",
+      "balance": "44366239348",
+      "is_verified": false
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66",
+      "balance": "29757238074",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0xFD061584f1F88F24fe11Dfa12B9D283afe2FC9F8",
-      "balance": "17225984219",
+      "balance": "17224260459",
       "is_verified": true
     },
     {
       "name": "UniswapV3Pool",
       "address": "0x444862d9bB70d193E0b9B6DE91F79D603A74f9Eb",
-      "balance": "16704821457",
-      "is_verified": true
-    },
-    {
-      "name": "TransparentUpgradeableProxy",
-      "address": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66",
-      "balance": "12717096349",
+      "balance": "13418554601",
       "is_verified": true
     },
     {
@@ -77,26 +84,20 @@
     {
       "name": "UniswapV3Pool",
       "address": "0x3DD013fdDF4dAa3b642A1538E274d85e8E54AE8b",
-      "balance": "3119468620",
-      "is_verified": true
-    },
-    {
-      "name": "UniswapV3Pool",
-      "address": "0xB6A137017A2414Ecb7De6F0599581d1Ab9C3ADE3",
-      "balance": "2806355121",
+      "balance": "3612131893",
       "is_verified": true
     },
     {
       "name": null,
       "address": "0x9D157268B8d3B02e2BBf75A1aefa2b1cFFcB9ed8",
-      "balance": "2780897095",
+      "balance": "3141748791",
       "is_verified": false
     },
     {
-      "name": null,
-      "address": "0x8D7CF32690dD5a6F99F2670029f65c7765aC20aB",
-      "balance": "2735988287",
-      "is_verified": false
+      "name": "UniswapV3Pool",
+      "address": "0xB6A137017A2414Ecb7De6F0599581d1Ab9C3ADE3",
+      "balance": "2806230118",
+      "is_verified": true
     },
     {
       "name": "SafeProxy",
@@ -111,11 +112,17 @@
       "is_verified": false
     },
     {
+      "name": null,
+      "address": "0x8D7CF32690dD5a6F99F2670029f65c7765aC20aB",
+      "balance": "1903282871",
+      "is_verified": false
+    },
+    {
       "name": "SafetyBoxStorage",
       "address": "0xbA6Ef62dbC64A136362aec11fd3596f7c5e8A8eD",
       "balance": "1806711551",
       "is_verified": true
     }
   ],
-  "total_contract_holders": 18
+  "total_contract_holders": 19
 }

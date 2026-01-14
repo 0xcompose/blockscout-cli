@@ -3,6 +3,7 @@
     "address": "0xd1b2D3Df51c3E5a22b09993354B8717e3a7E4D3b",
     "name": "Zazu",
     "symbol": "ZAZU",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "999120031194707908667346534",
     "total_supply_formatted": "999120031.19470"
@@ -11,15 +12,9 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x41F10BBa8BfE320b3dD1db930cE30ccbf63AE976",
-      "balance": "66942985277687586643429433",
-      "is_verified": true
-    },
-    {
-      "name": "ERC1967Proxy",
-      "address": "0x81336266Ba5F26B8AFf7d2b2A2305F52A39292b2",
-      "balance": "16837993827160493827161070",
+      "balance": "67360030525753239370008262",
       "is_verified": true
     }
   ],
-  "total_contract_holders": 2
+  "total_contract_holders": 1
 }

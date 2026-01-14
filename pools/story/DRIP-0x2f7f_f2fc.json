@@ -3,6 +3,7 @@
     "address": "0x2f7f07691615188b07Ea8198cF47A8BB11A3f2fc",
     "name": "Drip Drip by Music",
     "symbol": "DRIP",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "1000000000000000000000000000",
     "total_supply_formatted": "1000000000.00000"
@@ -11,7 +12,7 @@
     {
       "name": "PiperXswap V2",
       "address": "0x48C5d816058E75bE4A7c6FE5FC2A8a0df06f47eF",
-      "balance": "14099535347746868107097979",
+      "balance": "14099409295418203491725502",
       "is_verified": false
     },
     {
@@ -23,7 +24,7 @@
     {
       "name": "Drip Drip by Music",
       "address": "0x2f7f07691615188b07Ea8198cF47A8BB11A3f2fc",
-      "balance": "1127670885380338074426509",
+      "balance": "1127796937709002689798986",
       "is_verified": false
     },
     {

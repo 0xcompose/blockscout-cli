@@ -3,6 +3,7 @@
     "address": "0x5a212776066b81e449fE74396cCe368Dc4b14043",
     "name": "WhatTheFreg",
     "symbol": "WTF",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "1000000000000000000000000000",
     "total_supply_formatted": "1000000000.00000"
@@ -17,7 +18,7 @@
     {
       "name": "UniswapV3Pool",
       "address": "0xa079689B9d9534dadC6afA3E4D543C866b2BFc01",
-      "balance": "224263965900945594312545120",
+      "balance": "224291293464868123447871299",
       "is_verified": true
     }
   ],

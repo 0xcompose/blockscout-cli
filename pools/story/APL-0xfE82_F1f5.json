@@ -3,6 +3,7 @@
     "address": "0xfE82012eCcE57a188E5f9f3fC1Cb2D335C58F1f5",
     "name": "Aria Premier Launch",
     "symbol": "APL",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "10815757974772065576306503",
     "total_supply_formatted": "10815757.97477"
@@ -11,49 +12,49 @@
     {
       "name": "ERC1967Proxy",
       "address": "0x73d600Db8E7bea28a99AED83c2B62a7Ea35ac477",
-      "balance": "8014758581329924038410100",
+      "balance": "8015674304469408105187852",
       "is_verified": true
     },
     {
       "name": "UniswapV3Pool",
       "address": "0xB6A137017A2414Ecb7De6F0599581d1Ab9C3ADE3",
-      "balance": "620213397493758488590537",
+      "balance": "620213794092604047281049",
       "is_verified": true
     },
     {
       "name": "UniswapV3Pool",
       "address": "0x517CEDB3592e35f582893Ae1812E8607Db5DEd5D",
-      "balance": "573180890107142452339145",
+      "balance": "573143656620462576288350",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0x1c763a27a0f66ea692CEe68456a451aCFAd16EB0",
-      "balance": "320916074009926331300961",
+      "balance": "320953468992585220533438",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0xaaB8353DAb066A1bFd3A097d96EC7cBdce1BC231",
-      "balance": "198715421075728741158772",
+      "balance": "198768768749998288327813",
       "is_verified": true
     },
     {
       "name": null,
       "address": "0x62d52D53d3F8D84340ECD6884753480054ab0b8A",
-      "balance": "61762557608083490228870",
+      "balance": "62470389773237344777640",
       "is_verified": false
     },
     {
       "name": "UniswapV3Pool",
       "address": "0x436195478400ECE0014BD5c8A8c3fa7a27095245",
-      "balance": "41422321504832092390166",
+      "balance": "41959006972940404406469",
       "is_verified": true
     },
     {
       "name": "ERC1967Proxy",
       "address": "0x27134E6dfa1Bd4e91F096Bac0e47Af9dede1769A",
-      "balance": "10091363660487873591201",
+      "balance": "9176604354345686883946",
       "is_verified": true
     },
     {
@@ -65,7 +66,7 @@
     {
       "name": null,
       "address": "0xD1972A8cf69a669606F6C7ECe6B4bAC0F495FEe7",
-      "balance": "347375740574297245021",
+      "balance": "347342126248815385472",
       "is_verified": false
     },
     {

@@ -3,6 +3,7 @@
     "address": "0x855bD6a8c5046D97C4E063e90e40f0F010D5423a",
     "name": "MUSIC by Virtuals",
     "symbol": "MUSIC",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "154865885010806132492712636",
     "total_supply_formatted": "154865885.01080"
@@ -11,19 +12,19 @@
     {
       "name": "PiperXswap V2",
       "address": "0xdD268BbAc5A3F861F5f798C02e0A043a5AdA6546",
-      "balance": "142422757774896385973561696",
+      "balance": "140888934494004777569896293",
       "is_verified": false
     },
     {
       "name": "PiperXswap V2",
       "address": "0x48C5d816058E75bE4A7c6FE5FC2A8a0df06f47eF",
-      "balance": "4308044957258693572813039",
+      "balance": "4308094986846082992786883",
       "is_verified": false
     },
     {
       "name": "TransparentUpgradeableProxy",
       "address": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
-      "balance": "918243496980797615122280",
+      "balance": "921901510120634097384800",
       "is_verified": true
     },
     {

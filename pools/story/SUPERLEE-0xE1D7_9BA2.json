@@ -3,6 +3,7 @@
     "address": "0xE1D79D90551F8dDEF1904887629c6f3f89f39BA2",
     "name": "SUPERLEE",
     "symbol": "SUPERLEE",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "992078254960579023987083193",
     "total_supply_formatted": "992078254.96057"
@@ -11,7 +12,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x548C5f4870189f00534325961E4571993fC82Aa8",
-      "balance": "564118465144788286351059329",
+      "balance": "564092348382499925292866537",
       "is_verified": true
     },
     {

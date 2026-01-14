@@ -3,6 +3,7 @@
     "address": "0x1A925792D2dAbAdDc52FC929A2F1E3225Bcfa611",
     "name": "ZOO Token",
     "symbol": "ZOO",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "1000000000000000000000000000",
     "total_supply_formatted": "1000000000.00000"
@@ -11,7 +12,7 @@
     {
       "name": "PiperXswap V2",
       "address": "0x65c53A48795450f3579CE7d4081a99cd9C9ab1DA",
-      "balance": "202120121839331551537079197",
+      "balance": "202120204747974564053572416",
       "is_verified": false
     }
   ],

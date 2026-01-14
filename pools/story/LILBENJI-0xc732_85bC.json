@@ -3,6 +3,7 @@
     "address": "0xc732227dfF21E35f01089961fb4f191c8ACd85bC",
     "name": "Lil Benji",
     "symbol": "LILBENJI",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "998548053678663887276571420",
     "total_supply_formatted": "998548053.67866"
@@ -11,7 +12,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x0Ff29729750d53F1C711E603FaE9eb5EfC172790",
-      "balance": "933569281123203165087551711",
+      "balance": "933566591832119094694653607",
       "is_verified": true
     },
     {
@@ -29,7 +30,7 @@
     {
       "name": "ERC1967Proxy",
       "address": "0xd0EFb8Cd4c7a3Eefe823Fe963af9661D8F0CB745",
-      "balance": "1452019367984024634835905",
+      "balance": "1453369085947505201801784",
       "is_verified": true
     },
     {

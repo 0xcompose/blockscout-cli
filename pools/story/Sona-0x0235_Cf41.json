@@ -3,6 +3,7 @@
     "address": "0x02353a3BD5c9668159cF9Fd54AC61b03212FCf41",
     "name": "Sona",
     "symbol": "Sona",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "999814661354347656607604339",
     "total_supply_formatted": "999814661.35434"
@@ -11,7 +12,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x8Cb0A60ADc920fD5ae8AEC1775F231D3cB3004Ea",
-      "balance": "110778958822638816438117840",
+      "balance": "110778795804316564655354924",
       "is_verified": true
     },
     {

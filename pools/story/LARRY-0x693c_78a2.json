@@ -3,6 +3,7 @@
     "address": "0x693c7AcF65e52C71bAFE555Bc22d69cB7f8a78a2",
     "name": "Evil Larry",
     "symbol": "LARRY",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "998402272371736786186246578",
     "total_supply_formatted": "998402272.37173"
@@ -11,7 +12,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x50457749f101c38d8c979f9b2136d2EcBd8C2441",
-      "balance": "27019926666210603955895702",
+      "balance": "28281071619925247404455325",
       "is_verified": true
     }
   ],

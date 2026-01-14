@@ -3,6 +3,7 @@
     "address": "0x6029271383FA08F3d416419284346C5948f87247",
     "name": "Ippy",
     "symbol": "IPPY",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "1000000000000000000000000000000",
     "total_supply_formatted": "1000000000000.00000"

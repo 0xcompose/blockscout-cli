@@ -3,6 +3,7 @@
     "address": "0xA074AcA68eeB6c831A78c84606F3CB44F9E547f5",
     "name": "Louie",
     "symbol": "LOUIE",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "998754107196843641544922103",
     "total_supply_formatted": "998754107.19684"
@@ -11,7 +12,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x8C5E86e77fF6bEA838A049C1210F735472fD0Ebb",
-      "balance": "54908922847444354966176468",
+      "balance": "54544616754918655030181051",
       "is_verified": true
     },
     {

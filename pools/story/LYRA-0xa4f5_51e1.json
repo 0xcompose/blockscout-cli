@@ -3,27 +3,28 @@
     "address": "0xa4f5c615f72DDeB2220471694ffF1c0c3dE051e1",
     "name": "LYRA",
     "symbol": "LYRA",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "625764116500315901743930307",
     "total_supply_formatted": "625764116.50031"
   },
   "contract_holders": [
     {
-      "name": "StoryHuntV3Pool",
-      "address": "0x14181b8a908E7b0Eb53adacb9949584783a28D51",
-      "balance": "7021091886490548325285186",
-      "is_verified": true
-    },
-    {
       "name": "PiperXswap V2",
       "address": "0x5827B9B2E155393347735CE93BCCBEA2b610304d",
-      "balance": "7017953782292217387029485",
+      "balance": "6873911224011296216126754",
       "is_verified": false
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x14181b8a908E7b0Eb53adacb9949584783a28D51",
+      "balance": "6871166568496362107598731",
+      "is_verified": true
     },
     {
       "name": "UniswapV3Pool",
       "address": "0x551e457Af1A96797d8A495c2499CDF74FC1F5C76",
-      "balance": "879001445245732442107",
+      "balance": "860907929072244824026",
       "is_verified": true
     }
   ],

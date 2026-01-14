@@ -3,6 +3,7 @@
     "address": "0x25F9c9715d1D700A50B2a9A06D80FE9f98CcB549",
     "name": "BENJAMIN",
     "symbol": "BENJI",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "1000000000000000000000000000",
     "total_supply_formatted": "1000000000.00000"
@@ -11,7 +12,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0xFD061584f1F88F24fe11Dfa12B9D283afe2FC9F8",
-      "balance": "283053881751703137450219845",
+      "balance": "283079182509903213613486034",
       "is_verified": true
     },
     {

@@ -3,6 +3,7 @@
     "address": "0xa9651875651Ff7F303605C23EF5c20C8f7BE8266",
     "name": "Unleash Story USDC",
     "symbol": "uStoryUSDC",
+    "type": "ERC-20",
     "decimals": 6,
     "total_supply": "1652716787621",
     "total_supply_formatted": "1652716.78762"

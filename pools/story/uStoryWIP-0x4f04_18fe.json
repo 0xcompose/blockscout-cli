@@ -3,6 +3,7 @@
     "address": "0x4f040Fb0847d595BC48C00173132a64881b418fe",
     "name": "Unleash Story WIP",
     "symbol": "uStoryWIP",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "1296768887808991838017220",
     "total_supply_formatted": "1296768.88780"

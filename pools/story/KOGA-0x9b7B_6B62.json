@@ -3,6 +3,7 @@
     "address": "0x9b7B7218e2db914Fea97985c00Ac983A773e6B62",
     "name": "KOGA",
     "symbol": "KOGA",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "1000000000000000000000000000",
     "total_supply_formatted": "1000000000.00000"
@@ -11,7 +12,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x97c26FCb4A0Af26e4E2a577349f6E151b287ecCE",
-      "balance": "948732978208580829645083743",
+      "balance": "948657313013309414369384638",
       "is_verified": true
     },
     {

@@ -3,6 +3,7 @@
     "address": "0x2460E95F24bBd21d1FBA27A751970c2455e9D7E9",
     "name": "IP Exchange",
     "symbol": "IPX",
+    "type": "ERC-20",
     "decimals": 18,
     "total_supply": "100000000000000000000000000",
     "total_supply_formatted": "100000000.00000"
