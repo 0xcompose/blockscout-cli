@@ -13,6 +13,12 @@ mkdir -p $OUTPUT_DIR
 TOTAL_TOKENS=$(jq 'length' "$TOKENS_FILE")
 
 echo "Processing $TOTAL_TOKENS tokens..."
+echo ""
+
+# ANSI color codes
+GREY='\033[90m'
+GREEN='\033[32m'
+RESET='\033[0m'
 
 # Loop through all tokens
 jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
@@ -23,7 +29,7 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
     
     # Skip non-fungible tokens (ERC-721, ERC-1155)
     if [[ "$TOKEN_TYPE" == "ERC-721" ]] || [[ "$TOKEN_TYPE" == "ERC-1155" ]]; then
-        echo "Skipping NFT: $TOKEN_NAME ($TOKEN_SYMBOL) - $TOKEN_TYPE"
+        echo -e "$TOKEN_NAME ($TOKEN_SYMBOL) - $TOKEN_ADDRESS - ${GREY}[SKIPPED] - $TOKEN_TYPE${RESET}"
         continue
     fi
     TOKEN_DECIMALS=$(jq -r '.decimals // "0"' <<< "$TOKEN")
@@ -52,8 +58,6 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
     FILENAME="${TOKEN_SYMBOL}-${ADDRESS_PREFIX}.json"
     FILEPATH="$OUTPUT_DIR/$FILENAME"
     
-    echo "Processing: $TOKEN_NAME ($TOKEN_SYMBOL) - $TOKEN_ADDRESS"
-    
     # Fetch contract holders
     CONTRACT_HOLDERS=$(./blockscout-cli.sh $SCANNER_URL --paginate --limit $LIMIT holders $TOKEN_ADDRESS 2>/dev/null | jq '[.[] | select(.address.is_contract == true)]' 2>/dev/null)
     
@@ -64,7 +68,7 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
     # Skip tokens with no contract holders
     HOLDERS_COUNT=$(echo "$CONTRACT_HOLDERS" | jq 'length')
     if [ "$HOLDERS_COUNT" -eq 0 ]; then
-        echo "Skipping: $TOKEN_NAME ($TOKEN_SYMBOL) - No contract holders"
+        echo -e "$TOKEN_NAME ($TOKEN_SYMBOL) - $TOKEN_ADDRESS - ${GREY}[SKIPPED] - No contract holders${RESET}"
         continue
     fi
     
@@ -97,8 +101,7 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
             total_contract_holders: ($holders | length)
         }' > "$FILEPATH"
     
-    echo "  → Saved to: $FILEPATH ($(jq '.total_contract_holders' "$FILEPATH") contract holders)"
-    echo ""
+    echo -e "$TOKEN_NAME ($TOKEN_SYMBOL) - $TOKEN_ADDRESS - ${GREEN}[SUCCESS]${RESET}"
 done
 
 echo "Done! All results saved to $OUTPUT_DIR directory"
