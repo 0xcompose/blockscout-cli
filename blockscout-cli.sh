@@ -9,9 +9,6 @@ set -e
 PAGINATE=false
 LIMIT=""
 
-# Default network
-NETWORK="eth"
-
 # Network resolver function
 get_network_host() {
     case "$1" in
@@ -27,33 +24,49 @@ get_network_host() {
     esac
 }
 
-# Check if first arg is a network name or custom host
-if [[ "$1" =~ ^https?:// ]]; then
-    # Custom host URL provided
-    HOST="$1"
-    # Ensure URL ends with /api/v2
-    if [[ ! "$HOST" =~ /api/v2/?$ ]]; then
-        HOST="${HOST%/}/api/v2"  # Remove trailing slash if any, then add /api/v2
-    fi
-    shift
+# Check for help command first (doesn't require network)
+if [ "$1" = "help" ] || [ "$1" = "--help" ] || [ "$1" = "-h" ]; then
+    COMMAND="help"
+    HOST=""  # Help doesn't need a host
 else
-    # Try known network names
-    FIRST_ARG_HOST=$(get_network_host "$1")
-    if [ -n "$FIRST_ARG_HOST" ]; then
-        NETWORK="$1"
-        HOST="$FIRST_ARG_HOST"
+    # Network or host is REQUIRED for all other commands
+    if [ -z "$1" ]; then
+        echo "Error: Network or host URL is required" >&2
+        echo "" >&2
+        echo "Usage: $0 <network|url> [options] <command> [args...]" >&2
+        echo "" >&2
+        echo "Available networks: eth, arbitrum, optimism, polygon, gnosis, base" >&2
+        echo "Or provide a custom host: https://your-blockscout.com" >&2
+        echo "" >&2
+        echo "Examples:" >&2
+        echo "  $0 https://www.storyscan.io tokens" >&2
+        echo "  $0 eth tokens ERC-20" >&2
+        echo "  $0 arbitrum --paginate holders 0x..." >&2
+        echo "" >&2
+        echo "For full help, run: $0 help" >&2
+        exit 1
+    fi
+    
+    if [[ "$1" =~ ^https?:// ]]; then
+        # Custom host URL provided
+        HOST="$1"
+        # Ensure URL ends with /api/v2
+        if [[ ! "$HOST" =~ /api/v2/?$ ]]; then
+            HOST="${HOST%/}/api/v2"  # Remove trailing slash if any, then add /api/v2
+        fi
         shift
     else
-        # Use default network
-        HOST=$(get_network_host "$NETWORK")
+        # Try known network names
+        HOST=$(get_network_host "$1")
+        if [ -n "$HOST" ]; then
+            shift
+        else
+            echo "Error: Unknown network '$1'" >&2
+            echo "Available networks: eth, arbitrum, optimism, polygon, gnosis, base" >&2
+            echo "Or provide a custom host: https://your-blockscout.com" >&2
+            exit 1
+        fi
     fi
-fi
-
-if [ -z "$HOST" ]; then
-    echo "Error: Unknown network '$NETWORK'" >&2
-    echo "Available networks: eth, arbitrum, optimism, polygon, gnosis, base" >&2
-    echo "Or provide a custom host: https://your-blockscout.com/api/v2" >&2
-    exit 1
 fi
 
 # Parse flags
@@ -193,15 +206,14 @@ case "$COMMAND" in
 BlockScout CLI - Retrieve data from BlockScout explorers
 
 Usage:
-  $0 [network|host] [--paginate|--all] [--limit N] <command> [args...]
+  $0 <network|host> [--paginate|--all] [--limit N] <command> [args...]
 
 Options:
   --paginate, --all    Fetch all pages automatically
   --limit N           Limit total results to N items
 
-Networks:
+Networks (REQUIRED):
   eth, arbitrum, optimism, polygon, gnosis, base
-  (default: eth)
 
 Custom Host:
   You can also provide a custom BlockScout URL:
@@ -220,36 +232,36 @@ Commands:
   address <address>        Get address/account info
 
 Examples:
-  # Get WETH token on Ethereum
-  $0 token 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+  # Get WETH token on Ethereum (network is REQUIRED)
+  $0 eth token 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
 
   # Get transaction on Arbitrum
   $0 arbitrum tx 0x...
 
-  # Get all token holders across all pages
-  $0 --paginate holders 0x...
+  # Get all token holders on Story network
+  $0 https://www.storyscan.io --paginate holders 0x...
 
   # Get first 100 holders only
-  $0 --paginate --limit 100 holders 0x...
+  $0 eth --paginate --limit 100 holders 0x...
 
-  # Get all ERC-20 tokens (note the hyphen!)
-  $0 tokens ERC-20
+  # Get all ERC-20 tokens on Ethereum (note the hyphen!)
+  $0 eth tokens ERC-20
   
   # Get all ERC-20 tokens on Optimism
   $0 optimism tokens ERC-20
   
-  # Get only NFTs (ERC-721)
-  $0 tokens ERC-721
+  # Get only NFTs (ERC-721) on Story network
+  $0 https://www.storyscan.io tokens ERC-721
 
   # Use custom BlockScout instance (base URL or full API path)
   $0 https://www.storyscan.io token 0x...
   $0 https://custom-chain.blockscout.com/api/v2 token 0x...
 
-  # Pipe with jq
-  $0 address 0x... | jq '.coin_balance'
+  # Pipe with jq (network always required!)
+  $0 eth address 0x... | jq '.coin_balance'
   
   # Get all holders and filter top 10 by balance
-  $0 --paginate holders 0x... | jq 'sort_by(.value | tonumber) | reverse | .[0:10]'
+  $0 eth --paginate holders 0x... | jq 'sort_by(.value | tonumber) | reverse | .[0:10]'
 EOF
         ;;
     *)
