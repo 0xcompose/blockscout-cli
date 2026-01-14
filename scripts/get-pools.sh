@@ -61,6 +61,13 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
         CONTRACT_HOLDERS="[]"
     fi
     
+    # Skip tokens with no contract holders
+    HOLDERS_COUNT=$(echo "$CONTRACT_HOLDERS" | jq 'length')
+    if [ "$HOLDERS_COUNT" -eq 0 ]; then
+        echo "Skipping: $TOKEN_NAME ($TOKEN_SYMBOL) - No contract holders"
+        continue
+    fi
+    
     # Build JSON output
     jq -n \
         --arg address "$TOKEN_ADDRESS" \
