@@ -5,14 +5,14 @@
     "symbol": "LILBENJI",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "998548053678663887276571420",
-    "total_supply_formatted": "998548053.67866"
+    "total_supply": "998546599811908234088016865",
+    "total_supply_formatted": "998546599.81190"
   },
   "contract_holders": [
     {
       "name": "StoryHuntV3Pool",
       "address": "0x0Ff29729750d53F1C711E603FaE9eb5EfC172790",
-      "balance": "933566591832119094694653607",
+      "balance": "933566028771067816459261271",
       "is_verified": true
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "ERC1967Proxy",
       "address": "0xd0EFb8Cd4c7a3Eefe823Fe963af9661D8F0CB745",
-      "balance": "1453369085947505201801784",
+      "balance": "1453400188091765911983494",
       "is_verified": true
     },
     {

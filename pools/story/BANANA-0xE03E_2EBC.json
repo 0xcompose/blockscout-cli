@@ -1,0 +1,32 @@
+{
+  "token": {
+    "address": "0xE03Eb531d71955DA277a58075bf7a9cA7B222EBC",
+    "name": "Banana Party",
+    "symbol": "BANANA",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "994582605083529105901419163",
+    "total_supply_formatted": "994582605.08352"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x0943551632DeB8840412A836eeD3Ca284E08A74d",
+      "balance": "933759756533663716907164124",
+      "is_verified": false
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x81336266Ba5F26B8AFf7d2b2A2305F52A39292b2",
+      "balance": "30000000000000000000000457",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xd0EFb8Cd4c7a3Eefe823Fe963af9661D8F0CB745",
+      "balance": "61593070042547120454438",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 3
+}

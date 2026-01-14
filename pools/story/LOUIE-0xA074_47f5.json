@@ -5,14 +5,14 @@
     "symbol": "LOUIE",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "998754107196843641544922103",
-    "total_supply_formatted": "998754107.19684"
+    "total_supply": "998753662124863716754830576",
+    "total_supply_formatted": "998753662.12486"
   },
   "contract_holders": [
     {
       "name": "StoryHuntV3Pool",
       "address": "0x8C5E86e77fF6bEA838A049C1210F735472fD0Ebb",
-      "balance": "54544616754918655030181051",
+      "balance": "54543054865196026832629964",
       "is_verified": true
     },
     {

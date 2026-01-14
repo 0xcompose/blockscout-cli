@@ -5,20 +5,20 @@
     "symbol": "WIP",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "684894054237500444188533",
-    "total_supply_formatted": "684894.05423"
+    "total_supply": "673357492350393853928342",
+    "total_supply_formatted": "673357.49235"
   },
   "contract_holders": [
     {
       "name": "UniswapV3Pool",
       "address": "0x4a170A20Dd1ff838C99d49Ac18b517a339206E83",
-      "balance": "92745780419797215722140",
+      "balance": "91896986014661088196553",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0xc56c1bE28a22CED0270A4D2F45753d2b6300c1Ae",
-      "balance": "87753315163112957055539",
+      "balance": "86866957833238815491493",
       "is_verified": true
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "UniswapV3Pool",
       "address": "0xB1C4EA6C1c00567Da188eE0CFa8300185580B1a9",
-      "balance": "40682833105839211840513",
+      "balance": "40682819319451068752545",
       "is_verified": true
     },
     {
@@ -54,7 +54,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x50457749f101c38d8c979f9b2136d2EcBd8C2441",
-      "balance": "27245732101915436062485",
+      "balance": "27248734234892463741089",
       "is_verified": true
     },
     {
@@ -70,16 +70,16 @@
       "is_verified": true
     },
     {
-      "name": "StoryHuntV3Pool",
-      "address": "0x8C5E86e77fF6bEA838A049C1210F735472fD0Ebb",
-      "balance": "14224599734190425997721",
-      "is_verified": true
-    },
-    {
       "name": null,
       "address": "0x0AC011eb02a44D3FD7Ad2e837a9f5a330913Af13",
-      "balance": "13829638598107963384861",
+      "balance": "15134493748718234198665",
       "is_verified": false
+    },
+    {
+      "name": "StoryHuntV3Pool",
+      "address": "0x8C5E86e77fF6bEA838A049C1210F735472fD0Ebb",
+      "balance": "14225032942829000635088",
+      "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
@@ -90,7 +90,7 @@
     {
       "name": "UniswapV3Pool",
       "address": "0x444862d9bB70d193E0b9B6DE91F79D603A74f9Eb",
-      "balance": "8287439489736405100233",
+      "balance": "8187394910540996504858",
       "is_verified": true
     },
     {
@@ -102,13 +102,13 @@
     {
       "name": null,
       "address": "0x5A4cFFa1ea84ff371736de20e61F3e437c9a67EC",
-      "balance": "6451386387430944275933",
+      "balance": "6362123985077571660619",
       "is_verified": false
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0xe028Ff98908f55f8548568E92078b80Ecbf5BDC8",
-      "balance": "5633018723480853655767",
+      "balance": "5632457877565181246741",
       "is_verified": true
     },
     {
@@ -162,19 +162,19 @@
     {
       "name": "PiperXswap V2",
       "address": "0x5827B9B2E155393347735CE93BCCBEA2b610304d",
-      "balance": "2086171648575943572719",
+      "balance": "2086172729959298077965",
       "is_verified": false
     },
     {
       "name": "PoolManager",
       "address": "0x170e0C91ffa71dc3c16d43f754b3AECe688470c8",
-      "balance": "1192033677538996269817",
+      "balance": "1192126767994943255507",
       "is_verified": true
     },
     {
       "name": "UniswapV3Pool",
       "address": "0x7d2958199C61017D0E51A0376aCbD3347a3e9736",
-      "balance": "1132101618601547377660",
+      "balance": "1107366014847459469184",
       "is_verified": true
     },
     {
@@ -222,13 +222,13 @@
     {
       "name": "UniswapV3Pool",
       "address": "0x9dFF955668f79a7fcB7396d244822257Fa409cD9",
-      "balance": "792431584009842933488",
+      "balance": "792107132251706400754",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0xC7Cc67B2300d475F66E7fb21E04507E0E4839693",
-      "balance": "762241507411101812659",
+      "balance": "762238892623068245372",
       "is_verified": true
     },
     {
@@ -330,7 +330,7 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x84386055F90E898E8636e318a3ABf4ad672b51DF",
-      "balance": "233965145393220633557",
+      "balance": "233364860416569960149",
       "is_verified": true
     },
     {

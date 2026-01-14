@@ -1,0 +1,20 @@
+{
+  "token": {
+    "address": "0x677D154c0bfD7D4A87fB7068E12182DbCd1cd023",
+    "name": "UCF",
+    "symbol": "UCF Finance",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "3934640807529653757542400000",
+    "total_supply_formatted": "3934640807.52965"
+  },
+  "contract_holders": [
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66",
+      "balance": "87138895062901002947203",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 1
+}

@@ -1,0 +1,20 @@
+{
+  "token": {
+    "address": "0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
+    "name": "Bridged stgUSDT",
+    "symbol": "USDT",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "3253374297",
+    "total_supply_formatted": "3253.37429"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x0848F4AE872545C901D3325AEFf09F0fa8952AfC",
+      "balance": "729820000",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 1
+}

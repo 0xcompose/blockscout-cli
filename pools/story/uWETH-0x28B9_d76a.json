@@ -1,0 +1,26 @@
+{
+  "token": {
+    "address": "0x28B931354098D6863817dFDce7A2D7c52B25d76a",
+    "name": "Unleash Story WETH",
+    "symbol": "uWETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "935229362282966570160",
+    "total_supply_formatted": "935.22936"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x0407A78061c6b3fe31414e8BADfB0b92F09ef0D8",
+      "balance": "365208775956852",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe3227d15179DFf5f8d7334eEeAc0b7e496614250",
+      "balance": "18310361744505",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 2
+}

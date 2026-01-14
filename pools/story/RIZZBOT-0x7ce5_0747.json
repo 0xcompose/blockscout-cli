@@ -1,18 +1,18 @@
 {
   "token": {
-    "address": "0x543374350269CCe6651358769512875FAA4cCcFf",
-    "name": "IPPY",
-    "symbol": "IPPY",
+    "address": "0x7ce5314DeA0420E4d3F5aef9Cf93A277Fa0b0747",
+    "name": "Rizzbot",
+    "symbol": "RIZZBOT",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "990354751989457366602034213",
-    "total_supply_formatted": "990354751.98945"
+    "total_supply": "998727219932523471624468264",
+    "total_supply_formatted": "998727219.93252"
   },
   "contract_holders": [
     {
       "name": "StoryHuntV3Pool",
-      "address": "0xe028Ff98908f55f8548568E92078b80Ecbf5BDC8",
-      "balance": "121941199825366614587928158",
+      "address": "0x97dF160F71C565C8f4106a432546720dC918C16e",
+      "balance": "935108311263829635155144188",
       "is_verified": true
     },
     {
@@ -24,7 +24,7 @@
     {
       "name": "ERC1967Proxy",
       "address": "0xd0EFb8Cd4c7a3Eefe823Fe963af9661D8F0CB745",
-      "balance": "4443102777384840665823601",
+      "balance": "523837025296813305126432",
       "is_verified": true
     }
   ],

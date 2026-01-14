@@ -1,0 +1,32 @@
+{
+  "token": {
+    "address": "0x3Bb7Dc96832f8F98B8Aa2e9f2cC88A111f96a118",
+    "name": "BT APL",
+    "symbol": "BT-APL",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "163350127910402919996675",
+    "total_supply_formatted": "163350.12791"
+  },
+  "contract_holders": [
+    {
+      "name": "PoolManager",
+      "address": "0x86187670773779434120BF4446FD34C2EC999cFf",
+      "balance": "159212135724040492805018",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xe0467098b7351d1C07959A19f845523576Acb001",
+      "balance": "4040504494281443874299",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xF7b56A4eC71c3CCe8907F5C27b74aC8bf8e3D044",
+      "balance": "12548884448096014826",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 3
+}

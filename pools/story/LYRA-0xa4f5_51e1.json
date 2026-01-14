@@ -5,14 +5,14 @@
     "symbol": "LYRA",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "625764116500315901743930307",
-    "total_supply_formatted": "625764116.50031"
+    "total_supply": "625470123951785933681537101",
+    "total_supply_formatted": "625470123.95178"
   },
   "contract_holders": [
     {
       "name": "PiperXswap V2",
       "address": "0x5827B9B2E155393347735CE93BCCBEA2b610304d",
-      "balance": "6873911224011296216126754",
+      "balance": "6873908978046788150254573",
       "is_verified": false
     },
     {

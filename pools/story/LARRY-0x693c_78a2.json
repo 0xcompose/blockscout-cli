@@ -5,14 +5,14 @@
     "symbol": "LARRY",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "998402272371736786186246578",
-    "total_supply_formatted": "998402272.37173"
+    "total_supply": "998399246662226160992703348",
+    "total_supply_formatted": "998399246.66222"
   },
   "contract_holders": [
     {
       "name": "StoryHuntV3Pool",
       "address": "0x50457749f101c38d8c979f9b2136d2EcBd8C2441",
-      "balance": "28281071619925247404455325",
+      "balance": "28277742134941717544796887",
       "is_verified": true
     }
   ],

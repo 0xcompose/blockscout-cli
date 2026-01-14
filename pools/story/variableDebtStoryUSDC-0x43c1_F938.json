@@ -1,0 +1,20 @@
+{
+  "token": {
+    "address": "0x43c19B3d7dF59CA773C5B41F867eb957bDf2F938",
+    "name": "Unleash Story Variable Debt USDC",
+    "symbol": "variableDebtStoryUSDC",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "1131106810283",
+    "total_supply_formatted": "1131106.81028"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x6677881d945BFD12195B0d51A82B7Ae93A5b5c90",
+      "balance": "694758797586",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 1
+}

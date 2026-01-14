@@ -1,0 +1,20 @@
+{
+  "token": {
+    "address": "0xc1667cabb1D4A1cABDE4cfE13BCEa543244489de",
+    "name": "Unleash Story vIP",
+    "symbol": "uStoryvIP",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "13556352073268754809212",
+    "total_supply_formatted": "13556.35207"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x0407A78061c6b3fe31414e8BADfB0b92F09ef0D8",
+      "balance": "23687622999732519490",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 1
+}

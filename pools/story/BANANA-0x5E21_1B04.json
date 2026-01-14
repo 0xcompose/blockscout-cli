@@ -1,0 +1,26 @@
+{
+  "token": {
+    "address": "0x5E21Fd0d8397c272479f1541F68c2428f8bd1B04",
+    "name": "Banana",
+    "symbol": "BANANA",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "996718750949152771705874967",
+    "total_supply_formatted": "996718750.94915"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0x08C2790921ad5a3C1A989957A44Cbdd716bc4178",
+      "balance": "935562723837321601230718450",
+      "is_verified": false
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x81336266Ba5F26B8AFf7d2b2A2305F52A39292b2",
+      "balance": "30000000000000000000000457",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}

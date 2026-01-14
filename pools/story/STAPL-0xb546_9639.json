@@ -5,14 +5,14 @@
     "symbol": "STAPL",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "7582900182532671920891995",
-    "total_supply_formatted": "7582900.18253"
+    "total_supply": "7582901094327815445727758",
+    "total_supply_formatted": "7582901.09432"
   },
   "contract_holders": [
     {
       "name": "UniswapV3Pool",
       "address": "0x517CEDB3592e35f582893Ae1812E8607Db5DEd5D",
-      "balance": "442231028322766660614782",
+      "balance": "442231038629086894811717",
       "is_verified": true
     },
     {

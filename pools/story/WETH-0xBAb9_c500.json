@@ -5,8 +5,8 @@
     "symbol": "WETH",
     "type": "ERC-20",
     "decimals": 18,
-    "total_supply": "36241506000000000000",
-    "total_supply_formatted": "36.24150"
+    "total_supply": "36240800000000000000",
+    "total_supply_formatted": "36.24080"
   },
   "contract_holders": [
     {
@@ -18,13 +18,13 @@
     {
       "name": "UniswapV3Pool",
       "address": "0x3DD013fdDF4dAa3b642A1538E274d85e8E54AE8b",
-      "balance": "1474153546496876487",
+      "balance": "1473034389796973045",
       "is_verified": true
     },
     {
       "name": "UniswapV3Pool",
       "address": "0x9dFF955668f79a7fcB7396d244822257Fa409cD9",
-      "balance": "1044278479553097905",
+      "balance": "1044636445144320648",
       "is_verified": true
     },
     {
@@ -36,13 +36,13 @@
     {
       "name": "StoryHuntV3Pool",
       "address": "0x0012dC8daEd76fd687b51aD6A4683aa151d3d59D",
-      "balance": "278365246759665114",
+      "balance": "275266256203594061",
       "is_verified": true
     },
     {
       "name": "StoryHuntV3Pool",
       "address": "0x84386055F90E898E8636e318a3ABf4ad672b51DF",
-      "balance": "226429410914167548",
+      "balance": "227091699459632555",
       "is_verified": true
     },
     {
@@ -60,7 +60,7 @@
     {
       "name": "PiperXswap V2",
       "address": "0x1bD56a4Eb84E3EA57EFA35526c15f8b50C17F41D",
-      "balance": "69886867113912552",
+      "balance": "70189127439727451",
       "is_verified": false
     },
     {
