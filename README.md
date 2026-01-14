@@ -22,7 +22,7 @@ Simple bash scripts that output JSON for easy piping with Unix utilities like `j
 **Commands:**
 
 -   `token <address>` - Get token info
--   `tokens [type]` - Get list of tokens
+-   `tokens [type]` - Get list of tokens (types: `ERC-20`, `ERC-721`, `ERC-1155`)
 -   `holders <token>` - Get token holders
 -   `tx <hash>` - Get transaction details
 -   `transfers <hash>` - Get token transfers in transaction
@@ -61,6 +61,12 @@ Simple bash scripts that output JSON for easy piping with Unix utilities like `j
 
 # Get first 100 holders only
 ./blockscout-cli.sh --paginate --limit 100 holders 0x... | jq '.[] | .address.hash'
+
+# Get only ERC-20 tokens (note the hyphen!)
+./blockscout-cli.sh --paginate tokens ERC-20 > erc20-tokens.json
+
+# Get only NFTs
+./blockscout-cli.sh --paginate tokens ERC-721 | jq 'length'
 ```
 
 ### Using Individual Scripts
