@@ -9,10 +9,11 @@ Simple bash scripts that output JSON for easy piping with Unix utilities like `j
 ### Unified CLI (Recommended)
 
 ```bash
-./blockscout-cli.sh [network] [--paginate] [--limit N] <command> [args...]
+./blockscout-cli.sh <network|url> [--paginate] [--limit N] <command> [args...]
 ```
 
-**Supported Networks:** `eth`, `arbitrum`, `optimism`, `polygon`, `gnosis`, `base`
+**Supported Networks (REQUIRED):** `eth`, `arbitrum`, `optimism`, `polygon`, `gnosis`, `base`
+Or provide a custom URL: `https://your-blockscout.com`
 
 **Pagination Options:**
 
@@ -44,8 +45,8 @@ Simple bash scripts that output JSON for easy piping with Unix utilities like `j
 ### Using Unified CLI
 
 ```bash
-# Get WETH token info on Ethereum
-./blockscout-cli.sh token 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 | jq '{name, symbol}'
+# Get WETH token info on Ethereum (network is REQUIRED)
+./blockscout-cli.sh eth token 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 | jq '{name, symbol}'
 
 # Get transaction on Arbitrum
 ./blockscout-cli.sh arbitrum tx 0x... | jq '.status'
@@ -53,20 +54,23 @@ Simple bash scripts that output JSON for easy piping with Unix utilities like `j
 # Get token holders on Optimism
 ./blockscout-cli.sh optimism holders 0x... | jq '.items | length'
 
-# Get address balance with jq
-./blockscout-cli.sh address 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045 | jq -r '.coin_balance'
+# Get address balance with jq (network always required!)
+./blockscout-cli.sh eth address 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045 | jq -r '.coin_balance'
 
-# Get ALL token holders (auto-pagination)
-./blockscout-cli.sh --paginate holders 0x... | jq 'length'
+# Use Story network with custom URL
+./blockscout-cli.sh https://www.storyscan.io tokens ERC-20 | jq 'length'
+
+# Get ALL token holders on Ethereum (auto-pagination)
+./blockscout-cli.sh eth --paginate holders 0x... | jq 'length'
 
 # Get first 100 holders only
-./blockscout-cli.sh --paginate --limit 100 holders 0x... | jq '.[] | .address.hash'
+./blockscout-cli.sh eth --paginate --limit 100 holders 0x... | jq '.[] | .address.hash'
 
-# Get only ERC-20 tokens (note the hyphen!)
-./blockscout-cli.sh --paginate tokens ERC-20 > erc20-tokens.json
+# Get only ERC-20 tokens on Story network (note the hyphen!)
+./blockscout-cli.sh https://www.storyscan.io --paginate tokens ERC-20 > erc20-tokens.json
 
-# Get only NFTs
-./blockscout-cli.sh --paginate tokens ERC-721 | jq 'length'
+# Get only NFTs on Ethereum
+./blockscout-cli.sh eth --paginate tokens ERC-721 | jq 'length'
 ```
 
 ### Using Individual Scripts
