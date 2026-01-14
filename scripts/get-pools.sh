@@ -1,11 +1,11 @@
 #!/bin/bash
 
-STORY_SCAN="https://www.storyscan.io"
 LIMIT="${1:-100}"
 TOKENS_FILE="${2:-tokens.json}"
 OUTPUT_DIR="${3:-pools}"
+SCANNER_URL="${4:-https://www.storyscan.io}"
 
-
+ 
 # Create pools directory if it doesn't exist
 mkdir -p $OUTPUT_DIR
 
@@ -19,11 +19,31 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
     TOKEN_ADDRESS=$(jq -r '.address_hash' <<< "$TOKEN")
     TOKEN_NAME=$(jq -r '.name' <<< "$TOKEN")
     TOKEN_SYMBOL=$(jq -r '.symbol' <<< "$TOKEN")
-    TOKEN_DECIMALS=$(jq -r '.decimals' <<< "$TOKEN")
-    TOKEN_SUPPLY=$(jq -r '.total_supply' <<< "$TOKEN")
+    TOKEN_TYPE=$(jq -r '.type // "ERC-20"' <<< "$TOKEN")
+    
+    # Skip non-fungible tokens (ERC-721, ERC-1155)
+    if [[ "$TOKEN_TYPE" == "ERC-721" ]] || [[ "$TOKEN_TYPE" == "ERC-1155" ]]; then
+        echo "Skipping NFT: $TOKEN_NAME ($TOKEN_SYMBOL) - $TOKEN_TYPE"
+        continue
+    fi
+    TOKEN_DECIMALS=$(jq -r '.decimals // "0"' <<< "$TOKEN")
+    TOKEN_SUPPLY=$(jq -r '.total_supply // "0"' <<< "$TOKEN")
+    
+    # Handle null values for NFTs
+    if [ "$TOKEN_DECIMALS" = "null" ] || [ -z "$TOKEN_DECIMALS" ]; then
+        TOKEN_DECIMALS="0"
+    fi
+    
+    if [ "$TOKEN_SUPPLY" = "null" ] || [ -z "$TOKEN_SUPPLY" ]; then
+        TOKEN_SUPPLY="0"
+    fi
     
     # Calculate supply in decimals
-    TOKEN_SUPPLY_IN_DECIMALS=$(echo "scale=5; $TOKEN_SUPPLY / 10^$TOKEN_DECIMALS" | bc 2>/dev/null || echo "0")
+    if [ "$TOKEN_DECIMALS" != "0" ] && [ "$TOKEN_SUPPLY" != "0" ]; then
+        TOKEN_SUPPLY_IN_DECIMALS=$(echo "scale=5; $TOKEN_SUPPLY / 10^$TOKEN_DECIMALS" | bc 2>/dev/null || echo "$TOKEN_SUPPLY")
+    else
+        TOKEN_SUPPLY_IN_DECIMALS="$TOKEN_SUPPLY"
+    fi
     
     # Get address prefix (first and last 4 chars after 0x)
     ADDRESS_PREFIX=$(echo "$TOKEN_ADDRESS" | cut -c 1-6)_$(echo "$TOKEN_ADDRESS" | tail -c 5)
@@ -35,7 +55,7 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
     echo "Processing: $TOKEN_NAME ($TOKEN_SYMBOL) - $TOKEN_ADDRESS"
     
     # Fetch contract holders
-    CONTRACT_HOLDERS=$(./blockscout-cli.sh $STORY_SCAN --paginate --limit $LIMIT holders $TOKEN_ADDRESS 2>/dev/null | jq '[.[] | select(.address.is_contract == true)]' 2>/dev/null)
+    CONTRACT_HOLDERS=$(./blockscout-cli.sh $SCANNER_URL --paginate --limit $LIMIT holders $TOKEN_ADDRESS 2>/dev/null | jq '[.[] | select(.address.is_contract == true)]' 2>/dev/null)
     
     if [ -z "$CONTRACT_HOLDERS" ] || [ "$CONTRACT_HOLDERS" = "null" ]; then
         CONTRACT_HOLDERS="[]"
@@ -46,6 +66,7 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
         --arg address "$TOKEN_ADDRESS" \
         --arg name "$TOKEN_NAME" \
         --arg symbol "$TOKEN_SYMBOL" \
+        --arg token_type "$TOKEN_TYPE" \
         --arg decimals "$TOKEN_DECIMALS" \
         --arg supply "$TOKEN_SUPPLY" \
         --arg supply_formatted "$TOKEN_SUPPLY_IN_DECIMALS" \
@@ -55,7 +76,8 @@ jq -c '.[]' "$TOKENS_FILE" | while read -r TOKEN; do
                 address: $address,
                 name: $name,
                 symbol: $symbol,
-                decimals: ($decimals | tonumber),
+                type: $token_type,
+                decimals: (if $decimals == "null" then null else ($decimals | tonumber) end),
                 total_supply: $supply,
                 total_supply_formatted: $supply_formatted
             },
