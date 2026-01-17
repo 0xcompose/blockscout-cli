@@ -15,10 +15,9 @@ Simple bash scripts that output JSON for easy piping with Unix utilities like `j
 **Supported Networks (REQUIRED):** `eth`, `arbitrum`, `optimism`, `polygon`, `gnosis`, `base`
 Or provide a custom URL: `https://your-blockscout.com`
 
-**Pagination Options:**
+**Options:**
 
--   `--paginate` or `--all` - Automatically fetch all pages
--   `--limit N` - Limit total results to N items
+-   `--limit N` - Limit total results to N items, default: 50 (first page)
 
 **Commands:**
 
