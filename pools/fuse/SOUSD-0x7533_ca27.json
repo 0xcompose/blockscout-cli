@@ -1,0 +1,674 @@
+{
+  "token": {
+    "address": "0x75333830E7014e909535389a6E5b0C02aA62ca27",
+    "name": "Solid USD (soUSD)",
+    "symbol": "SOUSD",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "326691755585",
+    "total_supply_formatted": "326691.75558"
+  },
+  "contract_holders": [
+    {
+      "name": "SafeProxy",
+      "address": "0x000acC8042eA362149ce2b2709Fc497B6505634E",
+      "balance": "168140260036",
+      "is_verified": true
+    },
+    {
+      "name": "FastWithdrawManager",
+      "address": "0x0bA17eab7B6B2353eA4731c37A2cBA2a5AA4Ea1b",
+      "balance": "8966584576",
+      "is_verified": true
+    },
+    {
+      "name": "CardDepositManager",
+      "address": "0x22BBc13D022735f2586d4eb04a93f0F4E0173E50",
+      "balance": "5980569759",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x32C391Dbc0E40B5edeF450227FAeBF187133d67b",
+      "balance": "5510276931",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE37C4B6F0D38011Cd0DD838Bf9785733E576A52c",
+      "balance": "4295040325",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xC1746e492447108380ba492d031b4D6F57D1f046",
+      "balance": "2957116378",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xFAd5c5872A6431bF4E2fe7e1Edc35f65e78b2d87",
+      "balance": "2932272605",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c",
+      "balance": "1649628228",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab",
+      "balance": "1397320376",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xC176024f290DA3CD1f86C5c270f577e56d7F5428",
+      "balance": "1167661444",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x0bB65a4C4387e49523B3Cc74077506AB875B7131",
+      "balance": "1116599232",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x6c77f03Da865cb5C8d8CFDF084F2ED34dCa0165F",
+      "balance": "1108514264",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x32e86Ba38e8E408213b16A1dBfb184c44951Be30",
+      "balance": "1100182955",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x26673F0F397bff390d33122db75287409Fd4dC0C",
+      "balance": "1025811100",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x78D41f3800bA6d1E696c811aaa26c6DD497AC3Db",
+      "balance": "921370186",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae",
+      "balance": "401685060",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xcE93b223a519bcc922306Bdec29008797CE97d68",
+      "balance": "221992827",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5272400d38b605A9126edF4D55088F99643FBbA6",
+      "balance": "167576621",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xF1182e5B892da590dcDDA70d01C033c81a7634a8",
+      "balance": "165960411",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x5c37974c13BbD5897281F42C035B2431606CCCD8",
+      "balance": "161005113",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xB733E7870378b6Abc49fA1c19FdFC1229011B9a2",
+      "balance": "160458070",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x173E23241c977AB9bd1bd33648CfAb22D300b423",
+      "balance": "158521352",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xfed36f89B8Cbb0e76e13DA457DF4610790867926",
+      "balance": "149737090",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xf852a56f063AA4dbd6A6e061FC79E9e8c8B30720",
+      "balance": "147489473",
+      "is_verified": true
+    },
+    {
+      "name": "Aave Fuse SoUSD",
+      "address": "0xeb1017EFa183397F90C6D0d8a890a0cb7fC81632",
+      "balance": "141198639",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf230F1E0C889352FAbdAe716FE317a53e7De5b6f",
+      "balance": "124452745",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xD5faD6A8494268419a61bb84E7C4EcA9d2459C4C",
+      "balance": "121077774",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x6D3b13b72BcB1Db56Cd6d13874F1431C14c240f5",
+      "balance": "117963057",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x763B6493e8892D1Cf83c7A66d81Aa3E2F33d35E2",
+      "balance": "117482157",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x65d403850A69D185074C5c3011aEc8E270e1d956",
+      "balance": "115832689",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x64426C97D0A6ba6130CecB39c5C9F413f5C12C58",
+      "balance": "115648529",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xe2667F60D66ca51cC356a1fDa1F34c9f75de7Eb2",
+      "balance": "115354015",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x97ba8EF2a558674293C33aa7b6709F22b83f25Fd",
+      "balance": "113454086",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x0811A0cE8b63dDF3fE86Da2887F0B74c69ecFeAc",
+      "balance": "112771018",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x81515b5A40daC573085c7dAc7e8C9F0f624309F1",
+      "balance": "112385031",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x15866493649b751deb891D46768cf4FFc485eF9c",
+      "balance": "111515068",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xB3760586d3149fc34e2F77e340aDab05e97ce4CD",
+      "balance": "111480687",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xd8577be9F00e689d5f1e12D4B7B05Aff675a9416",
+      "balance": "111332785",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x6583D694B51B3b8a83D38fcD515886A71341B159",
+      "balance": "111086771",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xE342ab104a6E2A9107c73d283D82C14830c20fC8",
+      "balance": "110680596",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x2dB6B0cB6aE34C7D536aD89f1Ee08E51b7Cf9532",
+      "balance": "109700322",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x4542A22Ab73e4822675FEbbB3acD6e0344FBa54a",
+      "balance": "109681979",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xC93d9528ab32a6eBBe45e2375A776d9569880462",
+      "balance": "109392900",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xB82B83d9BaD937B389823DA90723Ac114B5171e7",
+      "balance": "108115636",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x74534F8c50006fA156071Fb7A3499beB7B60cf13",
+      "balance": "108078256",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xC53cC7280c7010a4FB451DbD0a10904C3BFA6976",
+      "balance": "107689860",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xEb47C8582184e80732768312B89E083A6322F8FB",
+      "balance": "107527478",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xAA2689D2057da2ecf1b4AC409c58c9e19e216D8a",
+      "balance": "106933440",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x7d20E2e0044B3C6Ca5D7042b443237E6bEB79260",
+      "balance": "106747392",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x944cf4eF1755824eB2b172BE7caFEbCbF2f2fD0D",
+      "balance": "105182208",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x64CEE0093571299e621d3d6e17Aab2bD214B12c3",
+      "balance": "101818906",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x9003b90de28D35a970F99412F45e43e9a7267Ec0",
+      "balance": "101770683",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x2006582528A8f920880E99de8FF33a3C3e1d4A60",
+      "balance": "101563994",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x57a0aC786D56a52DB40d66b07cbec900d2ee80Ef",
+      "balance": "101388203",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE99A9A5430e552051DFbe1c98e1D28D3cD816D2e",
+      "balance": "100862726",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x75f9a8D69946B73a5c2EC8b8132c3b710cB9F5Ef",
+      "balance": "100721766",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x4774979779F4b93629bA6be219e2030374e01c9a",
+      "balance": "100535927",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xBB6dad35B7852B8512f92477bC4D285E5422931e",
+      "balance": "97470483",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5bca9Ce13f67A9f2a435288408686C2fb0A8129c",
+      "balance": "96466597",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE46C57918915404A2d170d89E69904F8bd8f12cc",
+      "balance": "72183119",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x5C804c7fea0BdfD74a704217eD741441ad958CeD",
+      "balance": "63134581",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x63A1322D932bE2eaEF381CbAE67Df19867676EFe",
+      "balance": "51941848",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x06F42d855A867c515Cf5E1df63fD0F925549fbBf",
+      "balance": "49536295",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xA10025FaFe26B0FA59593bdFdEe764d49712D6f7",
+      "balance": "49229680",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x176525A0B355878bE67e00BfEbf319BE2D6Fd316",
+      "balance": "49002790",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xAf36D73d66Db60F6654CF1B9C9aB1c6395Be06cC",
+      "balance": "27086447",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x167f9bAF9B6C45370E7C5032557E6500cda37328",
+      "balance": "26087342",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x9Ca01947198291aC6c31bC1B6e6a62d046cDeC85",
+      "balance": "21264506",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x6C7763d2a5d9DA1FeFb364c52E80EFe7Dde110d7",
+      "balance": "20463997",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x4149c1DC1B16F691952cEe68b52B976d2994A61a",
+      "balance": "20330914",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xA72fD59B712B56704A22e167084B3bcEfE27f0f3",
+      "balance": "19571385",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x82088Fd1c71734d895596f363540Fb63A7cAb7e1",
+      "balance": "18693761",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x723073e7Ed27066837677Eb83dCa6Cf2f1d3549b",
+      "balance": "18654385",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xBE37a8fF50c08cf5c6c06a94145d4c99CC4Fe190",
+      "balance": "18280138",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xf316CF1c5255A206d570F2F2ef213A8143d0491A",
+      "balance": "17830501",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xeEE4d0E1ebB2AEEadA6Dd0fc03624694497d709D",
+      "balance": "17790811",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xa70F9cAfB760F6C80661C92a9FCc28306EE0cc5C",
+      "balance": "16998237",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x3fAf7c81aD46D2f5FA36B652FAe7299D00291393",
+      "balance": "15830370",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x441f4A0859e9441894bd44b6D832F66D7Edb1A86",
+      "balance": "15547458",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x23462865e579b03866922bF0Ea6e8940c09e8069",
+      "balance": "15440058",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x79cE8fa5c486E5d2450290F8Cb04D5a624317951",
+      "balance": "14710563",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x29E2802939503587496AD146cf2e7Ad1F7390aBC",
+      "balance": "13894245",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xE43922f69d1513C9d739796973dC4383DfB50Cf4",
+      "balance": "12715904",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9ba73272463C9baF3Ebb4c44B2021DcebF7D53b6",
+      "balance": "12233406",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xeA3874fE5a788d0FCA828ed4FAfADd1245AC4E8a",
+      "balance": "11963736",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraCommunityVault",
+      "address": "0x410698C399A0DB5D9dFbE31f22E53b479DF0Ee7E",
+      "balance": "11876449",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xAadd4bde0f4ED603AF85353b92186FF84DDad322",
+      "balance": "11676668",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x96f78863059c7369eD7886D47e357EbaFBd098d3",
+      "balance": "11098793",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x2a9C991e4f37252e481764B546a46eCeCFd58134",
+      "balance": "11077425",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x40A0f0B491877D89C6B95E7D72f3aFcef9Da21bd",
+      "balance": "11006443",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x51e6271916a0D434B0eEA873Bf68C2f9f7B2e511",
+      "balance": "10817266",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x10367F5AA7AEF62657C15e9E008d5DC61f119c94",
+      "balance": "10769749",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x3607441C26A54dbDB046e4a38E9f0e56c98A7d71",
+      "balance": "10741096",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x4A138a61A6f8515A44Cdd3C589023914FebB32dC",
+      "balance": "10694712",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x5A1024094D9bdA3D8755598B00aBf79b4883802F",
+      "balance": "10693701",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xe61dA2a47Eb97F63f6Ef7564128A9597fc613Aa7",
+      "balance": "10693301",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x0AeE7fDdd90ebb28E63216ba219C3C7c0706aCcB",
+      "balance": "10582594",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x57F208957eBC03f149132e8C358b64c527D156BB",
+      "balance": "10564886",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x6559eD5cB3D7DdAd297e6E54743F9084aCAA70B5",
+      "balance": "10520396",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xC3F9fe74bB638Df5aDca5C707eC57EB7172c5a65",
+      "balance": "10494823",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xBbBB590511f2Be33e4ad10fd78127Ad93DaB3B76",
+      "balance": "10426180",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xd8Ea277Dc3b0FddD5D5b58453D9Fdd44acb3f284",
+      "balance": "10333688",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xf840C430737fE9bE4E93fC9ff70f29C96E90988b",
+      "balance": "10329998",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xD0EE4d5B28A9718A10EBE2b2d7B8dd0B6E20cee8",
+      "balance": "10281047",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x4E45245bb736a1a1Bfb0C37ab6ba01D420aeE5fd",
+      "balance": "10230645",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xe712d7C9E4f12738c6273dE98ba5856f5C18115A",
+      "balance": "10109317",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x000f3a6960DFFf5Fd74c433C3376c505Efe818B2",
+      "balance": "10089963",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xf16ED1ffB7bcd5Fd5c5d4Ed791Fa0325c86B8e1f",
+      "balance": "10088755",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xAC52574332296d991266FaD333d17eCfAD6fd43f",
+      "balance": "10040319",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xc1833A9C4C1B2603f659E7529BA2143acCb094D1",
+      "balance": "9894535",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 110
+}

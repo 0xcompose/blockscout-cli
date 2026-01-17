@@ -1,0 +1,86 @@
+{
+  "token": {
+    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "140165412290950272946",
+    "total_supply_formatted": "140.16541"
+  },
+  "contract_holders": [
+    {
+      "name": "StrategyBifiMaxiV4",
+      "address": "0x24AAaB9DA14308bAf9d670e2a37369FE8Cb5Fe36",
+      "balance": "7928106728088900248",
+      "is_verified": true
+    },
+    {
+      "name": "BeefyRewardPool",
+      "address": "0x60a4DedF7fC45F73d9ca46222B016c2d755C79A8",
+      "balance": "6764853068586143198",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xa563257c766771fb7Db7EEb1045bDC6811bCCE1d",
+      "balance": "1026368081355556584",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xB897906B5bfdd3D993D140F4cEfdC7b8308c6B26",
+      "balance": "7733633502537564",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0xbD8923A4028c5D6b6B8698ad4342104302611914",
+      "balance": "323342501122653",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x0fdfcE2D22a1B8F24F1c5Ad8a0AD94E8619925e8",
+      "balance": "88718429037091",
+      "is_verified": true
+    },
+    {
+      "name": "Voltage LP Token",
+      "address": "0xEB4E2B819e6bfDb2D805aC2c45cc8db391d1E279",
+      "balance": "2056504967",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE65513Fe95F52F4350D2184c2fD722c37e6Fd995",
+      "balance": "19902096",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xD450B67a7F834b2E7E93c601fc59F81D7162AD34",
+      "balance": "1",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xcB266a1CD890a1A962A8f7Ac92Eb0f26A0935Ac4",
+      "balance": "1",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xaD67aa3c53d47f4D06eBbD3e9B1b4Cd460BfE151",
+      "balance": "1",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6B5d4af54b945Bd21711CdA130467d8b29719a2C",
+      "balance": "1",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 12
+}

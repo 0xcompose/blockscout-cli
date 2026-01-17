@@ -1,0 +1,92 @@
+{
+  "token": {
+    "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+    "name": "GoodDollar",
+    "symbol": "$G",
+    "type": "ERC-20",
+    "decimals": 2,
+    "total_supply": "399918619731",
+    "total_supply_formatted": "3999186197.31000"
+  },
+  "contract_holders": [
+    {
+      "name": "GovernanceStaking",
+      "address": "0xB7C3e738224625289C573c54d402E9Be46205546",
+      "balance": "75840872990",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0xCe69892CbDA078BbFAA3E5aE7A4b4d2Bf3E5c412",
+      "balance": "75364527602",
+      "is_verified": true
+    },
+    {
+      "name": "GovernanceStaking",
+      "address": "0xFAF457Fb4A978Be059506F6CD41f9B30fCa753b0",
+      "balance": "2420470218",
+      "is_verified": true
+    },
+    {
+      "name": "OneTimePayments",
+      "address": "0xd9Aa86e0Ddb932bD78ab8c71C1B98F83cF610Bd4",
+      "balance": "1206769519",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x8d441C2Ff54C015A1BE22ad88e5D42EFBEC6C7EF",
+      "balance": "1112210962",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x08fdf766694C353401350c225cAEB9C631dC3288",
+      "balance": "1066858900",
+      "is_verified": true
+    },
+    {
+      "name": "Avatar",
+      "address": "0xf96dADc6D71113F6500e97590760C924dA1eF70e",
+      "balance": "591489782",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xa02ed9Fe9e3351FE2cd1F588B23973C1542dCbCC",
+      "balance": "328384107",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xd253A5203817225e9768C05E5996d642fb96bA86",
+      "balance": "203237159",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x68EAD5CF8AC9F1dd2b29f83D7cCDE5c632096354",
+      "balance": "186073460",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7698E429a308f50aD47DE99659718455CAf2c54e",
+      "balance": "94858137",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x0bf36731724f0bAcEb0748A9E71CD4883B69c533",
+      "balance": "69888895",
+      "is_verified": false
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x633b7218644b83D57d90e7299039ebAb19698e9C",
+      "balance": "56756398",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 13
+}

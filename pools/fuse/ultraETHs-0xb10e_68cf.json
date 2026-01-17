@@ -1,0 +1,26 @@
+{
+  "token": {
+    "address": "0xb10eD6E3810c95a380E4f3e448af1755fa3368cf",
+    "name": "Affine ultraETHs 2.0",
+    "symbol": "ultraETHs",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "94625656701596415",
+    "total_supply_formatted": ".09462"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0x51cC986Df4C54877E0Cd9122532db389cc60016B",
+      "balance": "85603237596702453",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xffff11A9910dad5e16f42D03590666689c0a9151",
+      "balance": "7563895718058006",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}

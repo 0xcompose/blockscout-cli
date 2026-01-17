@@ -1,0 +1,50 @@
+{
+  "token": {
+    "address": "0x117C0419352DDB6FE575A67FAa70315BDc4a93f3",
+    "name": "BNB",
+    "symbol": "BNB",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "21191168845676069653",
+    "total_supply_formatted": "21.19116"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xfdd7FE80f2C9A76D03aAE386fA56850142ef9AF0",
+      "balance": "246658378012065228",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x6f2681897505D6fE52148Ad14e32D00E522bC223",
+      "balance": "226625259305108943",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x4b4a9b994434A7aB2e60715Cf541De0eAa24BaaE",
+      "balance": "224867864765229306",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x56eE525bB9056BeD23A6055E60b2A2C5C225D1db",
+      "balance": "190352646022245758",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0xE988B8f70201597dAAE068a7115Fb2563a48460a",
+      "balance": "138197591865838562",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xAFD7574a1c502293C6c64d06658E5ca8B01b3a21",
+      "balance": "500000000000000",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 6
+}

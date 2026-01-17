@@ -1,0 +1,104 @@
+{
+  "token": {
+    "address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
+    "name": "Bridged USDC  Fuse",
+    "symbol": "USDC",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "63331675731",
+    "total_supply_formatted": "63331.67573"
+  },
+  "contract_holders": [
+    {
+      "name": "AssetProxy",
+      "address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
+      "balance": "10300634009",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5e7D5613f0F39B6A8c23B6082fBE63389D09970F",
+      "balance": "2009954484",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x0CF70c61d6475081209d3C79E2583E0212A1b820",
+      "balance": "764058366",
+      "is_verified": true
+    },
+    {
+      "name": "MasterChefVoltV3",
+      "address": "0xE3e184a7b75D0Ae6E17B58F5283b91B4E0A2604F",
+      "balance": "581150028",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xd6377BdDf5cdB2C020A2607CD49fAa53Fa42f268",
+      "balance": "382341553",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xf48b17a5A78ec385365EC0D6a81B0C51bEeefCf7",
+      "balance": "248000000",
+      "is_verified": false
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xE6FDd1e600a307173c7d854F2DDDca6Ad8E8d808",
+      "balance": "125944747",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x2f9EDc2c334D4D9316E540A7f7BF332cce0d90d1",
+      "balance": "100000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf0b2dE3E606a0e1D9cc9187dDDfA3Da41b3F0b0B",
+      "balance": "54000000",
+      "is_verified": false
+    },
+    {
+      "name": "InitializableImmutableAdminUpgradeabilityProxy",
+      "address": "0x8e4eC003B88c0A00229E31d451A9FD1533266FF1",
+      "balance": "48604759",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xec5b872FD0D423424ee9F31e92a8F709D24B7830",
+      "balance": "32741768",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x6b934B3a08041BE4Fa574C98cDf457296162a63f",
+      "balance": "31958469",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x0cdd2D9B8DDFd748B3E52b8e1dECB8D3fb86ECb3",
+      "balance": "24734303",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xb21261621b93E5328707B1cE94883dd5B8f3D20b",
+      "balance": "20000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xEC166608b4126cbC9F3182133f3fCff69EBe6b4a",
+      "balance": "13929448",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 15
+}

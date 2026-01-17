@@ -1,0 +1,20 @@
+{
+  "token": {
+    "address": "0xC8f3A5FBfA5Eb92134c82D2fDA46415ed3E23d8c",
+    "name": "Won Token",
+    "symbol": "WONT",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "100000000000000000000000000",
+    "total_supply_formatted": "100000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "WonToken",
+      "address": "0xC8f3A5FBfA5Eb92134c82D2fDA46415ed3E23d8c",
+      "balance": "89981120000000000000000000",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 1
+}

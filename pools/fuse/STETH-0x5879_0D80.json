@@ -1,0 +1,38 @@
+{
+  "token": {
+    "address": "0x587983b895dB50dDaBC0Aac8aDC592b29bB30D80",
+    "name": "stETH  Fuse",
+    "symbol": "STETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "40696518833370529",
+    "total_supply_formatted": ".04069"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x1734672003535C1210B7EEF98C26cD2F1298600b",
+      "balance": "36556110424529682",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x2E2EE147b4B0FC2DE1C5745f6244DB318f361923",
+      "balance": "19308027575000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0211214f76e5d3afe27D9E342177beFBCE23AACC",
+      "balance": "4318671350606",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe45366ACB891E530dFF0eC0Bac569C352DBAD14b",
+      "balance": "10484698062",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 4
+}

@@ -1,0 +1,170 @@
+{
+  "token": {
+    "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+    "name": "Dogelon Mars",
+    "symbol": "ELON",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "5204233123296670093680463579",
+    "total_supply_formatted": "5204233123.29667"
+  },
+  "contract_holders": [
+    {
+      "name": "Uniswap V2",
+      "address": "0xe418c323fA450e7e18c4dB304bEFC7ffF92D2Cc1",
+      "balance": "810523265288005190125025515",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xae36429088374022be32Ed1252aF778027cBBfFf",
+      "balance": "28477974064955206558240464",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB9416E6eB52008889584327c334206fD26C29652",
+      "balance": "22164215713672987025635174",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x595C8492725EaBBd50823Fbb1b98AB4288F06C1D",
+      "balance": "19822280887804337223627795",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xCD95c42640DbB6F373dE17beD17b979fa282B9CD",
+      "balance": "8422572024033133442524848",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x22f5F799eE54056B96Ec3fC9577e52e307A2e255",
+      "balance": "7310824114976213590698692",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x3B6973b542b4D962C349D113aC429960e6CC6bC9",
+      "balance": "7281652012997010927751502",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xD25270eD122B59451b98Ca5768277Bf59aC4505c",
+      "balance": "3400473963936727746778047",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2962F1d2C1886314Ab92afE02B7a02331a2E3564",
+      "balance": "3235190507285060350370816",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xA02b0B5C341539b79b38CFAfE7672220237dCCF8",
+      "balance": "2696467652863434464500175",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd45eB441E5A7B05E5a37748bf41B3d74FAcfcc71",
+      "balance": "2520308639009787846286513",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xca953c429d71D94E7f9ACF536f963aEDd22Dbe0c",
+      "balance": "2203079415881037409392188",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x2a7093a38851595e4F52241f226d8eFDF99c13D3",
+      "balance": "1642660949209438129094837",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9B8CBAd3d20656Fe95F209647dB9D45aF3B30fde",
+      "balance": "1584468723891826449526288",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x33D04eeA0575d39db24e871697e12b5Fdf219505",
+      "balance": "1547533199395591968787289",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6E89ce869FE6C6ada91c399A103F55C361C7Ec0C",
+      "balance": "1461675178078629085161485",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB575414cd35346c5716102696AC2b3806f62eA06",
+      "balance": "1411714817727009442883851",
+      "is_verified": false
+    },
+    {
+      "name": "Bribe",
+      "address": "0x6985BEC3a65Da74Ce915270C1BB8998598c4F51F",
+      "balance": "1220000000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xBB421C021EDfab813c56a6fA85a718D443FF4040",
+      "balance": "1014857935414042674997481",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2E2EE147b4B0FC2DE1C5745f6244DB318f361923",
+      "balance": "344090173980510166813833",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9786bEa7084f93b894089b3894Fb7F7CFF92d8a3",
+      "balance": "311337018355303045741212",
+      "is_verified": false
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0x25225C19A7CB84f8B4Abf2E0396560A9a9C5c6D2",
+      "balance": "90304102156345245442623",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x372F6bEf159Fd73e2770B3685BE14B8601a29118",
+      "balance": "79976667542675418437809",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xc18f74645A99779DFAD66A7edB4c731C562D1539",
+      "balance": "75816595984942224732128",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2abf8cd229e984A159e58AF68F693Eae461dA7BD",
+      "balance": "60532886800731001207080",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x5D4c5A2F488338769EF60d1940Ce05a36F21D9a6",
+      "balance": "51332863311888523506966",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 26
+}

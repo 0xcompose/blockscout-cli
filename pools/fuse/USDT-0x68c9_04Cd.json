@@ -1,0 +1,104 @@
+{
+  "token": {
+    "address": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
+    "name": "Fuse Bridged USDT (Fuse)",
+    "symbol": "USDT",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "68411332808",
+    "total_supply_formatted": "68411.33280"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552",
+      "balance": "10205789724",
+      "is_verified": true
+    },
+    {
+      "name": "AssetProxy",
+      "address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
+      "balance": "9488549523",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x7b2161B32E65F8E76F63d6aa2409D93525991c23",
+      "balance": "747218844",
+      "is_verified": true
+    },
+    {
+      "name": "Meridian Market USDT",
+      "address": "0xcf85542F02414f4Ff8888d174B16E27393Bd0AfD",
+      "balance": "285605291",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xd6377BdDf5cdB2C020A2607CD49fAa53Fa42f268",
+      "balance": "167708944",
+      "is_verified": true
+    },
+    {
+      "name": "RewardTracker",
+      "address": "0x6A5a77bA2C711300C217f439DE76843D173eB94F",
+      "balance": "138000000",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x0b31d85A35A06bfddD53F3dA0CD23Cbb33442778",
+      "balance": "108274803",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xB12d593109D41F3649d0Ad834C4D909056428D37",
+      "balance": "103074771",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xf48b17a5A78ec385365EC0D6a81B0C51bEeefCf7",
+      "balance": "36000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5e7D5613f0F39B6A8c23B6082fBE63389D09970F",
+      "balance": "26676998",
+      "is_verified": false
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xe2F9071fA298035A98B40e4Ce8bcF0d845284288",
+      "balance": "25103152",
+      "is_verified": true
+    },
+    {
+      "name": "Fuse Bridged USDT (Fuse)",
+      "address": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
+      "balance": "23500000",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xec5b872FD0D423424ee9F31e92a8F709D24B7830",
+      "balance": "22781050",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x86d1f65D62957B7889ad43D6E2be08381D5e7356",
+      "balance": "18000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xeC585067B2C97495882658783FDdBDAd1fe2B7F5",
+      "balance": "15000000",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 15
+}

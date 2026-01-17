@@ -1,0 +1,140 @@
+{
+  "token": {
+    "address": "0xCC9d144a8a8A1e71D5EC66A13F301b9E0137e71C",
+    "name": "Allbridge Bridged ETH  Fuse",
+    "symbol": "AEETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "945072780244519635",
+    "total_supply_formatted": ".94507"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0x53372C1c30a012c1C4263867bB5e13AafA97Db17",
+      "balance": "898073094630290548",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x9c60DE353f5A21ab3DbFEE149AACcdbDFb71B4a6",
+      "balance": "11275274637764574",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5e7D5613f0F39B6A8c23B6082fBE63389D09970F",
+      "balance": "4045295976033763",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd3326b75850E3913ca9a621a57cB53D65F4Cc07e",
+      "balance": "650570190502720",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xfE3Fc35Ad66E7d5c995CE024df7B0379fE703880",
+      "balance": "253163599611901",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1931e136A82f8bEE44F5CDf9F5E8c7863Dbb8978",
+      "balance": "137077022793457",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb0c80f5980FF932bC0cf7bC8931Cae8f5ecD76eb",
+      "balance": "128089835779417",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3BB6bDaDE505f2EB7678d82CcBaa75Fb22BBF92e",
+      "balance": "109151617247398",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7c1E95d4388D4179168Ee0E407fd2368dD4BAFEb",
+      "balance": "34708206298411",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb08A83388799c11E06dd1464167D6D7937C6f0Ee",
+      "balance": "21515766960094",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x116edC2fD30A752CC265911eF4Bf6281ec6c4F97",
+      "balance": "13572827190903",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xfA762DfE5650649DC3f1a8272c783151Fc98BAF8",
+      "balance": "13175609560391",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x279cE2FAc5738521a740222A186cE11eB6F16bfE",
+      "balance": "12739314055344",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xAb64AC1441B583AaC4db4a250F89D80e676f4f1A",
+      "balance": "10435810421209",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4414B02608E1F53Ff681F45fd34062BdeE5E4207",
+      "balance": "8139036509453",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x06564A8F2CFc96155af5Af5bc7cd65E24a0270a0",
+      "balance": "7520568773512",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x922b65aaa5fBaBD0E03F4F223A5755D11d3e2e17",
+      "balance": "5774057166455",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf9919996f5D0954752B28055F956aae9CE9b8355",
+      "balance": "151215159116",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf1ab82C3B4Ee3E06E1477a9EBfd86d03b314c6Be",
+      "balance": "83382143888",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe45366ACB891E530dFF0eC0Bac569C352DBAD14b",
+      "balance": "10548610193",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd2b37aDE14708bf18904047b1E31F8166d39612b",
+      "balance": "1",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 21
+}

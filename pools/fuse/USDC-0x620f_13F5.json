@@ -1,0 +1,290 @@
+{
+  "token": {
+    "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
+    "name": "Bridged USDC",
+    "symbol": "USDC",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "102708188319",
+    "total_supply_formatted": "102708.18831"
+  },
+  "contract_holders": [
+    {
+      "name": "Proxy",
+      "address": "0xdF558E6813431Ad6Bb10629e1135871d21a64cf8",
+      "balance": "14651753765",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x9f17b1895633E855b8b1C1D0Ade9B3B72EB0590C",
+      "balance": "6592174497",
+      "is_verified": true
+    },
+    {
+      "name": "SwapFlashLoan",
+      "address": "0x2a68D7C6Ea986fA06B2665d08b4D08F5e7aF960c",
+      "balance": "3283538215",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x00E485d833099679eD7D121CE46a9557ea8aDa1e",
+      "balance": "2528366336",
+      "is_verified": false
+    },
+    {
+      "name": "AssetProxy",
+      "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
+      "balance": "2411579238",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x633b7218644b83D57d90e7299039ebAb19698e9C",
+      "balance": "2100000000",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0xba9CA720e314F42E17E80991c1d0AFfE47387108",
+      "balance": "1322228135",
+      "is_verified": false
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x6ae2331Bb919434abBEeCDf9e566c65a19695327",
+      "balance": "1000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Bridged USDC",
+      "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
+      "balance": "919000966",
+      "is_verified": true
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0x9B43Fa973105bF0086C937b6A386c82bdC658082",
+      "balance": "772530978",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xee426625cd619F2c19bD07Ad046d2c8904897Ed6",
+      "balance": "523563674",
+      "is_verified": true
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0xece5875c6b58c12a4572cBAAfEB52f6Ce8fccA76",
+      "balance": "438355269",
+      "is_verified": false
+    },
+    {
+      "name": "TransactionManager",
+      "address": "0x31eFc4AeAA7c39e54A33FDc3C46ee2Bd70ae0A09",
+      "balance": "423962121",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xc79983b0754ac688Bf54939aDd59BDF75916fDA2",
+      "balance": "405701874",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x5C72e7A1574BCB45f99C79411fE2b03b0B42dBBa",
+      "balance": "364716914",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x20a680D69a5aE2677B8CF43aBF63aAD6D8d5119A",
+      "balance": "324204891",
+      "is_verified": false
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x602352A9Eb5234466Eac23E59e7B99bCaE79C39c",
+      "balance": "163302514",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xc310A2893F0d24d7561abE00d363f55cdD2DCd5A",
+      "balance": "126613985",
+      "is_verified": true
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0x206fBD40D3ee73b048a8dADAB5D67C3c4164e80a",
+      "balance": "102561029",
+      "is_verified": false
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0x885f4f3eC02D76B50137050e8779c496FdbdeAEc",
+      "balance": "96106710",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc3E26166e960cFC55812D004761281FFA7c04cCd",
+      "balance": "94365763",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x0bf36731724f0bAcEb0748A9E71CD4883B69c533",
+      "balance": "89651834",
+      "is_verified": false
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0xBc043Bbac892CbdC47fE2671b8F0D6Ec79c6BA08",
+      "balance": "76097777",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5886ECa18fAc6CeB72f423900d738AfEFee962b4",
+      "balance": "69440000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x989635FE487842888002225aD3bd3984C02F6173",
+      "balance": "65245795",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x595C8492725EaBBd50823Fbb1b98AB4288F06C1D",
+      "balance": "65005890",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x56eE525bB9056BeD23A6055E60b2A2C5C225D1db",
+      "balance": "62987375",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x57223bF7b439686876EC4aB55f9560B6bcCc26D4",
+      "balance": "53017357",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x9A44919F7D42aEBce2319700eecDD233A1b29246",
+      "balance": "51000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xe832000F13E46e570Bd1C5Da3Ea4297a48c80503",
+      "balance": "48002928",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x8c7538099a4f5e21752CAd6632f35161800e85C9",
+      "balance": "37803342",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6f2d8F6048517c45eDbCa6C0Bf797391D86ba62c",
+      "balance": "36018340",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x004AfE325578FC6D39533B7c60dcC966da74C659",
+      "balance": "34705342",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xF1Ee283abACffac0d122b366a1bA363aB2f00624",
+      "balance": "29120993",
+      "is_verified": false
+    },
+    {
+      "name": "StrategySushiNativeDualLP",
+      "address": "0xfB678A230E1221608BE3b89dE2035d6d717a2D5e",
+      "balance": "28031397",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x6c8a2d0DAF8F05F058ec906834477B4B75Af90b4",
+      "balance": "27074683",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5aD48e02024B3C6714255338b87Aaa23E41C4231",
+      "balance": "23998684",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa71C5948ccB94F1bc8683060787a14904206C97b",
+      "balance": "23415709",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5e22CDD793D7427ab52D2b876566147Da73a7459",
+      "balance": "23001656",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xC286eccdC79c6119E3a9a171248924A3Cd757A01",
+      "balance": "22004445",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4C9809039a14f35902Fa3c62ff75DE4eeef378E3",
+      "balance": "21999681",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x61CACBcB82CE888B8DdBA6386b9407F2AF7D5C75",
+      "balance": "21983138",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x26Fcc93Bd71a22a37be5EeFb014301D302ec1EC6",
+      "balance": "20959159",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x569fd6019F3B5EBb45366696b509Cea4dCa51fBe",
+      "balance": "20627909",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7167C50e119592314aF11aEbE82e76Be33DB0D67",
+      "balance": "20354855",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xF7c0fA30BC8219d083C007675c0c70Ee807cD3fe",
+      "balance": "19512384",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 46
+}

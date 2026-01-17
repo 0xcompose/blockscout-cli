@@ -1,0 +1,182 @@
+{
+  "token": {
+    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+    "name": "Elk Finance",
+    "symbol": "ELK",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "42424242000000000000000000",
+    "total_supply_formatted": "42424242.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "Reservoir",
+      "address": "0x42424242B0c0d8A19dCD0dF362815E242586354A",
+      "balance": "42240224569597554708600678",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xDe3f38FD15f566416Fe3941b57e1b0A50a9487e1",
+      "balance": "57640577256353349399093",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xfA8546DCb3C8297D9Fe9AaECbB684a1B4F1D9310",
+      "balance": "41023807948253113633306",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa",
+      "balance": "40739197383282424367357",
+      "is_verified": true
+    },
+    {
+      "name": "Elk Liquidity",
+      "address": "0xB08fa1A54AffADF034dE2179C345479f87cE5406",
+      "balance": "18140238656591605599862",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xd7D71e4BC981B50696fa536D330bf745aE563E25",
+      "balance": "6465646134405635223452",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xc1Dc5602Ee4106dE38d2FA9acAaaD2AD51c74bEF",
+      "balance": "2550869503527896113526",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xb1F120578A7589FD9336315C4dF7d5A5d90173A8",
+      "balance": "2163170000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "ElkV2FarmFactory",
+      "address": "0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6",
+      "balance": "1000000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xc67Fa95c89F3E4ADA54cDD6b4A22fAb190E4b8D4",
+      "balance": "523063637911756619547",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x41F4f671D60b876476039F7fa1dfe012E267684d",
+      "balance": "422867945292674976479",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xD465b8c72F5d0A2e795baD9628b839D83a442F41",
+      "balance": "417167937174638221199",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x1EC94B956E4F5Be1d7c871E89FD771B49CEa8946",
+      "balance": "35754409855868338975",
+      "is_verified": false
+    },
+    {
+      "name": "Elk Liquidity",
+      "address": "0xB945ED0F03E92B98bC02B66B69941B3EE69a9b95",
+      "balance": "10370525767371205507",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1A4C3FDcb149453d93c4F9e14FE8d7f85F91eE73",
+      "balance": "1829482708807852266",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x687c0a01d44003691440F82171a7742D26946171",
+      "balance": "1100000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xbfbC315760341f633E36647Cd78d51d70b38272a",
+      "balance": "948097155453589394",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x61b32D4E0B015C6f90c20b7a3273588BB299E19D",
+      "balance": "939142220587065028",
+      "is_verified": false
+    },
+    {
+      "name": "ElkDexV3Pool",
+      "address": "0x04E1c8c9803C6a770A81aFD24bd97fDaEbEC8c5d",
+      "balance": "905621295002202961",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x18C833B31614Ea0165ce9745779B83dFFbe22582",
+      "balance": "849284342208826503",
+      "is_verified": false
+    },
+    {
+      "name": "MultiSigWallet",
+      "address": "0xB917F30BEFf3d2A8dbe3005a95280C533e4704F3",
+      "balance": "800000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraCommunityVault",
+      "address": "0x410698C399A0DB5D9dFbE31f22E53b479DF0Ee7E",
+      "balance": "592340801549542636",
+      "is_verified": true
+    },
+    {
+      "name": "ElkDexV3Pool",
+      "address": "0x1BCc21Aba7Cb50bE94D171d32b3b82728DA04492",
+      "balance": "485249111335842840",
+      "is_verified": true
+    },
+    {
+      "name": "ElkDexV3Pool",
+      "address": "0x670e145B418c1920449c51929B9E08ce540492d6",
+      "balance": "454255364692786314",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x71369B5b632D97fB6c880C40E3faE3CdA605ed7C",
+      "balance": "377092789950331734",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x33e6d19e62BD9F536e9573226b91884E1812BfEc",
+      "balance": "351847000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xA02b0B5C341539b79b38CFAfE7672220237dCCF8",
+      "balance": "146661332185594807",
+      "is_verified": false
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xC5662CC730767C69033B71cf2A14FA1427DCa940",
+      "balance": "49701837473936143",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 28
+}

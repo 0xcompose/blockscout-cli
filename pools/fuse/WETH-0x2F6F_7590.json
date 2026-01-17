@@ -1,0 +1,158 @@
+{
+  "token": {
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "name": "Stargate Bridged WETH (Fuse)",
+    "symbol": "WETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "57386866000000000000",
+    "total_supply_formatted": "57.38686"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6",
+      "balance": "20896124308868004056",
+      "is_verified": true
+    },
+    {
+      "name": "InitializableImmutableAdminUpgradeabilityProxy",
+      "address": "0x0713Ab55bE54f49f2A8ce8A4c4773F732982F791",
+      "balance": "5046501788820772390",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x8c64208F98B00d96dCFcD5Cd7d10C702FFf37e83",
+      "balance": "1994469229854886640",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x51cC986Df4C54877E0Cd9122532db389cc60016B",
+      "balance": "1935773729098320101",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39",
+      "balance": "1629852053892842330",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x53372C1c30a012c1C4263867bB5e13AafA97Db17",
+      "balance": "1114566214551102150",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x8CCe72a402b5f62e0A17715B3c0FEbad7ad2aE05",
+      "balance": "571546812613542749",
+      "is_verified": false
+    },
+    {
+      "name": "SimpleRewarderPerSec",
+      "address": "0x5D029a3EEF9C2d442b6a5812f5aA97e1273e321e",
+      "balance": "500000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault13",
+      "address": "0x86a7C4e398d3330a811051188Df735a7e496a3b9",
+      "balance": "305894094023761220",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992",
+      "balance": "51285074127619572",
+      "is_verified": true
+    },
+    {
+      "name": "PegSwap",
+      "address": "0xFa70dFFeA090fED2d6E9301fB10b0d4C81072E4c",
+      "balance": "7050722576717759",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x9fc0986Fe1b6B67A1ADAEF653CEd1f1D7C62CC88",
+      "balance": "5007805976238780",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0x5fFcEaa947937DE1FEBb28BCa65E84894a55a2EF",
+      "balance": "4010444882452554",
+      "is_verified": true
+    },
+    {
+      "name": "InitializableImmutableAdminUpgradeabilityProxy",
+      "address": "0x8FBC597BaC2C37AC7C2Bf9b981E6FB0fce2A4A34",
+      "balance": "3518507702739650",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x55076eECCEDb8869f3C9670D9C8062D3FCB61b7c",
+      "balance": "2231995620263694",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraCommunityVault",
+      "address": "0x410698C399A0DB5D9dFbE31f22E53b479DF0Ee7E",
+      "balance": "680017791118241",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x30498EF52944dBb18bBf11E5A0CeA67a30993588",
+      "balance": "549223150484539",
+      "is_verified": true
+    },
+    {
+      "name": "MasterChefVoltV3",
+      "address": "0xE3e184a7b75D0Ae6E17B58F5283b91B4E0A2604F",
+      "balance": "369000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xd36700d303a6A3feb24E3505E560d8c97d42dA0c",
+      "balance": "322402273678612",
+      "is_verified": true
+    },
+    {
+      "name": "TokenChwomper",
+      "address": "0x5C2e112783A6854653B4BC7DC22248D3e592559C",
+      "balance": "305772114240838",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x0eE46f6360D6f6B56eEa67f02a028aA7Cd02e658",
+      "balance": "276639006765759",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2E95a53590146460db95559c0Af8cb8c5eCEA397",
+      "balance": "213293249534833",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE65513Fe95F52F4350D2184c2fD722c37e6Fd995",
+      "balance": "178341686500799",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7c1E95d4388D4179168Ee0E407fd2368dD4BAFEb",
+      "balance": "68982575059754",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 24
+}

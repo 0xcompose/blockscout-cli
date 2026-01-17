@@ -1,0 +1,92 @@
+{
+  "token": {
+    "address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
+    "name": "Bridged BUSD",
+    "symbol": "BUSD",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "53872969586542601751001",
+    "total_supply_formatted": "53872.96958"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltagePair",
+      "address": "0x91520Fc2942Fd52949514f159aA4927b8850178d",
+      "balance": "3479374410914406798341",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x42a84263Daa850E56cC10C67c0A2E931782c1728",
+      "balance": "3455066384380000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x2e7DeDEfC1b40eb2C935A5d07ACDb8F8a9B2A91D",
+      "balance": "1458942804671188218075",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xaCD91C7040e20A4269bBCf51a03e09cd615C633b",
+      "balance": "557339671315879176063",
+      "is_verified": false
+    },
+    {
+      "name": "AssetProxy",
+      "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
+      "balance": "505332233204342569637",
+      "is_verified": true
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0xece5875c6b58c12a4572cBAAfEB52f6Ce8fccA76",
+      "balance": "266917769290605643613",
+      "is_verified": false
+    },
+    {
+      "name": "SwapFlashLoan",
+      "address": "0x2a68D7C6Ea986fA06B2665d08b4D08F5e7aF960c",
+      "balance": "174002378367055927164",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xdd984D1104e5A6107c60a0A3c62bAd60c6d14134",
+      "balance": "148157147058798806914",
+      "is_verified": false
+    },
+    {
+      "name": "Bridged BUSD",
+      "address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
+      "balance": "71604504076863853683",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x014C2D866D02048C37815476E960ca89E236Ca03",
+      "balance": "59900000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Vault",
+      "address": "0x48F76d2Be0f335b2be88589A1889d5198E6B3551",
+      "balance": "53382239189756706431",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x4d97aA23Dc10a1A5BFb9d9c3Da3163a1d26Fe02e",
+      "balance": "23956095668880138883",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4e7208Faf5293AC5eC8cFB907Fe4E107a47a9f55",
+      "balance": "9742880295762562246",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 13
+}

@@ -1,0 +1,26 @@
+{
+  "token": {
+    "address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
+    "name": "MATIC",
+    "symbol": "MATIC",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "2954393389051792327736",
+    "total_supply_formatted": "2954.39338"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xB214264C9bdAb19908Ce73F3090f8d9e4e9157b0",
+      "balance": "391947528076827377133",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xfbaB7332ca1e879A4aF41Ad5BAcBbE182F665503",
+      "balance": "10836888548656096465",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}

@@ -1,0 +1,74 @@
+{
+  "token": {
+    "address": "0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B",
+    "name": "Allbridge Bridged SOL  Fuse",
+    "symbol": "ASSOL",
+    "type": "ERC-20",
+    "decimals": 9,
+    "total_supply": "1735804577",
+    "total_supply_formatted": "1.73580"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x73664524CF94E5318E4e5313aeC7558479a622A6",
+      "balance": "470135674",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xa3C8Bf1427D6F06aF13b5b98FC694b12D5f6087d",
+      "balance": "4387695",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9ac309b10af273bC82853e68062064CB982B1E0B",
+      "balance": "3478465",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x30ba6bFA392Ee39080AF7eb5633E43dDDF6dc366",
+      "balance": "2305467",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd847a847b7fD1F8721BAa1ffb9D13ed9E859dD93",
+      "balance": "1881592",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xfA762DfE5650649DC3f1a8272c783151Fc98BAF8",
+      "balance": "231929",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe45366ACB891E530dFF0eC0Bac569C352DBAD14b",
+      "balance": "678",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc0E817cc2A277f26Fcc5dF437033c21075ba4Fa6",
+      "balance": "324",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x5847e08F34944E7799C83B447c9d6bC31B36DEDB",
+      "balance": "1",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x0FAf7F64750EBCBB1EcA3384c5A5C2a59CA76764",
+      "balance": "1",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 10
+}

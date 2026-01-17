@@ -1,0 +1,758 @@
+{
+  "token": {
+    "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+    "name": "Wrapped FUSE",
+    "symbol": "WFUSE",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "38342540073168082190002404",
+    "total_supply_formatted": "38342540.07316"
+  },
+  "contract_holders": [
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x6fA258e755A20e46c28239c40125e2847c3eE5E8",
+      "balance": "15233291648225567183013974",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x6bd341B6C7d6123D28d3DDee6A65d441DbAC1E90",
+      "balance": "3467285127225555037305404",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x691118FBDa4B78747B4C1B883ae4396Dac885651",
+      "balance": "2060094305967092386005996",
+      "is_verified": true
+    },
+    {
+      "name": "Aave Fuse WFUSE",
+      "address": "0x567029Dc3a4434d41a611a52d5FdeB3a50F3aED7",
+      "balance": "1676016679798361816130969",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x36207130CF22d8C54842569A32a0Cd5D711f3580",
+      "balance": "1378297856111502436978176",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424",
+      "balance": "1187923160732158931066295",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5",
+      "balance": "1053778856006852101551654",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x7Fe1A61E4FE983D275cb5669072A9d1dee9Bd45C",
+      "balance": "858686310673312419173633",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x56dF61E9f39C75e2d84C05753557bEBB9841Eb5B",
+      "balance": "778113596071242917150035",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xeC3FD32cd5389FbC581427A648d6dc1bc5cfFE3B",
+      "balance": "721808152071368208988756",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D",
+      "balance": "687939905009004929742519",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0xcDd8964BA8963929867CAfFCf5942De4F085bFB7",
+      "balance": "619308902583108232826356",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x9f17b1895633E855b8b1C1D0Ade9B3B72EB0590C",
+      "balance": "586133048127857938407875",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x91520Fc2942Fd52949514f159aA4927b8850178d",
+      "balance": "509428711953375751775444",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x75e24462108E49B71278c93b49B35A5837c0547C",
+      "balance": "481888408809097249833534",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae",
+      "balance": "479182248202509102731851",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault12",
+      "address": "0x2015Ce76b4CCE96bB69EAb52936156E710502730",
+      "balance": "461158467000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xA670b12F8485aa379e99cF097017785b6acA5968",
+      "balance": "441645731283644192872253",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault13",
+      "address": "0xF59337f0628636D18cB5Ef54F8fEC341FAD148eF",
+      "balance": "433180697617298627212649",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x22305A160Abc6890Eb7727f2b8A034D7fE56E883",
+      "balance": "388088924663138796593561",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xA3fa018DA2d4081F9596bb3b7d6C5da5572DC595",
+      "balance": "265950543065624727890513",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x2e7DeDEfC1b40eb2C935A5d07ACDb8F8a9B2A91D",
+      "balance": "212530403583586329476088",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x4799bd3F3493618BC970dca797d5840d51019526",
+      "balance": "158947786295786779921722",
+      "is_verified": true
+    },
+    {
+      "name": "Wrapped Fuse",
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+      "balance": "156977874661771101415929",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x48f8aaAAD12AC89529c365baF66d7D15E4e5a40A",
+      "balance": "145379548890635365533396",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x8d441C2Ff54C015A1BE22ad88e5D42EFBEC6C7EF",
+      "balance": "127400458395547796113830",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xC9A3d59AcbF2A8c856cA5E8c323623Ff11e3aBb2",
+      "balance": "122655505196145424464431",
+      "is_verified": false
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0xba9CA720e314F42E17E80991c1d0AFfE47387108",
+      "balance": "117709675180586591147667",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0xB6CFA261601cd477581A1b0eCDf404f07B377eFb",
+      "balance": "93287796677387442562787",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x3b46eFdd411cc0Db43f1BE7853727e18Cce8b85b",
+      "balance": "93232369794021232422717",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x1b2D1e4D84E594330F61A5940d42c300783501fB",
+      "balance": "72463196116532916844972",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x933a10d094592EB3F2a26bCb366472eba8868A66",
+      "balance": "72357609034848487681422",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0xCe69892CbDA078BbFAA3E5aE7A4b4d2Bf3E5c412",
+      "balance": "71152496184381089762674",
+      "is_verified": true
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0x9B43Fa973105bF0086C937b6A386c82bdC658082",
+      "balance": "68780247714480443845870",
+      "is_verified": false
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x167f9bAF9B6C45370E7C5032557E6500cda37328",
+      "balance": "57237900000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x90c3bA00d2F7F15Cd9FDE087538be3A2865E7E2F",
+      "balance": "49484710740355127646107",
+      "is_verified": false
+    },
+    {
+      "name": "Elk Liquidity",
+      "address": "0xB08fa1A54AffADF034dE2179C345479f87cE5406",
+      "balance": "46872399885687947063407",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xECa346b95ff4bDa408BCE00f0c1427efE11A736a",
+      "balance": "44534066207455211539721",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc5C84F45AfCC3160BcC507f9A93DdF20450a7043",
+      "balance": "44464264868607292343212",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x4A877571Da2746C03025e15A548c4B607275dadC",
+      "balance": "41467799444935132839824",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xa02ed9Fe9e3351FE2cd1F588B23973C1542dCbCC",
+      "balance": "37650769867444549685661",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xc79983b0754ac688Bf54939aDd59BDF75916fDA2",
+      "balance": "36139674595584953694717",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x48515F859e44161Bf67AE610A7c83F53B0048713",
+      "balance": "32705931319639024408345",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xde2C93fB83DD29372A62f12653B95a0473d96295",
+      "balance": "31200291735018650373868",
+      "is_verified": true
+    },
+    {
+      "name": "InitializableImmutableAdminUpgradeabilityProxy",
+      "address": "0xb012458830ed5B5A699ed2cc3A29C4b102abed6a",
+      "balance": "28870223223421189815062",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xb55B6Dd06AfC3AB39570a37A64ceD6FD07B7aB6F",
+      "balance": "28757131191922043097287",
+      "is_verified": false
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0x62b911f76fb7a54C25f4105c7da1D70052AE8596",
+      "balance": "28592936874796660595872",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x0481Da8F8c815C2A2cCC8cd2DB12D37ADAa0ba4a",
+      "balance": "28247346521891094945187",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0x076BDeA1fD4695BDEF9Ba4579463BC4B3C97d645",
+      "balance": "27084460497834748996537",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5EFb1345482a382493096D303485B2FB255a469B",
+      "balance": "24245809759360408003957",
+      "is_verified": true
+    },
+    {
+      "name": "ComplexRewarderTime",
+      "address": "0xEF502259Dd5d497d082498912031E027c4515563",
+      "balance": "20280415565408154415113",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xA9c312E6DAC0EC56C6A8CB338e9121c6349D9beD",
+      "balance": "18610526988746254164547",
+      "is_verified": true
+    },
+    {
+      "name": "SimpleRewarderPerSec",
+      "address": "0xCD800a9b7f666adDA28C9aC685C3a132b45eE56c",
+      "balance": "17625096425797402825432",
+      "is_verified": true
+    },
+    {
+      "name": "SimpleRewarderPerSec",
+      "address": "0x60EA721ecD6e1762B2766D99570B2B854297cBbf",
+      "balance": "17588365773398842286782",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x962FD1B229c8c775bC2E37A8a90dac4f3C0105B7",
+      "balance": "17338357465000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0xbCa51ae3896f4033fb7B467BD3ab4A4ff27f3a3E",
+      "balance": "16552995196067483558615",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x53B1B8Fb8bE9aA94076e6B29fb9D08bd9ced2D30",
+      "balance": "16214126606942038577897",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0xe418c323fA450e7e18c4dB304bEFC7ffF92D2Cc1",
+      "balance": "15598773678786216175040",
+      "is_verified": false
+    },
+    {
+      "name": "RainMaker",
+      "address": "0xCeFF65Add76EAE8C187Db45372Fe85DFE691D772",
+      "balance": "15571118906978762167859",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xd548e1b5FB16307651825453E53b360C6859629a",
+      "balance": "15390828807520113107010",
+      "is_verified": true
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0x48b21179382BE6A8A2672922981b9D01B2D3c234",
+      "balance": "15331545262741416520443",
+      "is_verified": false
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x602352A9Eb5234466Eac23E59e7B99bCaE79C39c",
+      "balance": "14540111045450742769251",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x0b31d85A35A06bfddD53F3dA0CD23Cbb33442778",
+      "balance": "14463586391634991392272",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraEternalFarming",
+      "address": "0x98cD3eE6a8B07a7bcD4BEc37B724afAb7dbFd4F4",
+      "balance": "12556030936542807547409",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0x38D4e6Df715b968B49579F64eCA15B12FB972884",
+      "balance": "12495980002125168798016",
+      "is_verified": true
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0xc9582993F888ff51C78c320456bE3e8629848d45",
+      "balance": "11081842027676245735985",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x4f47a2c360266230795CFBca80b7C89EdA52Cd52",
+      "balance": "10366106731880185780492",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x994ddb7c080E3893Ce4F564726b96a72c49f3829",
+      "balance": "10093101149771351056993",
+      "is_verified": true
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0x3b69400d6D734104c79c93791021cE923df21193",
+      "balance": "9806630340118535439372",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x11c38899b0F28723bbA14C40D06f18adcD881d18",
+      "balance": "8523863773379087432306",
+      "is_verified": true
+    },
+    {
+      "name": "MeridianIncentivesVault",
+      "address": "0x8Fc56E9c01998A7FDb7b97504b435f25a5bc9855",
+      "balance": "8520037905372525761918",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x391aCf760B439d64cA3491003ff2930ED1DE594E",
+      "balance": "8332143849159859600537",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xBD69FBEebecf3983528C70d2BcFDB4c3430212bd",
+      "balance": "7806830715597467137913",
+      "is_verified": false
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x6faCE8A66c7895D390B17d3Cefd36f063f98Bb58",
+      "balance": "7613367775437835021667",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xcBC003cb76c5D218CBA2dFb3A2b2F101950ED7e7",
+      "balance": "7415700000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Staking",
+      "address": "0x65995B106988E9aCd15998a5DF95aDe89b6511c8",
+      "balance": "7386685603072714285758",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0x9dD10b2269709F7369dfBF7bbAe2AD3aA53b16C7",
+      "balance": "7147169459634970874973",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x6ae564D7d8Db8d715AD873bca79528B5801405fa",
+      "balance": "6885696450574373412065",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB0E1FD70DFADc93E79fD8000B168e57B4B0B089f",
+      "balance": "6604440477904479025764",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x3Df8938e749dD3A2b21Fa4dD073366CB2359158a",
+      "balance": "5975183103830170927739",
+      "is_verified": false
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x03709784c96aeaAa9Dd38Df14A23e996681b2C66",
+      "balance": "5906508454428734946745",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x6c6D9856C44B2A2248D093f3797Db66a706225D6",
+      "balance": "5744966670652735631374",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xB214264C9bdAb19908Ce73F3090f8d9e4e9157b0",
+      "balance": "5352129340330796007084",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0xa7fa94cDA70753be12BBf94A46417e9B4AdB553f",
+      "balance": "5259712503277854974228",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x97e91465afEB9866a3882b7Ced41cE0F6b533abe",
+      "balance": "5127136564105906163523",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x49aE27DCB1A7621073e6Cb23Ce4A16423993DD95",
+      "balance": "4837491437998152595288",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9ca921887E569Eb1ae9C2Ac493Fc932E692C8C55",
+      "balance": "4831277482236713738498",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x64DEf29D3B9fA1ACD8002c2F59e056A08668d586",
+      "balance": "4516343368389092023486",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x4b4a9b994434A7aB2e60715Cf541De0eAa24BaaE",
+      "balance": "4514730616258527967174",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0x39ce2B1f8e73Ae1FE4eb3aeCC0D68B8855bb24F7",
+      "balance": "4492182579400956076925",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xEb25d5eDba178475FcE4256C03496aA70Fdc3688",
+      "balance": "4452065996356555920391",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x69af672b7CA45C3DE476D7F949d7C3E658f841C9",
+      "balance": "4163993732413253471354",
+      "is_verified": false
+    },
+    {
+      "name": "SimpleRewarderPerSec",
+      "address": "0x6c2B5156f1e858CDbe7E9F2a4a6b744b391A69Dd",
+      "balance": "3938928458303875288952",
+      "is_verified": true
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0xCcF94d880A1f606549601311DC20c0a38798FDb5",
+      "balance": "3870853290602657698708",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xfA01eb90ACC7c5392398337F3F197BE9fF632Da1",
+      "balance": "3816801775180377400000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x917D7Aa81B2BCcBaE04a2c6cB6307f839cD20AF3",
+      "balance": "3745448548844542585406",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x88E6c053bC391aeA08F5CAD28594D0A6D16d921f",
+      "balance": "3359408618081517449716",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x0cdd2D9B8DDFd748B3E52b8e1dECB8D3fb86ECb3",
+      "balance": "3314766550196015423585",
+      "is_verified": true
+    },
+    {
+      "name": "ElkDexV3Pool",
+      "address": "0xCa4a3dacDDF33D83C8D43B1152D0C8AadBC88b8b",
+      "balance": "3049151294682696928524",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0xe39c87605FeE81b509034E408EC2D2cE592E8B33",
+      "balance": "2923137292243173331983",
+      "is_verified": true
+    },
+    {
+      "name": "OrderBook",
+      "address": "0x4559172F5Bba07eE558Ff59457dbF9d2aE945e9A",
+      "balance": "2911849602256469679104",
+      "is_verified": true
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0xA41bBFb7E6968C5646921A4f830eF8B5eafcE523",
+      "balance": "2909815284871654425843",
+      "is_verified": false
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x05C600c0C4Ae2846212EeED1C7dfA6A02A1d7561",
+      "balance": "2903044167681828196869",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x73664524CF94E5318E4e5313aeC7558479a622A6",
+      "balance": "2242258699359123599517",
+      "is_verified": true
+    },
+    {
+      "name": "StrategySushiNativeDualLP",
+      "address": "0x0073C4b8E39698631d8d3E61b487Ec620101BD4c",
+      "balance": "2242241607273560934969",
+      "is_verified": true
+    },
+    {
+      "name": "FLUX-LP",
+      "address": "0x225248DDF4A3E93fc5F419124DC001F4bE7B61Ce",
+      "balance": "2240569452292149689034",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6e4c4a1e3bc0bD95e912f2a997aCA658b74057C1",
+      "balance": "2132500765844029268646",
+      "is_verified": false
+    },
+    {
+      "name": "StrategySushiNativeDualLP",
+      "address": "0xfB678A230E1221608BE3b89dE2035d6d717a2D5e",
+      "balance": "2106527062300154162986",
+      "is_verified": true
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0x558F169eDfc30E61D6EC8D2341424A93E2F4E274",
+      "balance": "2070592198078646709272",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xd729609735222F203fCe2e0Ed940ac749eaD839a",
+      "balance": "2052606681185800570143",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x08517435C6d4Ec51AFe9913Fcf65a3e35df21983",
+      "balance": "1953432442949276862058",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xA0AB0D632514cB406c00857d6e32FC808438Ae49",
+      "balance": "1933303617930568078807",
+      "is_verified": false
+    },
+    {
+      "name": "MeridianMultiPoolStaking",
+      "address": "0xb513fE4E2a3ed79bE6a7a936C7837f0294AFFEAd",
+      "balance": "1884445170879358068780",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x74F32415d58BF23C3e7d8a9729035106700b857c",
+      "balance": "1810267236422740210256",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0x45609C92B46F8f9d101D421f155eD558a043AF99",
+      "balance": "1669471072012982098531",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xaf1CE656120D74CCB8001479fA048301F2ef801F",
+      "balance": "1643246291924878104824",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xF951765e258A04c4D529e3AF314B77769cA992d5",
+      "balance": "1620897760853305055799",
+      "is_verified": true
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0xF250828e4e1ca3a2Fcab1baD48eC5648aBB1AfD7",
+      "balance": "1615042908655676093213",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xeeD7A28eEd4E768fCD46dE3642AB73488De77e11",
+      "balance": "1613840060398186982512",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xe2F9071fA298035A98B40e4Ce8bcF0d845284288",
+      "balance": "1590061526658028259352",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x65B717cBe2B719C61267A707F8d82dEeF8d8af3b",
+      "balance": "1528305280469224882807",
+      "is_verified": false
+    },
+    {
+      "name": "TokenChomper",
+      "address": "0x363ee06E3eE424060A726Cb7F60153c9EE44cDC1",
+      "balance": "1354231106669313591180",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x6f2d8F6048517c45eDbCa6C0Bf797391D86ba62c",
+      "balance": "1201073973374413290585",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x361Af1D924238992768491a227403bcA11177675",
+      "balance": "1185873732967201653600",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 124
+}

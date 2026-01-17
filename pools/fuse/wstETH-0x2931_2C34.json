@@ -1,0 +1,38 @@
+{
+  "token": {
+    "address": "0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "3499061690177152352",
+    "total_supply_formatted": "3.49906"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39",
+      "balance": "3450546322265983101",
+      "is_verified": true
+    },
+    {
+      "name": "InitializableImmutableAdminUpgradeabilityProxy",
+      "address": "0xe939B9607fD0821310dEf5998A05eb4147Be3423",
+      "balance": "16944467694315595",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xB38661219ACBE8d45D943214F40543f4d5b25121",
+      "balance": "5107299377657144",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraCommunityVault",
+      "address": "0x410698C399A0DB5D9dFbE31f22E53b479DF0Ee7E",
+      "balance": "490047322323",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 4
+}

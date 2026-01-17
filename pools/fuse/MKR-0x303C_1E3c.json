@@ -1,0 +1,44 @@
+{
+  "token": {
+    "address": "0x303CC3f27034C4E3933DaB8E601178eD3d2A1E3c",
+    "name": "MKR  Fuse",
+    "symbol": "MKR",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "1180335788322421718",
+    "total_supply_formatted": "1.18033"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0xAcecF8D4Aef2c7f2Da94352e8a5727B657980662",
+      "balance": "1148489159924912220",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x23Ad3de1fBdc5aD8a005910B228c0C3eD164dfe6",
+      "balance": "18981090686457432",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraCommunityVault",
+      "address": "0x410698C399A0DB5D9dFbE31f22E53b479DF0Ee7E",
+      "balance": "1141184105213529",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0xb830d9FE05e1425f9DA1e80EBa4177A53F0f7877",
+      "balance": "18701082413628",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x05E805d09cB5245dF4cc1e71FdC7F0b474aa7364",
+      "balance": "106096003115",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 5
+}

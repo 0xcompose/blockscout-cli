@@ -1,0 +1,200 @@
+{
+  "token": {
+    "address": "0xE57425F1598f9b0d6219706b77f4b3DA573a3695",
+    "name": "BitcoinBR",
+    "symbol": "BTCBR",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "21000000000000000000000000000",
+    "total_supply_formatted": "21000000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x098c05Ead1Ec080e94E800Bd1bbc825ABA9fd573",
+      "balance": "770343199467598485883676",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xCe563791d7E40695beeF9557bB6157cdeFFF7106",
+      "balance": "769862229058632735600516",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x834F33C4eD7767023abf6566c69626165E44f463",
+      "balance": "759977187178096710403550",
+      "is_verified": false
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x5A08E4F7217Ed97DE6a0edaF6aCA265AF7d88a19",
+      "balance": "752210113680217583433714",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x607Ae0e3F867eB806395D8A485699473Fc5D5804",
+      "balance": "751058620306177824704266",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xf077cf51b898Da3f22540e9DDEdEdDC516aB7B5D",
+      "balance": "384152142378385989786593",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xeed2EDBb0818aAd7a14636c96387B1e8beA7aC1B",
+      "balance": "378867223373523544379200",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x5d415B0680b5084ED5864fa1f0732959ca8da506",
+      "balance": "376405942388467377949386",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xb07a0552294519351dbf6458721bF62DF6c3e330",
+      "balance": "3097040983853707031570",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x82468c8FBd468cc92b269bE8B5d8D7F281cfC98E",
+      "balance": "2175070666564061322838",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xffbEb57e47F959737b9c4e80b42175FCa7cDc1ea",
+      "balance": "2079798157568446235207",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xA0f890B1ADB5E38cbDc8256Ec680F7eA254d9F41",
+      "balance": "2015264831094936977851",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x21e35478a0E2b4dABFBFAebAeef1d9548aedEe7c",
+      "balance": "487485698094885102115",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x20CC1744A24C4F3821FC6ea6880166a6A0EEd044",
+      "balance": "436264221813060919254",
+      "is_verified": true
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x06fC4513D23C3b4fd578b902A76EC25A5484331e",
+      "balance": "381939683331311804520",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0xF67C3eD36807Eb2003e2D599CD2a2fe440EC6fFa",
+      "balance": "276670575111175678812",
+      "is_verified": false
+    },
+    {
+      "name": "UniswapV3Pool",
+      "address": "0x16fFdCaA4cAE9A587c6f197B087D67FFc0e3f48C",
+      "balance": "248687568342949790474",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0x84bed935F2006f1221dcCC4156709c852b882214",
+      "balance": "239893703418655163927",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xF1bfd1E091A993165555cA0d72CdDbd316bA7F2c",
+      "balance": "131727541895668639537",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x27c47BFf6bdBA75f5A9C2A5E2244522f3c8303Ed",
+      "balance": "129104900890993981024",
+      "is_verified": false
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x4b22aEDA0F0ab93A584D03e0CDBD4b1Bdcf597de",
+      "balance": "91031588465091289718",
+      "is_verified": false
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xC5662CC730767C69033B71cf2A14FA1427DCa940",
+      "balance": "63835032304406500955",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x254d169D8b5FB91394fbd4ebA4acDe71bCaFF425",
+      "balance": "37990393027627433654",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x2C432C491b5BC2c7A6427b7e5966932BdA60E8D4",
+      "balance": "30080259950524033581",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0xDE31Cab4386a1de4EFB705E0D33d9BF29FfEA354",
+      "balance": "28296553315864365766",
+      "is_verified": false
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0xA2f08Ba061FE1380a840cA423431BdA102649213",
+      "balance": "4661358257856408770",
+      "is_verified": false
+    },
+    {
+      "name": "TokenChomper",
+      "address": "0xca226bd9c754F1283123d32B2a7cF62a722f8ADa",
+      "balance": "864212204677415362",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x79f5cca86779d2Fe9198fe0cFEF98daaf29a5040",
+      "balance": "389267516667409783",
+      "is_verified": false
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0xeE7e933617BBeF4404ef28E80bA685aB20f97B31",
+      "balance": "265736068721293563",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x09f7Db1D4157784c68b93E152581Dd95bF9c44CA",
+      "balance": "100000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6B5d4af54b945Bd21711CdA130467d8b29719a2C",
+      "balance": "1",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 31
+}

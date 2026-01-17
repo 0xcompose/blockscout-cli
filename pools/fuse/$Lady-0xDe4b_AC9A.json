@@ -1,0 +1,104 @@
+{
+  "token": {
+    "address": "0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A",
+    "name": "Ladybot",
+    "symbol": "$Lady",
+    "type": "ERC-20",
+    "decimals": 9,
+    "total_supply": "2000000000000000",
+    "total_supply_formatted": "2000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltagePair",
+      "address": "0x64DEf29D3B9fA1ACD8002c2F59e056A08668d586",
+      "balance": "144308440855384",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xc2155Fc4Bb709d18641c65c8676109DE41EdF84A",
+      "balance": "56469020435374",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xcEAB8d0303924D3DB5B3a3eD178F055603398845",
+      "balance": "22411029856698",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x32B0473c691eB5eDe4ce4398FE84EA1aDc3193b0",
+      "balance": "8239562067027",
+      "is_verified": false
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0xC2B83a3C3199Fb29Ce1d8Dfc681001AF3e97e004",
+      "balance": "1394999998523",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x5c058e8A941b3989b999116C7Ffd35cc145908b2",
+      "balance": "711911717124",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0x225b81A6aCaF6448d74e30190375b12970D5Fa30",
+      "balance": "406299005084",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x32ce8008E6778a5D671Ca343Fde821F83A0E1f35",
+      "balance": "390122587408",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x85C66C70f3081c4f487d440Af90D91C06f061852",
+      "balance": "126934492060",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0xEab321D2eF270fA78bADCd1d0D037c9203b4B68b",
+      "balance": "126845372392",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3",
+      "balance": "125000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7243265f91e138a11548DF4253E3ec056b6348f8",
+      "balance": "89977718927",
+      "is_verified": true
+    },
+    {
+      "name": "Voltage LP Token",
+      "address": "0x5a8A69B27f7953EA3597D0F0CD7E9EF233dD9854",
+      "balance": "74923193486",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x81a2965B3aC6a1281BaadFa442b8eA7C7c1E2E9b",
+      "balance": "47042467426",
+      "is_verified": false
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0x04423CAE1BD000659d02ee4EdE30446C3e25AbBF",
+      "balance": "43802024792",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 15
+}

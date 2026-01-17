@@ -1,0 +1,230 @@
+{
+  "token": {
+    "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
+    "name": "Stargate Bridged WETH",
+    "symbol": "WETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "40997275154632935375",
+    "total_supply_formatted": "40.99727"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltagePair",
+      "address": "0x97F4F45F0172F2E20Ab284A61C8adcf5E4d04228",
+      "balance": "6498713651031742613",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x7Fe1A61E4FE983D275cb5669072A9d1dee9Bd45C",
+      "balance": "2592616178880753544",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x79FB917292f841Ab64941C04aCDf5F9059aa24E7",
+      "balance": "1983444723260937628",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x75e24462108E49B71278c93b49B35A5837c0547C",
+      "balance": "1454469730378325116",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xC4C84CEC67dc018bDD7B0679aB947E5c4D9FFC76",
+      "balance": "387491975954191071",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5d4C4D0b99A9a31aE549708B6213C9Cc918d0Ad0",
+      "balance": "183512494521331239",
+      "is_verified": false
+    },
+    {
+      "name": "SimpleRewarderPerSec",
+      "address": "0x5D029a3EEF9C2d442b6a5812f5aA97e1273e321e",
+      "balance": "175000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x90c3bA00d2F7F15Cd9FDE087538be3A2865E7E2F",
+      "balance": "149337233789854136",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x6BA3b80490A4C69e9c5b53daC49249F953FA4dD6",
+      "balance": "134766243634715449",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x9d9e8787f25594fD68551989DE185408f9442124",
+      "balance": "122475155302107830",
+      "is_verified": false
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0xF9C63E6e21d65ba3Cb6B95790F559E8Da1B38764",
+      "balance": "114804452200548419",
+      "is_verified": false
+    },
+    {
+      "name": "StrategyVoltageMultiRewards",
+      "address": "0x811429dd7184b3b198c3bF80765383ECa390B445",
+      "balance": "58088943478310950",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xfdddEA6E78205C5b6082A86E7e56B928a9893DA2",
+      "balance": "50000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x594586Ef1F0fE809cdfF7EbeE0E95Bd8282D9622",
+      "balance": "48732732452766412",
+      "is_verified": true
+    },
+    {
+      "name": "Vault",
+      "address": "0xc18974764F7Fd055E680656Cb44CB50b2c4DDb2E",
+      "balance": "47136483991927201",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x0dF21390c2f8Bc54915f65acA5Be28f00FfD44dD",
+      "balance": "43581722654760665",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xE05E8cB522868ae468738D4a835B3dE2ac1Befc0",
+      "balance": "41180274989127044",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xf28b39A094AD70cb251Dc7c920ccEA7c8a1FDcE6",
+      "balance": "39447993738982217",
+      "is_verified": true
+    },
+    {
+      "name": "Zap",
+      "address": "0x28bd1C2cabc98d5eD7073B91218538DEAbf8a7F0",
+      "balance": "36432710074381543",
+      "is_verified": true
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0xc9582993F888ff51C78c320456bE3e8629848d45",
+      "balance": "33580916372655985",
+      "is_verified": false
+    },
+    {
+      "name": "Ola Wrapped Ether",
+      "address": "0x30372f39D9f8d1b644e4f122cE3cACCa79F8c234",
+      "balance": "29099999848837886",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x952d0226DC969cD4f7AF7E428208b508B5b4dBe1",
+      "balance": "23551788971745526",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x2F9B49DD99C7604996DdE14d2AEE8264FB298507",
+      "balance": "20834184449866860",
+      "is_verified": false
+    },
+    {
+      "name": "BabyPond_Dividen_Tracker",
+      "address": "0x8A00a1219d27466A3F02c3E5f8361fA5A18DEC78",
+      "balance": "20111457693377113",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xF82799321a273884344CE44666C6F1b18e8cA405",
+      "balance": "18402148520944857",
+      "is_verified": false
+    },
+    {
+      "name": "EternalStorageProxy",
+      "address": "0xd617774b9708F79187Dc7F03D3Bdce0a623F6988",
+      "balance": "16962312160819075",
+      "is_verified": true
+    },
+    {
+      "name": "FUSE_ALPHA cWETH",
+      "address": "0x805deAF72E9Aa23e2739AC35F1927D7220165CF0",
+      "balance": "9960091258164426",
+      "is_verified": false
+    },
+    {
+      "name": "Vault",
+      "address": "0x48F76d2Be0f335b2be88589A1889d5198E6B3551",
+      "balance": "8969870659133661",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x2A4Af0FBefBF6c4580cF71f34EFe947A4fcfFE73",
+      "balance": "7798709184378434",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa3e0dD6E64007E9Ce07523e773DE53E4F4446628",
+      "balance": "6200065047270480",
+      "is_verified": false
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0xcDd8964BA8963929867CAfFCf5942De4F085bFB7",
+      "balance": "5930000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x8077bC7Fa6762Dd3597afC0Cf639958728bdb788",
+      "balance": "4513374090003996",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x579fF98Bd5044D5203aAe4D6062cb3E28959a242",
+      "balance": "3980961153929691",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x08D9c0AE1cc441756cDD60B9B82a13Ce3A455CD4",
+      "balance": "3892498505024921",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x59F35ea66Afb37Cb46EA6aA4C13E6209C0cc8CAf",
+      "balance": "2776652491033218",
+      "is_verified": false
+    },
+    {
+      "name": "StrategySushiNativeDualLP",
+      "address": "0x0073C4b8E39698631d8d3E61b487Ec620101BD4c",
+      "balance": "2711201754546912",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 36
+}

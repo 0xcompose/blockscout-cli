@@ -1,0 +1,26 @@
+{
+  "token": {
+    "address": "0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E",
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "17910938224518513",
+    "total_supply_formatted": ".01791"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x54d7537Bd5c407aA0F220421a4e50225D9Db3201",
+      "balance": "8103435898531118",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x8c64208F98B00d96dCFcD5Cd7d10C702FFf37e83",
+      "balance": "7803639866307971",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 2
+}

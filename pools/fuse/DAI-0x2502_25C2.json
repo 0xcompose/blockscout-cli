@@ -1,0 +1,92 @@
+{
+  "token": {
+    "address": "0x2502F488D481Df4F5054330C71b95d93D41625C2",
+    "name": "Dai  Fuse",
+    "symbol": "DAI",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "8082465002551874944250",
+    "total_supply_formatted": "8082.46500"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0xAcecF8D4Aef2c7f2Da94352e8a5727B657980662",
+      "balance": "1790084237377831035223",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x23518Ca19447E7ABB8C6f6eb215A1D663c53Ea21",
+      "balance": "1645214865717264272501",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5e7D5613f0F39B6A8c23B6082fBE63389D09970F",
+      "balance": "672629812769797281946",
+      "is_verified": false
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xB12d593109D41F3649d0Ad834C4D909056428D37",
+      "balance": "103158031262073803644",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x23Ad3de1fBdc5aD8a005910B228c0C3eD164dfe6",
+      "balance": "29471778866887320683",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x0b6b1E18C99C369a0f355EE619035821930b2089",
+      "balance": "16392992221463227",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xacCcA2e1b75f70f093a3A8bfdfe538298628d606",
+      "balance": "4062865658032136",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraCommunityVault",
+      "address": "0x410698C399A0DB5D9dFbE31f22E53b479DF0Ee7E",
+      "balance": "2085073872000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x2E2EE147b4B0FC2DE1C5745f6244DB318f361923",
+      "balance": "81127938530494",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc54a89C61cFd70787aCCBCD830076041905712CF",
+      "balance": "4041167111540",
+      "is_verified": false
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x5E220C8A62619651541807165788500A78A0bD91",
+      "balance": "1",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x5Bff4378c5b91445C8C19d7027485785bbb80E55",
+      "balance": "1",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x00EbeF0C591078eDbf0653491a952A3ebD92C364",
+      "balance": "1",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 13
+}

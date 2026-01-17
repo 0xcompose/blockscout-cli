@@ -1,0 +1,500 @@
+{
+  "token": {
+    "address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
+    "name": "Fuse Dollar V3",
+    "symbol": "FUSD",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "19670219844003363999967",
+    "total_supply_formatted": "19670.21984"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0xE988B8f70201597dAAE068a7115Fb2563a48460a",
+      "balance": "15726480906935830276498",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xb937A0Aa3C33fc20Cb1b0D26561597844eCF13CB",
+      "balance": "909417329974632311231",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x0a835DfCC8e3FbF386fB39149E370F325A7bf8cc",
+      "balance": "724857335923175895190",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5e7D5613f0F39B6A8c23B6082fBE63389D09970F",
+      "balance": "541247847151338179502",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x4A877571Da2746C03025e15A548c4B607275dadC",
+      "balance": "302500204330604593153",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xfdd7FE80f2C9A76D03aAE386fA56850142ef9AF0",
+      "balance": "158074061160777736345",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xAFc0507c6E9608a207e595c24b49278D6A891817",
+      "balance": "88926671701302305051",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5",
+      "balance": "68435365401286797120",
+      "is_verified": true
+    },
+    {
+      "name": "MasterChefVoltV3",
+      "address": "0xE3e184a7b75D0Ae6E17B58F5283b91B4E0A2604F",
+      "balance": "49899352088466572864",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xc1Dc5602Ee4106dE38d2FA9acAaaD2AD51c74bEF",
+      "balance": "48264940785478835192",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xFEc0FB01CAb4752BBa08Ed917dAcA8812f1851D0",
+      "balance": "40211959911994788935",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xEb25d5eDba178475FcE4256C03496aA70Fdc3688",
+      "balance": "32504712343235094535",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x0BD49929fd9aB12015bB27C91e6Bef43E492031A",
+      "balance": "30414801633264835841",
+      "is_verified": true
+    },
+    {
+      "name": "ElkDexV3Pool",
+      "address": "0xCa4a3dacDDF33D83C8D43B1152D0C8AadBC88b8b",
+      "balance": "22360957777460623080",
+      "is_verified": true
+    },
+    {
+      "name": "Zap",
+      "address": "0x28bd1C2cabc98d5eD7073B91218538DEAbf8a7F0",
+      "balance": "12971194325202558145",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xf93d44a49C55bE1cdB9b0afD7B8D6aFc7eB24828",
+      "balance": "2777540780378047649",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xb2A9d32AeA06094558E841BEc1D62022C616C8c8",
+      "balance": "1542614934340989875",
+      "is_verified": false
+    },
+    {
+      "name": "PaydeceEscrow",
+      "address": "0x9D0Effa5eF29B3569f32a2227e55e90955fbcc5e",
+      "balance": "1000000000000230000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x3586FE6Dd67A531734562E1826b84F7B2618905d",
+      "balance": "769304524954386312",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5DC2Fd09C0Bf6EBD71AdBaCf0a7b5421bD41a726",
+      "balance": "722263316000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x430346166A6cC3A927342973a50Ae39cF3AeDcbf",
+      "balance": "632348676581880743",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x8EB327E6AF933818846a2e2028Cc695C3f02631C",
+      "balance": "551499115094372945",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6c8a2d0DAF8F05F058ec906834477B4B75Af90b4",
+      "balance": "349655602698038123",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9D55EA1d63183fAeb43B8D95e12F9F0A6B570D62",
+      "balance": "262785609416779633",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x58Ff153979F11284bBb4695a6F496A9265e3df55",
+      "balance": "205386618556691474",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x62Dd09b8445431211716c88422Fa641A850fA11f",
+      "balance": "176418488350011023",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0C0d9eD306313d98D7e6249Addd95D611B69755F",
+      "balance": "122214799062431323",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xDAd52430261195626Cc87FA2E6B91C6B8F0Dc186",
+      "balance": "65113938015364363",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xeC655876Ccdb0e51CBCf7f1a125609c52736DF66",
+      "balance": "64871452988723130",
+      "is_verified": false
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xD5f18B2d9ecAC17209cFE901185C497d76C83eeD",
+      "balance": "46041829042415428",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xE65513Fe95F52F4350D2184c2fD722c37e6Fd995",
+      "balance": "43769875605079637",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7e70aE5B6f74af46f1E8C5c4E19e8590bB0261c7",
+      "balance": "39577229607497391",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xEe32a026fB65DeAcD70657495A93f70834ecB2a6",
+      "balance": "38345704973779817",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd68B233B130e738a49C1239AbE3eB7443535C7B5",
+      "balance": "38292721385518981",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2fDF0bd6F52c6cBC9f0BF5DB2510F70431213636",
+      "balance": "35365671193559554",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4FC50088C572C48573a0614c4163225af5b7A6fc",
+      "balance": "34073613346667220",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1Fe753408db450a65eD7a52922b5B737249de2C8",
+      "balance": "31217043506991194",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb5f7A87159e10c6418758B5d61b2EE62b9330ff1",
+      "balance": "22345766905258749",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb694C5108eEA76230107E427dcf8245Ec3388e2C",
+      "balance": "22291350278240952",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x5e57Cbbf98c7b512aA728B6c60ff5f596975c6FF",
+      "balance": "17495294456695965",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xb6a9C9255FC41AbE05a531601b9fe1403E0d11f6",
+      "balance": "9641582635514414",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0211214f76e5d3afe27D9E342177beFBCE23AACC",
+      "balance": "9531096978623021",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraCommunityVault",
+      "address": "0x410698C399A0DB5D9dFbE31f22E53b479DF0Ee7E",
+      "balance": "8935860446753970",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xb869eCB56f057079FeA7Ee9B0BC8cC126587a3F8",
+      "balance": "8887472005700123",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7A1324b3C8671132CBF0F344A68bB1781E7B387E",
+      "balance": "8518697373640179",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB0210dE78E28e2633Ca200609D9f528c13c26cD9",
+      "balance": "7998705696255076",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9CD100A27e66734b89019B7Bf2767F890aEcaf3f",
+      "balance": "7760087579252104",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6262558A653BDc723610cb1Dd60f97352d4F11f3",
+      "balance": "7295928261439303",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1572a3dfaf7CF01Ca513a42267a7Cd1bd94Cb9b9",
+      "balance": "7256216481449738",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf300F91c072925967Cf7B83a4A993fF181267c5f",
+      "balance": "6702267467918751",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x666Eb1E5c3dB9E83d31D009d627f3F96e23d0b0e",
+      "balance": "6669112602275273",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3D3D7B801700414e75dB9044d16404f4a9ac7a3d",
+      "balance": "6591508080862601",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa258A65c8db98C305018FB011647e0127c24f3BC",
+      "balance": "6558757348622156",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x00Dfdfee0590a6Ded2076ea946852816707059fa",
+      "balance": "6058813934645841",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3466154fD6cd1363534cfDcA380fDE7E8C706677",
+      "balance": "5603821032571441",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x66DCB20c1EF8F6Ecf79e22F5d52D6540682182cd",
+      "balance": "5442887626307908",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xaFb8019b2FBc39cddfa394b1b8E58730390a6994",
+      "balance": "5231959108368608",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb4823e2324f4C68393927738Cb665364435A1306",
+      "balance": "5107943060721787",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xC41D939b6587D5578814a6A2924ED391261E6b8c",
+      "balance": "5014678547680082",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x07a88c60F85959Be83A223C855fB6Ce00Fe4343F",
+      "balance": "4870122040345369",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa8ec8cD959813ce69AB67a7689BD3D23A9eEeA31",
+      "balance": "4686485867736594",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x8c11bf40d9A9623B59Cb60Ed6ecA92a73b5ECE8e",
+      "balance": "4267637007206699",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xC606D5C351AaC54FfA08Ae5170600160926C15FD",
+      "balance": "4188310556165864",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x256363E5f58a8CBc26F914ee7D3CDaFB6972410b",
+      "balance": "4033680329609559",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x30e77e27a8FC2c0C912F11Ab031baAe723fF0374",
+      "balance": "4006853281357800",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x116edC2fD30A752CC265911eF4Bf6281ec6c4F97",
+      "balance": "3181566915911849",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x38D8dAb2f60bbC34b52366e7424E710CBBA2FBe1",
+      "balance": "2901358651370862",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xeFFec8855621Ce2918b55cdd9585a12895044687",
+      "balance": "2876951630767433",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xDE125f169CaaD0Bce3aad68703E53B3fDac8a6e6",
+      "balance": "2832777272340057",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x22c684fe0ef1B0b0c384BBf47306CB251F832806",
+      "balance": "2517775430666173",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4d8b169e5f3544463fa02298fDA69a998680d496",
+      "balance": "2325512553382119",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5D7337a3F460CC14249646f80153F6985976E21e",
+      "balance": "1828788237952770",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x7C420AEbd74e8F5A84a211A030dbC5192cc8dB76",
+      "balance": "1785423889057599",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x14AA2FD44B684caf4c58100719c1832fCc609648",
+      "balance": "1751333042997164",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x696CB2B0721C40DCEe889037B8CDEE0992562c87",
+      "balance": "1747662638736247",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x91658cB414FAa8A48fb4471F9255c833b1033e46",
+      "balance": "1564257498270166",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1B8f8a3F3b8fCf1D3ADd3d2FbB8186c93676e019",
+      "balance": "1506040441269272",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB8b18084b3F3b674e39FaA2a642cBF9B2f18e7a6",
+      "balance": "1365978434147374",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3F1e6066E06c98c79E90f37e82264dd2BB1c68A5",
+      "balance": "1008367891621159",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB831553B6869998f570b07B3d96C2D9aAA227E7f",
+      "balance": "879733434151456",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x8A4392642B7e8D5F3f1463d1F4967162284B0B09",
+      "balance": "707345937942790",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 81
+}

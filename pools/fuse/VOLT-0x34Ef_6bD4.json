@@ -1,0 +1,260 @@
+{
+  "token": {
+    "address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
+    "name": "Voltage Finance",
+    "symbol": "VOLT",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "8727621989428930283250000000",
+    "total_supply_formatted": "8727621989.42893"
+  },
+  "contract_holders": [
+    {
+      "name": "VestingVault12",
+      "address": "0xBeB4c2ab9Ae1d93e5270E77C487D8588C42c0C15",
+      "balance": "1272615384615384615384617192",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xB0a05314Bd77808269e2E1E3D280Bff57Ba85672",
+      "balance": "654762318034043606305158174",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x9714d5a8C58AecAFFEAEe3E5636cce879C36DC44",
+      "balance": "458180343770082047667632640",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault12",
+      "address": "0xe67C19AeC0436DcE03E2420d5361027eB233af3B",
+      "balance": "432176972179652126992485362",
+      "is_verified": true
+    },
+    {
+      "name": "MasterChefVoltV3",
+      "address": "0xE3e184a7b75D0Ae6E17B58F5283b91B4E0A2604F",
+      "balance": "122687155307620717829154132",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9B2BC0df082BdAD4C2FeaB73704a6EAe304a8A0e",
+      "balance": "81269850437817737425240267",
+      "is_verified": true
+    },
+    {
+      "name": "VoltBar",
+      "address": "0x97a6e78c9208c21afaDa67e7E61d7ad27688eFd1",
+      "balance": "65351002163656961811240052",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xA670b12F8485aa379e99cF097017785b6acA5968",
+      "balance": "59696336184153080528860604",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D",
+      "balance": "53768610396000246015744861",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c",
+      "balance": "51828666614713225596628917",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraEternalFarming",
+      "address": "0x98cD3eE6a8B07a7bcD4BEc37B724afAb7dbFd4F4",
+      "balance": "29101920797134810456426294",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xC6A00C7fE6D01CA18c29a4F7e4F5d76fF7b83751",
+      "balance": "26871427448380577235761783",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x0481Da8F8c815C2A2cCC8cd2DB12D37ADAa0ba4a",
+      "balance": "26679250321719973126967875",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae",
+      "balance": "24268692710893409272787419",
+      "is_verified": true
+    },
+    {
+      "name": "MerkleDistributor",
+      "address": "0x3Fff27BC5cC97dCF37180a3c47578966881fE196",
+      "balance": "22816884816372424558706688",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x4E6b54f8dee787B16D8CdBA4f759342b19239C2c",
+      "balance": "22733688191759089571975731",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xBFDE08aB662B907146c78077310E4c2fFaCD302E",
+      "balance": "21110935849501066000571740",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault13",
+      "address": "0x145D8289dAc99a0919AB2F6EFb2621a65fF770B1",
+      "balance": "17327682158266501589048099",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x763c3d72dbdeb498D3dc196B68c9fb8e1d7B61b3",
+      "balance": "16104676276335343465559689",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x094DE4d315198Df981D3a20ceFc3381B2182a572",
+      "balance": "9225027047119000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "SHO",
+      "address": "0xcf49Ea30cF1396c7Db0f61048a183E574d1a55b0",
+      "balance": "8932000000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "StrategyVoltageMultiRewards",
+      "address": "0x811429dd7184b3b198c3bF80765383ECa390B445",
+      "balance": "7064246333848079773550565",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xfD7b053A625fa541fA4f13c032461D59c4475324",
+      "balance": "6122490580000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x258c69d3E52c4927F8A1739bC3F2dF93fC9B3281",
+      "balance": "5980493853136273443858213",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0x62b911f76fb7a54C25f4105c7da1D70052AE8596",
+      "balance": "5461001699857975545923588",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x722d0dB0575a03612a4c29C1818b402eF37C6128",
+      "balance": "5197377332205444749141013",
+      "is_verified": true
+    },
+    {
+      "name": "MasterChefV4",
+      "address": "0x61C34694dFAA863e952aCA788AF1fBc62868DE4f",
+      "balance": "3255650383685295486713586",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0xA503ee03D48feAE5164536B20712D303d2517D7C",
+      "balance": "2327200118197192466357178",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x0BD49929fd9aB12015bB27C91e6Bef43E492031A",
+      "balance": "1638241563450532019167906",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x167f9bAF9B6C45370E7C5032557E6500cda37328",
+      "balance": "1466685540000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x8c31EA4aA0a7B03A7AA43661570f14a8afcFA687",
+      "balance": "1139824199813668723905054",
+      "is_verified": false
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xA5D0Cd924a78911a72aBeb7dE0E282D454989E29",
+      "balance": "1056015221375129534443455",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xf93d44a49C55bE1cdB9b0afD7B8D6aFc7eB24828",
+      "balance": "1000000007180627396109495",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xa53638c1010c07B513e367bAf0EF97c6B098fe85",
+      "balance": "983767051217107408176024",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xFEc0FB01CAb4752BBa08Ed917dAcA8812f1851D0",
+      "balance": "739553284837259606738405",
+      "is_verified": true
+    },
+    {
+      "name": "TransparentUpgradeableProxy",
+      "address": "0x9b2B9b014770878bAF08c3eE1157b40B0d7667De",
+      "balance": "625000000000000000029808",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x9A96FA00551C2B646434621DbCCC531e6b55e090",
+      "balance": "598101647299649473836304",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xf663397e27875f32336BC9428EFc8DaA5450f6a8",
+      "balance": "593548161705899248096631",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0xA7cbfE03706414dF4CCEE09c003bB22B71f70B36",
+      "balance": "556301403390103475010345",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x0c5fAC0Cf5ECE9fA2B05f6b1ffD181bC1625108c",
+      "balance": "485823106762319938915188",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x595C8492725EaBBd50823Fbb1b98AB4288F06C1D",
+      "balance": "458689083871076459684044",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 41
+}

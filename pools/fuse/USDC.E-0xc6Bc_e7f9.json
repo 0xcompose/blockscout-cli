@@ -1,0 +1,326 @@
+{
+  "token": {
+    "address": "0xc6Bc407706B7140EE8Eef2f86F9504651b63e7f9",
+    "name": "Stargate Bridged USDC",
+    "symbol": "USDC.E",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "73160003241",
+    "total_supply_formatted": "73160.00324"
+  },
+  "contract_holders": [
+    {
+      "name": "AlgebraPool",
+      "address": "0x0CF70c61d6475081209d3C79E2583E0212A1b820",
+      "balance": "19852707424",
+      "is_verified": true
+    },
+    {
+      "name": "InitializableImmutableAdminUpgradeabilityProxy",
+      "address": "0x7f4CA4775F522e366F4730D7A4FBC30B513b4f21",
+      "balance": "9676081926",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x677409B2393E2ca19b454fB904F5E634E21D3D89",
+      "balance": "6221945146",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab",
+      "balance": "3481865649",
+      "is_verified": true
+    },
+    {
+      "name": "SimpleRewarderPerSec",
+      "address": "0xaAd13B9F63B4a96525f59654eAE093fA24703fd4",
+      "balance": "3000000000",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault13",
+      "address": "0x887c14dA6F05b7e355f48018e39BD98EFBB44F3b",
+      "balance": "1939717731",
+      "is_verified": true
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0xA253db0439DF65bC52599aD056b0d69f8960790B",
+      "balance": "1429973029",
+      "is_verified": true
+    },
+    {
+      "name": "CardDepositManager",
+      "address": "0x22BBc13D022735f2586d4eb04a93f0F4E0173E50",
+      "balance": "643785588",
+      "is_verified": true
+    },
+    {
+      "name": "FastWithdrawManager",
+      "address": "0x0bA17eab7B6B2353eA4731c37A2cBA2a5AA4Ea1b",
+      "balance": "304406066",
+      "is_verified": true
+    },
+    {
+      "name": "MasterChefVoltV3",
+      "address": "0xE3e184a7b75D0Ae6E17B58F5283b91B4E0A2604F",
+      "balance": "113123000",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0x3Ef3D8bA38EBe18DB133cEc108f4D14CE00Dd9Ae",
+      "balance": "106674548",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault13",
+      "address": "0x019096A7F634eAf182D622C6c0C246BebC756Aa2",
+      "balance": "21000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5e7D5613f0F39B6A8c23B6082fBE63389D09970F",
+      "balance": "17505168",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1173103c46B63b3C9552E24077a9F1e384812ba9",
+      "balance": "16009703",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x632243f399b6cbEfFCC8E8ff9BAaCe19e20F185A",
+      "balance": "16000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x38b5D9aE59456EfE256f49e5e477481E14DDf3Fd",
+      "balance": "11781280",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x15866493649b751deb891D46768cf4FFc485eF9c",
+      "balance": "9797934",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x8fa1e51a6747287373D2C288458424feB5509a5A",
+      "balance": "7972384",
+      "is_verified": true
+    },
+    {
+      "name": "VestingVault13",
+      "address": "0x659F022254b0a18a5FA91CFBCbeA515ae3005B99",
+      "balance": "5000000",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xe2667F60D66ca51cC356a1fDa1F34c9f75de7Eb2",
+      "balance": "3985581",
+      "is_verified": true
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x167f9bAF9B6C45370E7C5032557E6500cda37328",
+      "balance": "3300000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xB0210dE78E28e2633Ca200609D9f528c13c26cD9",
+      "balance": "2887541",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x5CcD01d249D196dAFc119adDFA4395ea0f033303",
+      "balance": "2076901",
+      "is_verified": true
+    },
+    {
+      "name": "BoringVault",
+      "address": "0x75333830E7014e909535389a6E5b0C02aA62ca27",
+      "balance": "2066616",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xEb47C8582184e80732768312B89E083A6322F8FB",
+      "balance": "1630436",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x68A9242568D48F17a92c5571ceE85aC966fFcFaf",
+      "balance": "1410000",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xA10025FaFe26B0FA59593bdFdEe764d49712D6f7",
+      "balance": "1019236",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x557DC78BF36EaD86ed575abdaA5196D002742E79",
+      "balance": "1001431",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xE65513Fe95F52F4350D2184c2fD722c37e6Fd995",
+      "balance": "988685",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xbcA332462E23bF9a2356552842b418eC549C7BC1",
+      "balance": "963680",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xC1f3c23129A09960F8A0A9A83C84a3BFA8fFFEfb",
+      "balance": "718620",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xc2038D812a551765dec5F91603613Aa1284DD873",
+      "balance": "688251",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x7Ec16644467A229366aCE567a4E608Be3dC737C8",
+      "balance": "611862",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x2B902051ad69B81AC52b29d8A257d60F89dE2eF1",
+      "balance": "551493",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x7F915B70196925FC8F9c2F01700fFBb6899eE733",
+      "balance": "490000",
+      "is_verified": false
+    },
+    {
+      "name": "GnosisSafeProxy",
+      "address": "0x9fc0986Fe1b6B67A1ADAEF653CEd1f1D7C62CC88",
+      "balance": "411943",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x67ba605703a3cFd419079a1048dd76F11909191f",
+      "balance": "211673",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x4F3A0a69AC55045caFE3F769Fa53D912eF912561",
+      "balance": "199008",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x2E95a53590146460db95559c0Af8cb8c5eCEA397",
+      "balance": "187107",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xC0f7D8e2d9d034627E28e4899a9459D026221297",
+      "balance": "170000",
+      "is_verified": false
+    },
+    {
+      "name": "TokenChwomper",
+      "address": "0x5C2e112783A6854653B4BC7DC22248D3e592559C",
+      "balance": "144535",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x81d96FBC9D24568E1F7f8a4c049AE7a6E452628e",
+      "balance": "137180",
+      "is_verified": true
+    },
+    {
+      "name": "PegSwap",
+      "address": "0xFa70dFFeA090fED2d6E9301fB10b0d4C81072E4c",
+      "balance": "113741",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xDF11c3621b45C0b23b12377A3eA5305F19D22a15",
+      "balance": "110000",
+      "is_verified": false
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x8E956895977F6cD5c7599718D1CB4d5A1ec90723",
+      "balance": "100000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x6FF1b76675D6edC518814fCBa444121370aFa010",
+      "balance": "100000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1D6a2b61FD7b361e64eDd6301D2b9E9004AeFC9c",
+      "balance": "100000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE342ab104a6E2A9107c73d283D82C14830c20fC8",
+      "balance": "95889",
+      "is_verified": false
+    },
+    {
+      "name": "AlgebraPool",
+      "address": "0xE5d031E6856844229aBB98de5A20be3efc015702",
+      "balance": "78772",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x000acC8042eA362149ce2b2709Fc497B6505634E",
+      "balance": "67649",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0x0636bC546aa4762eAD908Eb0A9B573DF30f57fBD",
+      "balance": "64179",
+      "is_verified": true
+    },
+    {
+      "name": "SafeProxy",
+      "address": "0xa47b3885492ff2ED5D42e582a9659ba98F0cC41E",
+      "balance": "62056",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 52
+}

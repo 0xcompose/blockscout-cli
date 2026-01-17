@@ -1,0 +1,440 @@
+{
+  "token": {
+    "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
+    "name": "Fuse Bridged WBTC (Fuse)",
+    "symbol": "WBTC",
+    "type": "ERC-20",
+    "decimals": 8,
+    "total_supply": "39723528",
+    "total_supply_formatted": ".39723"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltagePair",
+      "address": "0x97F4F45F0172F2E20Ab284A61C8adcf5E4d04228",
+      "balance": "16576014",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x79FB917292f841Ab64941C04aCDf5F9059aa24E7",
+      "balance": "5059836",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xfB52965694EB3b5773009b2B0dF85953fD146e62",
+      "balance": "4700532",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xe543C2e3555B79b78c2BD1988Cb0A362D1a51420",
+      "balance": "1067748",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x5a7634149d9f4F34EA10Ec10159fDC41d04e2E28",
+      "balance": "714130",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x9d9e8787f25594fD68551989DE185408f9442124",
+      "balance": "312129",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2A4Af0FBefBF6c4580cF71f34EFe947A4fcfFE73",
+      "balance": "268383",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9B31152CBc8E01d50433fc00d9bF9CA34e53181c",
+      "balance": "192274",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x97051c39FD1a4204384C8040e0EF428d7F40118f",
+      "balance": "182231",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x169488034F1595C90dC7F64002D4095Af7730E37",
+      "balance": "181906",
+      "is_verified": true
+    },
+    {
+      "name": "Vault",
+      "address": "0xc18974764F7Fd055E680656Cb44CB50b2c4DDb2E",
+      "balance": "143869",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5d4C4D0b99A9a31aE549708B6213C9Cc918d0Ad0",
+      "balance": "140620",
+      "is_verified": false
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0x48b21179382BE6A8A2672922981b9D01B2D3c234",
+      "balance": "118998",
+      "is_verified": false
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0x3b69400d6D734104c79c93791021cE923df21193",
+      "balance": "76343",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xBFfCEf0366D365583A0caa8Bdc848004C64BfB46",
+      "balance": "60100",
+      "is_verified": false
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xE255444864f053584b18d278B46f6DB5976dCc0D",
+      "balance": "53797",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x5C72e7A1574BCB45f99C79411fE2b03b0B42dBBa",
+      "balance": "30431",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xD9c6cBf498C91868E6761B33E7ebd43CCA30B472",
+      "balance": "26042",
+      "is_verified": true
+    },
+    {
+      "name": "Vault",
+      "address": "0x48F76d2Be0f335b2be88589A1889d5198E6B3551",
+      "balance": "21369",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x17c77E52D281fe02AA495146399b8d31B1FB5269",
+      "balance": "19907",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x0C2A8DEbbB8E0B0F1Db9359e27d3adE83BEa18c5",
+      "balance": "19881",
+      "is_verified": true
+    },
+    {
+      "name": "PositionRouter",
+      "address": "0x9cA7368863137C755Ac4B51EF9a07Cebe5E162B7",
+      "balance": "19541",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x625248b740FEf46daCEA3243eE50Acf829c920e1",
+      "balance": "18947",
+      "is_verified": true
+    },
+    {
+      "name": "ProtocolFeesCollector",
+      "address": "0xA6f3D95573355a42FDbd53855AE7712B3632faE8",
+      "balance": "14600",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xcE81Cb46835c250Ca8f61d54f49f7A083088DDD2",
+      "balance": "10673",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xDEC1440E654872C486E48A401d7a441d681989A7",
+      "balance": "10561",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x0190e2E058a92F356b53BaB3F3Cb4840260A3a6a",
+      "balance": "9374",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xBBd9D7Ad07B09922d99C9A7B047953fdbCBdAb0C",
+      "balance": "9297",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x69D3528B7075870e4E1D8f98c97768436B2bdaCC",
+      "balance": "8613",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xEBbc11671B5D4edc45135Bba0896C3bab0e8BD31",
+      "balance": "5741",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xE33aB593652b5E950ada864ae0fDdf74d20441A5",
+      "balance": "4723",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x7BDB32ca57814fB3Ab9a7C97184aAFb48c22157f",
+      "balance": "4638",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x8C9958d439d0526746087ab9b6DAa66270b4c476",
+      "balance": "4218",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xCABe82664c2Db05bF8763726ef12266d6d8CDbBC",
+      "balance": "4195",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x68A928711d10F6bc4a5058Ff06E0FEB1714b82Dd",
+      "balance": "3938",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xdED7D0aeF9927F7BDC22E69b60679dd8a0Aa4b99",
+      "balance": "3898",
+      "is_verified": false
+    },
+    {
+      "name": "Ola Wrapped BTC on Fuse",
+      "address": "0x3882bA8bD0E8AbAf56F86e6744b103dAB6a9ba4C",
+      "balance": "3883",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x71D7284FA33cD215D324c3E2291F5EaB1493B9e7",
+      "balance": "3768",
+      "is_verified": false
+    },
+    {
+      "name": "Degen Haus LP",
+      "address": "0x6EE66B511706DeaB77B28Fb400CB14cC8CA315e7",
+      "balance": "3706",
+      "is_verified": false
+    },
+    {
+      "name": "FLUX-LP",
+      "address": "0x821f6B28a7Aed1DB1d35d2B552ec444d10fB3a21",
+      "balance": "3266",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x29574834c3047f4E896e8D37C584b2fB239ADeFA",
+      "balance": "3008",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x3A96b1894A63570EbC7E7989667707a32c97Bce8",
+      "balance": "2872",
+      "is_verified": true
+    },
+    {
+      "name": "Vault",
+      "address": "0x2EB12e4B1057ef2d0C300C41493B599B028dB00f",
+      "balance": "2758",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xB98c504a08a65d1bB315138AE7c4b6F8aB93Cc62",
+      "balance": "2718",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xd1FE203053Bef44Da3b15ee31Df0f3C18EAB23cE",
+      "balance": "2716",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xdfaB081c5806D06d86891e0F88745B676D2C5D38",
+      "balance": "2612",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x6aC81bdBf51De64B86d302220c05a975C5A8B4eB",
+      "balance": "2421",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xe92D8c445Deda9bA03c24A74208f7B00336118A1",
+      "balance": "2361",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x082Fdd9873DCb7Ee6BbD18feb3A1B9236cDB7756",
+      "balance": "2345",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xcD6215D546A9F5df98e2add360A477C3D5CE007B",
+      "balance": "2315",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x54989942a16179843E17E8a778a525E6964302A1",
+      "balance": "2271",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x047a609036A77aDb755aF1f5f25d59452a19c62a",
+      "balance": "2144",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x26cCcfa3bb0D0DAA2ebA543E5227ad3EfEc9CD40",
+      "balance": "1987",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x69ED8968A59041eA1151471b3f4EF408e46EC1B5",
+      "balance": "1863",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xF0c7a373A653D4Fe1004d6D3f5FF45Ff4A06FB66",
+      "balance": "1820",
+      "is_verified": true
+    },
+    {
+      "name": "MultiRewards",
+      "address": "0xC2B83a3C3199Fb29Ce1d8Dfc681001AF3e97e004",
+      "balance": "1800",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x928DB5149233e3FC3c2df414a6B75Af412f5283F",
+      "balance": "1618",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x73a2b89EAA072Ad0CCE26cd3d8112802F9Cdc752",
+      "balance": "1605",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x0C56Fa211726967a47B766C3f7163B001E7D2Ad1",
+      "balance": "1597",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xab9283355562C907b9705691F5B43e347ef26930",
+      "balance": "1381",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x454E9F6B9538dDF775fa0346f7A683125c5D54eE",
+      "balance": "1202",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3Dc040321a965abDE47B079f4a76D96dc6b9fb73",
+      "balance": "1147",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x7CB333fC474d1554E0Ff61D6256619b5e2014b9B",
+      "balance": "1031",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xDa1bf61756D92E3D713ca4eC874E8359Bb7d7177",
+      "balance": "1000",
+      "is_verified": true
+    },
+    {
+      "name": "Ola Wrapped BTC on Fuse",
+      "address": "0xC3a212624bd6377b4F7eC025Fc9B3b5763e37840",
+      "balance": "1000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xa276C7A24bf47C1c13ee79568A6d234296649C53",
+      "balance": "1000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xe38394579d7B6482114A3305C1F354667480aAb7",
+      "balance": "716",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6028dc97A2D27039FF90C53F0b050f31f77F5c24",
+      "balance": "672",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x57c2B3D3fC7db05cCa75d43F49Cc019042c3500B",
+      "balance": "654",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x1570D6D390173Db19fee999ff01dF4c758d247C8",
+      "balance": "461",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x35A01FCBE6A1313da8533cea4542839e3BF53721",
+      "balance": "416",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 71
+}

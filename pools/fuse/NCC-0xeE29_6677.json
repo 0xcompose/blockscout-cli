@@ -1,0 +1,1214 @@
+{
+  "token": {
+    "address": "0xeE29Dc795EB558b65201a98ccb9Bec3e044C6677",
+    "name": "Nano Circuits",
+    "symbol": "NCC",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "1000000000000000000000000",
+    "total_supply_formatted": "1000000.00000"
+  },
+  "contract_holders": [
+    {
+      "name": null,
+      "address": "0xE883b7B983538CD595e5cDf8ceF15f4Df2e8a548",
+      "balance": "457849000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe10AF54ee6CdAf3a43B4a7D153C51F7F757Cd677",
+      "balance": "146565774041399949461095",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4613484288e93c7339a3Ec12332227Df98c75AB5",
+      "balance": "6218000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x052194a09b0a96aaF3eE27219fbc3C8e4ce36319",
+      "balance": "5085000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x33A234705DEDF22456BE6473064cb1BBFC1dd974",
+      "balance": "4796000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xC6107913400696100b77E67D4784853fa3bB9161",
+      "balance": "4250000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x211ca09b6F28f4D66F324BaC6845449F631beE37",
+      "balance": "4167583530209080738287",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5459a745De1b9D23046527FAB6D3d3137FE53C11",
+      "balance": "3513000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x00eb5A6551e2544F6D4CDA56CDD542F5AB90CA19",
+      "balance": "2666000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x81AE9F549c5689a583C4Fe6EBd21fc37766315ad",
+      "balance": "2394000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4fd1875AD2385f1CF9e128E6d89ef57E03477477",
+      "balance": "2355000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x9D2749d5b53d6a80a4B5e92768F0b2880B51798E",
+      "balance": "2093062565804576205492",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xB5680027E70dC3101C382c3066E8421B8Cb63db5",
+      "balance": "2087000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x5e977D61b89620dE1e024E1119d59B01Aa21a89B",
+      "balance": "2009981077701606356394",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xf8F0fb606e616fA0379D2A7bdA7f0725Ff950B8C",
+      "balance": "1994000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x85E8D7B2F9460b24559F2B185262c701D12FdA59",
+      "balance": "1971000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x53b7909F2863e497b7dF79dF7F9A285934484fEb",
+      "balance": "1937000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x11Df3380520298237A588ACa2c1f5ba5c378f249",
+      "balance": "1897000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x8d56F0987630AEB369e8fB4943aA7DaFC629749D",
+      "balance": "1647000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xF551A0Fff2Ed8a47AeE4154502390F95F6836d86",
+      "balance": "1625000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x6cFDB9b199B4753279440Ce25481B4449fd98027",
+      "balance": "1591000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x85CC250Ead551e102A1252Ee2b3dAcC94f6c0D66",
+      "balance": "1518000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xEec873334b02dc5caDc5447DF08B731cbEA035D7",
+      "balance": "1452000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x97D0966A673CAb13AbE0500f32EC7Ab36d86c808",
+      "balance": "1329000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5040bC8B149ca60bAc7824c477bB8aA638C17b9E",
+      "balance": "1316000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xDA90791A21DD871A1fA1c7Ba4AF1bfA0326F2bC6",
+      "balance": "1314000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x1B17e98bb2AC5d2E4492Fb658BB1619bc1a8ab71",
+      "balance": "1262000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xEEe50603DD6233E5EEE7E786D33726469F2Ca382",
+      "balance": "1255000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x933CD0D0998bbfDF1Da9270b45395ab3FBe0CD0F",
+      "balance": "1239000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x0D72D53A727b57B31025E8a675d3Ccefa4C5d2A6",
+      "balance": "1234000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xEa112BcD42925f7c52A496aa33A2bbfE1772CE7A",
+      "balance": "1190000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x30b1Af358fb761bFE1754b8e1509e71ccF401c28",
+      "balance": "1173000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x213f20f4Ce28f18fFDdF34aDf91C85C432b3E554",
+      "balance": "1135000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf4d5B357B8bE4bad452783cc3cd984b42DED216D",
+      "balance": "1120000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0E8872a813E12354811D0F1823059d4ba3e35764",
+      "balance": "1111000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf6b21D03E9Fb418955D58C4C1902CFcd3477B340",
+      "balance": "1104000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9B2bBA09677eeac76e715814Ab573C346719CA15",
+      "balance": "1080000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc2B247D621Ac91979cD8d1d1a3ee147664Ea1c2f",
+      "balance": "1068000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb143ef8744f8B4a56dd9111C1Bd35C963B3B0237",
+      "balance": "1035000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9AcBf732d266576ee0a447792f705fbB10760410",
+      "balance": "1010000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xd3873FFc9a28F85aE9f1c77175595Ce4DD69Be32",
+      "balance": "993000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9bBe12e9971f7E3ed2847EC3D5D4852B016AA77D",
+      "balance": "981000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5C6dceA01DE952CcfA8Cba4F9877c4Ee3eb47205",
+      "balance": "981000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x051B35ccf98f2E786498d3EedFA06Ff644E88234",
+      "balance": "974000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x3e74147E2D73610d1578eCDCB24AFE04fa2fDAaE",
+      "balance": "946000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1e078e29955F6fB3e5dC3DcB5A453604018F1804",
+      "balance": "932000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x8A0BfCCd7657c3318c9B7d1423B967aFD0A1b2f7",
+      "balance": "929000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x7BCECc1F891cAD7DdBAF6d218aBed6698B7e8A0D",
+      "balance": "923000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x04886ACa8695207Db8a324E8b96A3cee224E7FEa",
+      "balance": "907000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x827152008A65235a22cA56866aac80c37684381b",
+      "balance": "885000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd5a75EbfB49e48840F0b2036625b1f7D9f85403F",
+      "balance": "878000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x3108bDe2C0c05ED4Fc1BD82fD0Ab01306F8c56db",
+      "balance": "877000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0xdDf31Ecab20870700B0B79804b37b18B3210E25f",
+      "balance": "871000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xDeF29B9170a714d705E1b931A9C7f5f59E9741b4",
+      "balance": "853000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x751f9A6bfdC3696F140144698e8D45BCd24b87D7",
+      "balance": "840000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xcb03384491E679f98d675D9d185944D239821E2f",
+      "balance": "838000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xFecBD7c78b67051F7d0469bF3e4BB3eec32fa682",
+      "balance": "831000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x523B577d0D136A47Ed4F88E07305da2738b0b6B6",
+      "balance": "818000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE56EE62D1650F3D6fC53ad6B03b3841c171dc844",
+      "balance": "804000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1295C5A041AD3b82C62fa57B21c87C7fb980A20f",
+      "balance": "773000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe8652A83D12AF64Fb0AD573DB32b5D3FaDD95611",
+      "balance": "770000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x550cB93fB8704eAf38FdA44e41ba0d5c14f10271",
+      "balance": "769000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4B71352C25A3B9cf47608E386621B8F0ABd20b1D",
+      "balance": "767000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x849e5Bbc4580490e5eEa50EBEFDB129cae2dcd9b",
+      "balance": "759000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x0387Dc437519dfBEa6a5d68443173e6841E21968",
+      "balance": "755000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x3e45fFBE9F171fF4559Be3F147001aA96A3DD7d6",
+      "balance": "741000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xcb04e4765A2D89A1e800095425514C3624F7Be3d",
+      "balance": "719000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3ab5508d554ab77C9dC10815890C8dBa3617011e",
+      "balance": "701000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x47397210409441105f5771704dae4D8D9144dd9a",
+      "balance": "692000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x2494A3e12fBF80AE435615a6cC84c3c058CB4Cd6",
+      "balance": "691000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x50E4A72B1e9bB29AF09beb35ca17E54293F2B2d1",
+      "balance": "682000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xC50a9b58fb76d33650D066E23cEE50Ebc13f3293",
+      "balance": "669000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x112671Ba3C6f393D505a4eFd82CfA96c56b549FB",
+      "balance": "664000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xFefdAa9E57905c139a1930C514B182Ec12DEB2E5",
+      "balance": "663000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3b728E2b20423a3a0dF70E013AB46be141E41365",
+      "balance": "662000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x555b2ca29db91f66C421e254dA7A9271731Eb1f9",
+      "balance": "658000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4f9f33acc6C0A6Ff68a4bbC7e2fEb0D1525c7A5c",
+      "balance": "656000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4CAb6477cc8025A76dEfab0BeB4039700C2B9cc7",
+      "balance": "653000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd770fBDD3351A64cF5B01a0DDfDd0b826Ad2C0D6",
+      "balance": "648000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xD86eC746514cFdB585ebe9138B526739e6A7694C",
+      "balance": "641000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4Aaa03cfC4493D6B1d28E53d58647bfFf4558d8b",
+      "balance": "631000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x049B330CFBAC535FBE422685A4d42a279eb46918",
+      "balance": "629000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x1a7c7E3b981187182B31afa4da18086AC313D3CB",
+      "balance": "624000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb3dd246b8993b688FFD9B5e9A3c3E097D4888110",
+      "balance": "622000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xCb15Ed72917Be51f62cAcE1F2B2723004e76A884",
+      "balance": "619000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x73e6577cC8611328F12CC3C997e995270799CdC1",
+      "balance": "617000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe6976A8A7213C5972e17dc72a2861687ebAFCbb0",
+      "balance": "611000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x15978920F0aF8CE473E6ccfDD424B072B676E8EA",
+      "balance": "607000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xEc0f30E0f14ADe81F715cF67063111AA921b1105",
+      "balance": "603000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xd8a27814291C5Ab7D384E31e1D750A62693b61D5",
+      "balance": "599000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1Bf1C9646652Cd7157885FfA18dfed82612BD177",
+      "balance": "598000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3e6BEdc1f86E152AE24F617A7968012BfD7B11c3",
+      "balance": "586000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x7aC3CEfE129db22B9720fa7DAF51eB1e17Db3dB1",
+      "balance": "583000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x83fA9BA21e9d6EfdB7c675E9aDBe13b58C740e42",
+      "balance": "581000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4aa08D88f1d52E0824D2C9Af800354d5BB4c1121",
+      "balance": "578000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xA3C1eF2d9a1bb2234735a968476712B85026F6ac",
+      "balance": "577000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xCB7E44007b0750f9d391d7c6De5b98EDcf51510F",
+      "balance": "573000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x171ce8E00091e378f5f95bC5de25860DD71B9561",
+      "balance": "565000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xa33b3F04Ad59F06719E9671fFBBa9659E1C4137D",
+      "balance": "562000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xDB377Fc14E46098bb816B85356561EA383A11b82",
+      "balance": "559000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x4C86bfe00e41f64216A0809457557db32916A8F0",
+      "balance": "559000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xC010Ff021cD59aD273A387f465526323e6F8A795",
+      "balance": "536000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9E73718A2356a80bD308b76F190c29239CA477F4",
+      "balance": "536000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x4AeecACab360593B6cA2f6f71b46761AA4cceE0c",
+      "balance": "536000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x0a1D19F454FEe06eCa27C0E0782a8bCe75073842",
+      "balance": "535000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xcf3C6776B6A04447E3830Bc255f7D4bE74A601d2",
+      "balance": "533000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x926E7DE00ed3519aF4746F5CcD48F760D1Ad8802",
+      "balance": "533000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5acc03E2141702a5D97F62f07D8e660f0aDf6834",
+      "balance": "525000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x6dD2E267499A128823F2c2ff6b9a5dC8f3FB403B",
+      "balance": "521000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xcef7aDE891A65F512667380Df20B3c3794fD1F27",
+      "balance": "517000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7eb0A6a47F1c350E31827dA60cDF3356Ec5E8F30",
+      "balance": "512000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2865bf9a6c51C2eb2E0003b7eb2d79DF9521ef39",
+      "balance": "510000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x119df9b5839Befb417fb6598f62594E20B39837f",
+      "balance": "509000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2c4a443AF007f7DEA279af06f3eAdF6092076009",
+      "balance": "492000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa72c4501044FD9567a6EB8AB34a1D0015b4Bf611",
+      "balance": "490000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x52474B66b7cd484287632826F3f1264538ED539d",
+      "balance": "490000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xF65140Be8F1362f5630D206Cb306dAA890e240b0",
+      "balance": "487000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xaDADA1a659f3378f25a1b9838766f76331a5e718",
+      "balance": "487000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x34DC6D0d8220F9d0D670E4d6098510105cB0B303",
+      "balance": "487000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x7F4e3ee30Ad94c3f421F063587638f7A61B873e6",
+      "balance": "479000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x7fab01dff9420Fce619A270461B16508Ac6555FF",
+      "balance": "478000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2343bfD87245823974621C9249351364750E40C3",
+      "balance": "477000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa76aAAf9E2318a98dCD800CaE4C2e68A7eB74b35",
+      "balance": "476000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xDc1f8C5C19Ccaae904a761902B0F22fD939Ca2f8",
+      "balance": "472000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xa56de9D86aae446Ad1da49AE53D598fee481aCB1",
+      "balance": "472000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xf0163A43F5681A7CA851Fbe97bd966552aecC83d",
+      "balance": "470000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xA68aBD1EF69E37ba77af5122DC6407DB896997a4",
+      "balance": "470000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x7843A08aB7F569d34ef987E9d7de70Cc77461DBd",
+      "balance": "468000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xF734009342ddcd762fd48c1FEba2e1eDc56b41bA",
+      "balance": "467000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5167f01F715Eb21Fc3F0495efD5d7c670F3bD353",
+      "balance": "465000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0b42956E11bdb13881E1f169De902969F1C8E63b",
+      "balance": "465000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x672A5D8D00C0f13114f874279b23679A1817d6aB",
+      "balance": "460000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xD6fa63e49273Ec1a0D4145d9691e11C8A50A5Daf",
+      "balance": "458000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x35709f7f429C3B113C27780dd1f663810bA3D5bF",
+      "balance": "458000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9A255710622276B563DcA52F21ca12E5416d582c",
+      "balance": "457000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x81208A4e06463eB1f49e28eD6EAb2FfAA224Ef23",
+      "balance": "453000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xB455EEDaB161e0789438E3742B2CE098873A6baE",
+      "balance": "451000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xAA2Cb2EA8d1697f236A3ee656CcE8C6fF4E7192d",
+      "balance": "449000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x90439a01409A6d6F9A9008ab5C9679CFd5Af9E5B",
+      "balance": "449000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xA416566F74E5426D6397935d27a682D3E486FB66",
+      "balance": "441000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x39E94A0Ce92CC557f3eBc91a20cB79Ca2D8097EE",
+      "balance": "440000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xAFC037aC66169317D24629E7dCB3486eD7Eb7ab0",
+      "balance": "435000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x516c82A9312841dA782e9C5D8e39F51746F91c62",
+      "balance": "434000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9bd688f57A89156A934b7aE24E56A5F81EE22438",
+      "balance": "430000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2e8288Dc073B56602Ef12F5a738986B7a61d310b",
+      "balance": "420000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x48C448D5465a078a1c7B06bfd2b821CD8c51381c",
+      "balance": "415000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2cB2D845E163f33614d5014638feE6255f2C9509",
+      "balance": "413000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x12B9dd83adA01713431E88C86D05e457FB678208",
+      "balance": "410000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x96D0C0d594Fffdb38D1Eb6D623F4B717F0313A39",
+      "balance": "409000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xe9E39baE4CA05ef06140ce863eC8d8E0Ebff7eC1",
+      "balance": "407000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xB5f2654079E769543519f3Ec1e60B22DB3c219B0",
+      "balance": "406000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xa2Dd798a714648a8dd43424b539536Edaf050573",
+      "balance": "404000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x255Fe3CC00dC2b72a782587814662e4f5c01fd24",
+      "balance": "403000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x1582d963594F68057720825E0d2be9F819cf6e10",
+      "balance": "403000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x04a2F8d1834F0e5EAd9E22281544303Df3f58dd6",
+      "balance": "401000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0C16150B87126cC46f88c768557cba7DCA5d52ED",
+      "balance": "395000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7aD3974aE314E31fa9A8Ddd79D127b5649659d12",
+      "balance": "391000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x12910C3c0bD67612fC6D9fFF7A832010847F9844",
+      "balance": "390000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xcd9e653fC68c797a282604889DCfb90f845812dB",
+      "balance": "388000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x9bcA9319bE03c11fE012549E5f84BCeE86291E63",
+      "balance": "388000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x26CDe100C968373175996fB3a0Ab2104c84F4109",
+      "balance": "388000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x9E888828c66ed697b84c7781F4790b4FB67f2f8B",
+      "balance": "386000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xdF40E58f9528F2D70Cf2F663091C798523BB9403",
+      "balance": "385000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xeAbA07D11B9efb5Ea357507Ab974d5D0c8161b74",
+      "balance": "384000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xEE7F879dab15F14ACa9655D29DaDb0d09C3AA9a7",
+      "balance": "381000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x33fBa5b8Ede375f0dE9Aa93c1b02b3bC50989183",
+      "balance": "379000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": "Proxy",
+      "address": "0x04810a9D00b4af3c6DE7e7b03f09a312122Be1d1",
+      "balance": "379000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x96BD9e0FB95F1Effa70ba456983a63a80100AFD6",
+      "balance": "374000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe96B0A55641b6513515c78A9EAAdFda528Afa3Ef",
+      "balance": "372000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xBcBd5DDBd030dA1056CC95485c8dA123e365fd9A",
+      "balance": "372000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc215584E1d6CFd2a1e4C197B3EC4F220006f9fd9",
+      "balance": "371000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0xF7924D798314BcCd203E028E60Bdda94F1C0e6F9",
+      "balance": "370000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x64f519869216BA5f8F229D690641205ee03cB8b8",
+      "balance": "368000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE92E049fac5990B584E857119467394f76f9a5a5",
+      "balance": "363000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5eE40fF618C49eCb0dD37015d9a70d7e9bDc4257",
+      "balance": "362000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x94358Cb19107f2DF02EF18f1906Ec6bb2Dd6BFD6",
+      "balance": "361000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE119BDdF88b58a9257D3D5FfA05b353d395a8d6B",
+      "balance": "359000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x260410d73E65AbB6C8Aa9aF06843133DCcCb9e2d",
+      "balance": "358000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x3A379A8Bb1bf07248C0Acbb753125b63e08FA616",
+      "balance": "355000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xCF3B81128BB20B369E14f6329Dd0D6e054081254",
+      "balance": "354000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x7F242E1D1a5937821b7c7b4FD84B1607A424782B",
+      "balance": "352000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x00A179f80057E4438406514e5115618b4A93bdA1",
+      "balance": "352000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xc156e4D462727a20BbA69620BfE629062C0019Be",
+      "balance": "348000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x12B38782a2e1D790961318823A50dD13e335DF4c",
+      "balance": "348000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x2D33c48cD110b389Da8B31d1F3850936aD1e7CA1",
+      "balance": "346000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": "Proxy",
+      "address": "0x67583C257aE0CC5dc012766EFfaa732F98bF7aD6",
+      "balance": "345000000000000000000",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0xD0ee732de2fc2E1Ecbcea727d565991ECcd8381C",
+      "balance": "344000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB288b42AdB56F8c27d2F401B6ef438483193e5c4",
+      "balance": "344000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xA335695630E1C3CD2e1bbF2E437D9E4aE1550B0d",
+      "balance": "342000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x107A8A097b5CadBFc34a3328c2d7CdeDd0ed5f41",
+      "balance": "341000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xf635089F3a7feA914C5008Be67ED3c3f17a815ED",
+      "balance": "340000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xe45Ac53A16F4D8beF5F36285Ca094ae6d9a299D9",
+      "balance": "340000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0E53Dc212B5C58a82824032ea4308824e341BaB7",
+      "balance": "339000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x07980F7d1e7246C6593B1D331d78aa9ceAC99Dc7",
+      "balance": "338000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xeFc9d78ad450Fa10dA968a54e27994148ACf56d0",
+      "balance": "337000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x5a73f0bf73f32f3f30a5F6965B4106bA30F1DA6C",
+      "balance": "337000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x0FE6D39e4D63FaaE82c639a7E116cC65C3b90528",
+      "balance": "337000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE4Ce0C9584a25da9974911f6Be5F9fd5AF421bd7",
+      "balance": "336000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xB6E0E6eC16718C18D615bbA0EdA28F17237Afb86",
+      "balance": "335000000000000000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xD985dA437b839304f3A47813AfeB25CFbfc7C519",
+      "balance": "332000000000000000000",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 200
+}

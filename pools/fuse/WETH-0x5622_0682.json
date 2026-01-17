@@ -1,0 +1,80 @@
+{
+  "token": {
+    "address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
+    "name": "Bridged Wrapped Ether (Fuse)",
+    "symbol": "WETH",
+    "type": "ERC-20",
+    "decimals": 18,
+    "total_supply": "15022150743707537671",
+    "total_supply_formatted": "15.02215"
+  },
+  "contract_holders": [
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x7b2161B32E65F8E76F63d6aa2409D93525991c23",
+      "balance": "208781130355369768",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xde2C93fB83DD29372A62f12653B95a0473d96295",
+      "balance": "77583673836060731",
+      "is_verified": true
+    },
+    {
+      "name": "MasterChefVoltV3",
+      "address": "0xE3e184a7b75D0Ae6E17B58F5283b91B4E0A2604F",
+      "balance": "53628229710185600",
+      "is_verified": true
+    },
+    {
+      "name": "InitializableImmutableAdminUpgradeabilityProxy",
+      "address": "0xeC3911CCa56Ad400047EC78BbD4EDc9DcE27A745",
+      "balance": "47968127917606303",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x6f2681897505D6fE52148Ad14e32D00E522bC223",
+      "balance": "44597661482029328",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x1734672003535C1210B7EEF98C26cD2F1298600b",
+      "balance": "31490244680122917",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0xA5D0Cd924a78911a72aBeb7dE0E282D454989E29",
+      "balance": "25495558277261195",
+      "is_verified": true
+    },
+    {
+      "name": "ERC1967Proxy",
+      "address": "0xd253A5203817225e9768C05E5996d642fb96bA86",
+      "balance": "22500000000000122",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0xE255444864f053584b18d278B46f6DB5976dCc0D",
+      "balance": "17034447598145005",
+      "is_verified": true
+    },
+    {
+      "name": "PegSwap",
+      "address": "0xFa70dFFeA090fED2d6E9301fB10b0d4C81072E4c",
+      "balance": "11329536788038850",
+      "is_verified": true
+    },
+    {
+      "name": "VoltageV3Pool",
+      "address": "0x9c60DE353f5A21ab3DbFEE149AACcdbDFb71B4a6",
+      "balance": "11292718440194450",
+      "is_verified": true
+    }
+  ],
+  "total_contract_holders": 11
+}

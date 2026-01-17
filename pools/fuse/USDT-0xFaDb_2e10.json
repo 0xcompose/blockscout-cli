@@ -1,0 +1,128 @@
+{
+  "token": {
+    "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
+    "name": "Bridged USDT",
+    "symbol": "USDT",
+    "type": "ERC-20",
+    "decimals": 6,
+    "total_supply": "65478935060",
+    "total_supply_formatted": "65478.93506"
+  },
+  "contract_holders": [
+    {
+      "name": "Bridged USDT",
+      "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
+      "balance": "7001000000",
+      "is_verified": true
+    },
+    {
+      "name": "VoltagePair",
+      "address": "0x30cB9372EE28CF70b4A497B901f717e20bC27d51",
+      "balance": "3133062280",
+      "is_verified": true
+    },
+    {
+      "name": "SushiSwap LP Token",
+      "address": "0x00E485d833099679eD7D121CE46a9557ea8aDa1e",
+      "balance": "2504459107",
+      "is_verified": false
+    },
+    {
+      "name": "AssetProxy",
+      "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
+      "balance": "2135990399",
+      "is_verified": true
+    },
+    {
+      "name": "SwapFlashLoan",
+      "address": "0x2a68D7C6Ea986fA06B2665d08b4D08F5e7aF960c",
+      "balance": "487423341",
+      "is_verified": true
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xd548e1b5FB16307651825453E53b360C6859629a",
+      "balance": "172252206",
+      "is_verified": true
+    },
+    {
+      "name": "Uniswap V2",
+      "address": "0x38EBDa3998815dAD9c01Eb0Becfb937F4C3E5461",
+      "balance": "133394761",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xA0AB0D632514cB406c00857d6e32FC808438Ae49",
+      "balance": "131532209",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x204B37bA2011D55f5Db230feC94B3B6430ae4089",
+      "balance": "106950019",
+      "is_verified": false
+    },
+    {
+      "name": "Bombswap LP Token",
+      "address": "0x206fBD40D3ee73b048a8dADAB5D67C3c4164e80a",
+      "balance": "102406168",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x8896E92Db6f02Fd089DA7C1490D8D8cA2069EA60",
+      "balance": "25132321",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x26be6A98B4bbd534AC024AaC1b9eA36cE5B36b68",
+      "balance": "19280095",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0x752e5600EA9861CEEe618a4B15E94B14b210f769",
+      "balance": "18316665",
+      "is_verified": false
+    },
+    {
+      "name": "ElkPair",
+      "address": "0xc67Fa95c89F3E4ADA54cDD6b4A22fAb190E4b8D4",
+      "balance": "15078722",
+      "is_verified": true
+    },
+    {
+      "name": null,
+      "address": "0x5927f0aFBAA569B9B0ecF357de9851219A2C91fb",
+      "balance": "14124847",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE29fCc3cB84CDE84D56aFeA6321aa80d0D1f3e75",
+      "balance": "11872787",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xb4bFa8Ee86979E250E0F0Cf8CEaae4245A7364E1",
+      "balance": "11000000",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xE6623aBAbD36Fb03b0b9e04f3C8d60608823859E",
+      "balance": "10463088",
+      "is_verified": false
+    },
+    {
+      "name": null,
+      "address": "0xCe46a2675681176F46f0C9476d67d0af0724b0eA",
+      "balance": "10000000",
+      "is_verified": false
+    }
+  ],
+  "total_contract_holders": 19
+}
