@@ -3,7 +3,13 @@
 LIMIT="${1:-100}"
 TOKENS_FILE="${2:-tokens.json}"
 OUTPUT_DIR="${3:-pools}"
-SCANNER_URL="${4:-https://www.storyscan.io}"
+SCANNER_URL=$4
+
+if [ -z "$SCANNER_URL" ]; then
+    echo "Error: Scanner URL is required"
+    echo "Usage: $0 <limit> <tokens_file> <output_dir> <scanner_url>"
+    exit 1
+fi
 
  
 # Create pools directory if it doesn't exist
