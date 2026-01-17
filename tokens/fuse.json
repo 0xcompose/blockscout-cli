@@ -1,7 +1,7 @@
 [
   {
     "address_hash": "0xc6Bc407706B7140EE8Eef2f86F9504651b63e7f9",
-    "circulating_market_cap": "60232189.431053855",
+    "circulating_market_cap": "60207439.79456387",
     "decimals": "6",
     "exchange_rate": "1.0",
     "holders_count": "408",
@@ -12,13 +12,13 @@
     "symbol": "USDC.E",
     "total_supply": "73160003241",
     "type": "ERC-20",
-    "volume_24h": "4143349.776842562"
+    "volume_24h": "4831387.6490183715"
   },
   {
     "address_hash": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
-    "circulating_market_cap": "54853822.45513153",
+    "circulating_market_cap": "54751387.6549233",
     "decimals": "18",
-    "exchange_rate": "3323.46",
+    "exchange_rate": "3310.78",
     "holders_count": "1518",
     "icon_url": "https://assets.coingecko.com/coins/images/69466/small/weth_2.jpg?1758701596",
     "is_bridged": false,
@@ -27,13 +27,13 @@
     "symbol": "WETH",
     "total_supply": "40997275154632935375",
     "type": "ERC-20",
-    "volume_24h": "3696719.234586157"
+    "volume_24h": "2021666.515453399"
   },
   {
     "address_hash": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
-    "circulating_market_cap": "53280322.28851192",
+    "circulating_market_cap": "53557828.77610577",
     "decimals": "18",
-    "exchange_rate": "5.3257E-8",
+    "exchange_rate": "5.3434E-8",
     "holders_count": "494",
     "icon_url": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1696514622",
     "is_bridged": true,
@@ -42,13 +42,13 @@
     "symbol": "ELON",
     "total_supply": "5204233123296670093680463579",
     "type": "ERC-20",
-    "volume_24h": "2548393.150769582"
+    "volume_24h": "2423532.6165764164"
   },
   {
     "address_hash": "0x3695Dd1D1D43B794C0B13eb8be8419Eb3ac22bf7",
-    "circulating_market_cap": "2469778.6914123134",
+    "circulating_market_cap": "2470524.1176955854",
     "decimals": "6",
-    "exchange_rate": "0.998187",
+    "exchange_rate": "0.998775",
     "holders_count": "633",
     "icon_url": "https://assets.coingecko.com/coins/images/70631/small/usdt.jpg?1762857609",
     "is_bridged": false,
@@ -57,7 +57,7 @@
     "symbol": "USDT",
     "total_supply": "170350628823",
     "type": "ERC-20",
-    "volume_24h": "459339.1340807693"
+    "volume_24h": "457112.7257586862"
   },
   {
     "address_hash": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
@@ -76,9 +76,9 @@
   },
   {
     "address_hash": "0x75333830E7014e909535389a6E5b0C02aA62ca27",
-    "circulating_market_cap": "336561.53800193215",
+    "circulating_market_cap": "336549.57882696093",
     "decimals": "6",
-    "exchange_rate": "1.031",
+    "exchange_rate": "1.03",
     "holders_count": "621",
     "icon_url": "https://assets.coingecko.com/coins/images/68960/small/soUSD_logo.png?1757088705",
     "is_bridged": false,
@@ -87,13 +87,13 @@
     "symbol": "SOUSD",
     "total_supply": "326691755585",
     "type": "ERC-20",
-    "volume_24h": "811.2541504969946"
+    "volume_24h": "917.4951432881687"
   },
   {
     "address_hash": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-    "circulating_market_cap": "308337.06522961624",
+    "circulating_market_cap": "308322.2960731285",
     "decimals": "18",
-    "exchange_rate": "0.01911656",
+    "exchange_rate": "0.01911021",
     "holders_count": "281",
     "icon_url": "https://assets.coingecko.com/coins/images/17813/small/elk.png?1696517333",
     "is_bridged": false,
@@ -102,7 +102,7 @@
     "symbol": "ELK",
     "total_supply": "42424242000000000000000000",
     "type": "ERC-20",
-    "volume_24h": "657.933758010698"
+    "volume_24h": "657.7206207878756"
   },
   {
     "address_hash": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
@@ -121,9 +121,9 @@
   },
   {
     "address_hash": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
-    "circulating_market_cap": "215326.81571799068",
+    "circulating_market_cap": "216400.3566881667",
     "decimals": "18",
-    "exchange_rate": "0.00005609",
+    "exchange_rate": "0.00005277",
     "holders_count": "20334",
     "icon_url": "https://assets.coingecko.com/coins/images/21886/small/My_project.png?1696521238",
     "is_bridged": false,
@@ -132,13 +132,13 @@
     "symbol": "VOLT",
     "total_supply": "8727621989428930283250000000",
     "type": "ERC-20",
-    "volume_24h": "166150.34673877337"
+    "volume_24h": "157066.9884349292"
   },
   {
     "address_hash": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-    "circulating_market_cap": "189485.50432322387",
+    "circulating_market_cap": "189759.02981504254",
     "decimals": "18",
-    "exchange_rate": "3301.92",
+    "exchange_rate": "3310.68",
     "holders_count": "541",
     "icon_url": "https://assets.coingecko.com/coins/images/53042/small/wETH_32.png?1735081743",
     "is_bridged": false,
@@ -147,28 +147,28 @@
     "symbol": "WETH",
     "total_supply": "57386866000000000000",
     "type": "ERC-20",
-    "volume_24h": "973.717947511825"
+    "volume_24h": "972.7863298722635"
   },
   {
     "address_hash": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
-    "circulating_market_cap": "100485.344217618",
+    "circulating_market_cap": "101031.03693434548",
     "decimals": "18",
-    "exchange_rate": "0.00745846",
+    "exchange_rate": "0.0074721",
     "holders_count": "8950",
     "icon_url": "https://assets.coingecko.com/coins/images/33535/small/3WFUSE_token_logo_crl.png?1703026207",
     "is_bridged": false,
     "name": "Wrapped FUSE",
     "reputation": "ok",
     "symbol": "WFUSE",
-    "total_supply": "38342539354510420904221427",
+    "total_supply": "38342539281697428907751003",
     "type": "ERC-20",
-    "volume_24h": "2201.362766104092"
+    "volume_24h": "2610.9102013660777"
   },
   {
     "address_hash": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
-    "circulating_market_cap": "67958.5055549531",
+    "circulating_market_cap": "68492.08482336451",
     "decimals": "6",
-    "exchange_rate": "0.996264",
+    "exchange_rate": "1.001",
     "holders_count": "13020",
     "icon_url": "https://assets.coingecko.com/coins/images/32986/small/logo_%288%29.png?1700094172",
     "is_bridged": false,
@@ -177,13 +177,13 @@
     "symbol": "USDT",
     "total_supply": "68411332808",
     "type": "ERC-20",
-    "volume_24h": "472.34678567692595"
+    "volume_24h": "481.20915977475454"
   },
   {
     "address_hash": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
-    "circulating_market_cap": "46582.33079224333",
+    "circulating_market_cap": "46451.032581429354",
     "decimals": "18",
-    "exchange_rate": "3100.91",
+    "exchange_rate": "3093.66",
     "holders_count": "14291",
     "icon_url": "https://assets.coingecko.com/coins/images/32759/small/logo_%286%29.png?1699324862",
     "is_bridged": false,
@@ -192,7 +192,7 @@
     "symbol": "WETH",
     "total_supply": "15022150743707537671",
     "type": "ERC-20",
-    "volume_24h": "19.69973118636364"
+    "volume_24h": "19.125555626594323"
   },
   {
     "address_hash": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
@@ -360,21 +360,6 @@
     "volume_24h": "309.1892104279696"
   },
   {
-    "address_hash": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
-    "circulating_market_cap": "0.0",
-    "decimals": "6",
-    "exchange_rate": "1.002",
-    "holders_count": "4053",
-    "icon_url": "https://assets.coingecko.com/coins/images/35218/small/USDC_Icon.png?1707908537",
-    "is_bridged": true,
-    "name": "Bridged USDC",
-    "reputation": "ok",
-    "symbol": "USDC",
-    "total_supply": "102708188319",
-    "type": "ERC-20",
-    "volume_24h": "1325593.2481000836"
-  },
-  {
     "address_hash": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
     "circulating_market_cap": "0.0",
     "decimals": "18",
@@ -387,7 +372,7 @@
     "symbol": "BUSD",
     "total_supply": "53872969586542601751001",
     "type": "ERC-20",
-    "volume_24h": "6.419023011236457"
+    "volume_24h": "6.419056069248972"
   },
   {
     "address_hash": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
@@ -408,7 +393,7 @@
     "address_hash": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
     "circulating_market_cap": "0.0",
     "decimals": "6",
-    "exchange_rate": "0.999331",
+    "exchange_rate": "0.999221",
     "holders_count": "4427",
     "icon_url": "https://assets.coingecko.com/coins/images/35001/small/logo.png?1706959346",
     "is_bridged": true,
@@ -417,7 +402,22 @@
     "symbol": "USDT",
     "total_supply": "65478935060",
     "type": "ERC-20",
-    "volume_24h": "37555908.158888005"
+    "volume_24h": "38873310.99535787"
+  },
+  {
+    "address_hash": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
+    "circulating_market_cap": "0.0",
+    "decimals": "6",
+    "exchange_rate": "0.998571",
+    "holders_count": "4053",
+    "icon_url": "https://assets.coingecko.com/coins/images/35218/small/USDC_Icon.png?1707908537",
+    "is_bridged": true,
+    "name": "Bridged USDC",
+    "reputation": "ok",
+    "symbol": "USDC",
+    "total_supply": "102708188319",
+    "type": "ERC-20",
+    "volume_24h": "1318011.4498219872"
   },
   {
     "address_hash": "0x2502F488D481Df4F5054330C71b95d93D41625C2",
@@ -468,7 +468,7 @@
     "address_hash": "0x867f08A3ab824b42e8058a1B48e32E1dF205b092",
     "circulating_market_cap": "0.0",
     "decimals": "18",
-    "exchange_rate": "0.131406",
+    "exchange_rate": "0.135861",
     "holders_count": "70",
     "icon_url": "https://assets.coingecko.com/coins/images/26237/small/icecream.png?1696525321",
     "is_bridged": false,
@@ -477,7 +477,7 @@
     "symbol": "ICE",
     "total_supply": "38677046851666858055",
     "type": "ERC-20",
-    "volume_24h": "28.038103924925796"
+    "volume_24h": "42.608673960720544"
   },
   {
     "address_hash": "0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A",
@@ -513,8 +513,8 @@
     "address_hash": "0x495d133B938596C9984d462F007B676bDc57eCEC",
     "circulating_market_cap": "0.0",
     "decimals": "2",
-    "exchange_rate": "0.00010843",
-    "holders_count": "629131",
+    "exchange_rate": "0.00010779",
+    "holders_count": "629130",
     "icon_url": "https://assets.coingecko.com/coins/images/14782/small/G__Coin_%281%29.png?1696514451",
     "is_bridged": false,
     "name": "GoodDollar",
@@ -522,7 +522,7 @@
     "symbol": "$G",
     "total_supply": "399918619731",
     "type": "ERC-20",
-    "volume_24h": "1871.1898562239369"
+    "volume_24h": "1928.1834566906787"
   },
   {
     "address_hash": "0xE57425F1598f9b0d6219706b77f4b3DA573a3695",
@@ -1084,7 +1084,7 @@
     "circulating_market_cap": null,
     "decimals": "18",
     "exchange_rate": null,
-    "holders_count": "2462",
+    "holders_count": "2463",
     "icon_url": null,
     "is_bridged": false,
     "name": "Aetherstone",
