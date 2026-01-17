@@ -6,7 +6,7 @@
 set -e
 
 # Pagination settings
-PAGINATE=false
+# Pagination is always used for list endpoints; --limit is a client-side cap.
 LIMIT=""
 
 # Network resolver function
@@ -41,7 +41,7 @@ else
         echo "Examples:" >&2
         echo "  $0 https://www.storyscan.io tokens" >&2
         echo "  $0 eth tokens ERC-20" >&2
-        echo "  $0 arbitrum --paginate holders 0x..." >&2
+        echo "  $0 arbitrum holders 0x..." >&2
         echo "" >&2
         echo "For full help, run: $0 help" >&2
         exit 1
@@ -72,10 +72,6 @@ fi
 # Parse flags
 while [[ "$1" =~ ^-- ]]; do
     case "$1" in
-        --paginate|--all)
-            PAGINATE=true
-            shift
-            ;;
         --limit)
             LIMIT="$2"
             shift 2
@@ -90,6 +86,12 @@ done
 # Parse command
 COMMAND="$1"
 shift
+
+# Defaults
+# - Tokens list: default to first page (BlockScout commonly returns 50 items/page)
+if [ "$COMMAND" = "tokens" ] && [ -z "$LIMIT" ]; then
+    LIMIT="50"
+fi
 
 # Helper function to fetch paginated results
 fetch_paginated() {
@@ -148,18 +150,10 @@ case "$COMMAND" in
         ;;
     tokens)
         TYPE="${1:-}"
-        if [ "$PAGINATE" = true ]; then
-            if [ -n "$TYPE" ]; then
-                fetch_paginated "$HOST/tokens?type=$TYPE"
-            else
-                fetch_paginated "$HOST/tokens"
-            fi
+        if [ -n "$TYPE" ]; then
+            fetch_paginated "$HOST/tokens?type=$TYPE"
         else
-            if [ -n "$TYPE" ]; then
-                curl -s -H "Accept: application/json" "$HOST/tokens?type=$TYPE"
-            else
-                curl -s -H "Accept: application/json" "$HOST/tokens"
-            fi
+            fetch_paginated "$HOST/tokens"
         fi
         ;;
     holders)
@@ -168,11 +162,7 @@ case "$COMMAND" in
             echo "Error: Token address required" >&2
             exit 1
         fi
-        if [ "$PAGINATE" = true ]; then
-            fetch_paginated "$HOST/tokens/$TOKEN/holders"
-        else
-            curl -s -H "Accept: application/json" "$HOST/tokens/$TOKEN/holders"
-        fi
+        fetch_paginated "$HOST/tokens/$TOKEN/holders"
         ;;
     tx|transaction)
         TX="${1:-}"
@@ -211,11 +201,10 @@ case "$COMMAND" in
 BlockScout CLI - Retrieve data from BlockScout explorers
 
 Usage:
-  $0 <network|host> [--paginate|--all] [--limit N] <command> [args...]
+  $0 <network|host> [--limit N] <command> [args...]
 
 Options:
-  --paginate, --all    Fetch all pages automatically
-  --limit N           Limit total results to N items
+  --limit N           Limit total results to N items (client-side cap)
 
 Networks (REQUIRED):
   eth, arbitrum, optimism, polygon, gnosis, base
@@ -244,16 +233,16 @@ Examples:
   $0 arbitrum tx 0x...
 
   # Get all token holders on Story network
-  $0 https://www.storyscan.io --paginate holders 0x...
+  $0 https://www.storyscan.io holders 0x...
 
   # Get first 100 holders only
-  $0 eth --paginate --limit 100 holders 0x...
+  $0 eth --limit 100 holders 0x...
 
   # Get all ERC-20 tokens on Ethereum (note the hyphen!)
-  $0 eth tokens ERC-20
+  $0 eth tokens ERC-20          # defaults to 50 items (first page)
   
   # Get all ERC-20 tokens on Optimism
-  $0 optimism tokens ERC-20
+  $0 optimism --limit 1000 tokens ERC-20
   
   # Get only NFTs (ERC-721) on Story network
   $0 https://www.storyscan.io tokens ERC-721
@@ -266,7 +255,7 @@ Examples:
   $0 eth address 0x... | jq '.coin_balance'
   
   # Get all holders and filter top 10 by balance
-  $0 eth --paginate holders 0x... | jq 'sort_by(.value | tonumber) | reverse | .[0:10]'
+  $0 eth holders 0x... | jq 'sort_by(.value | tonumber) | reverse | .[0:10]'
 EOF
         ;;
     *)
