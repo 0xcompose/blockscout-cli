@@ -101,7 +101,11 @@ fetch_paginated() {
         # Build URL with pagination params
         local full_url="$url"
         if [ -n "$next_params" ]; then
-            full_url="${url}?${next_params}"
+            if [[ "$url" == *\?* ]]; then
+                full_url="${url}&${next_params}"
+            else
+                full_url="${url}?${next_params}"
+            fi
         fi
         
         # Fetch page
@@ -128,7 +132,8 @@ fetch_paginated() {
         fi
         
         # Build next page params
-        next_params=$(echo "$response" | jq -r '.next_page_params | to_entries | map("\(.key)=\(.value)") | join("&")')
+        # Values can include spaces/special chars (e.g. token name). Must URL-encode them.
+        next_params=$(echo "$response" | jq -r '.next_page_params | to_entries | map("\(.key)=\(.value | tostring | @uri)") | join("&")')
         
         if [ -z "$next_params" ] || [ "$next_params" = "null" ]; then
             break
