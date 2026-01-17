@@ -13,10 +13,12 @@ Requirements:
 
 Usage:
   RPC_URL=<rpc> ./filter-pools.sh --input-dir <contract-holders/network> [--out-dir <dir>] [--which-dex-bin <bin>]
+  ./filter-pools.sh --rpc-url <rpc> --input-dir <contract-holders/network> [--out-dir <dir>] [--which-dex-bin <bin>]
 
 Examples:
   RPC_URL="https://..." ./filter-pools.sh --input-dir ./contract-holders/fuse --out-dir ./dex-pools/fuse
   RPC_URL="https://..." ./filter-pools.sh --input-dir ./contract-holders/story --which-dex-bin which-dex
+  ./filter-pools.sh --rpc-url https://mainnet.storyrpc.io --input-dir ./contract-holders/story --out-dir ./pools/story
 
 Outputs (in --out-dir):
   - pools.jsonl   (one JSON object per *deduped* detected pool; minimal fields)
@@ -39,6 +41,10 @@ CONTRACT_HOLDERS_DIR="${CONTRACT_HOLDERS_DIR:-}"
 
 while [ $# -gt 0 ]; do
   case "$1" in
+    --rpc-url)
+      RPC_URL="${2:-}"
+      shift 2
+      ;;
     --input-dir)
       INPUT_DIR="${2:-}"
       shift 2
@@ -110,22 +116,44 @@ echo "RPC:    (provided via RPC_URL env var)"
 echo "Output: $OUT_DIR"
 echo ""
 
+ANALYZE_LAST_ERROR=""
+
 analyze_address() {
   local address="$1"
   local address_lc
   address_lc="$(echo "$address" | tr '[:upper:]' '[:lower:]')"
   local cache_file="$CACHE_DIR/${address_lc}.json"
+  ANALYZE_LAST_ERROR=""
 
   if [ -f "$cache_file" ]; then
-    cat "$cache_file"
-    return 0
+    # Cache must be valid JSON (story RPC / which-dex can occasionally return non-JSON text)
+    if jq -e . "$cache_file" >/dev/null 2>&1; then
+      cat "$cache_file"
+      return 0
+    fi
+    rm -f "$cache_file" >/dev/null 2>&1 || true
   fi
 
-  # which-dex prints JSON only (stdout) when --json is passed
-  if ! "$WHICH_DEX_BIN" analyze --rpc-url "$RPC_URL" --address "$address" --json > "$cache_file" 2>/dev/null; then
-    rm -f "$cache_file" >/dev/null 2>&1 || true
+  # Normalize + validate which-dex output (avoid writing invalid JSON to cache)
+  local out_tmp="${cache_file}.out.tmp"
+  local err_tmp="${cache_file}.err.tmp"
+
+  if ! "$WHICH_DEX_BIN" analyze --rpc-url "$RPC_URL" --address "$address" --json >"$out_tmp" 2>"$err_tmp"; then
+    ANALYZE_LAST_ERROR="$(head -n 50 "$err_tmp" 2>/dev/null || true)"
+    rm -f "$out_tmp" "$err_tmp" >/dev/null 2>&1 || true
     return 1
   fi
+
+  if ! jq -c . "$out_tmp" > "${cache_file}.tmp" 2>/dev/null; then
+    # Sometimes tools print non-JSON text on stdout; keep a snippet for debugging.
+    ANALYZE_LAST_ERROR="invalid JSON stdout from which-dex (first 50 lines): $(head -n 50 "$out_tmp" 2>/dev/null | tr '\n' ' ' | head -c 400)"
+    rm -f "${cache_file}.tmp" "$cache_file" >/dev/null 2>&1 || true
+    rm -f "$out_tmp" "$err_tmp" >/dev/null 2>&1 || true
+    return 1
+  fi
+
+  rm -f "$out_tmp" "$err_tmp" >/dev/null 2>&1 || true
+  mv "${cache_file}.tmp" "$cache_file"
 
   cat "$cache_file"
 }
@@ -165,7 +193,8 @@ while IFS= read -r token_file; do
       jq -c -n \
         --arg holder_address "$holder_address" \
         --arg error "which-dex analyze failed" \
-        '{address:$holder_address, error:$error}' \
+        --arg detail "${ANALYZE_LAST_ERROR:-}" \
+        '{address:$holder_address, error:$error, detail:(if ($detail|length)==0 then null else $detail end)}' \
         >> "$UNKNOWN_JSONL"
       continue
     fi
@@ -175,8 +204,8 @@ while IFS= read -r token_file; do
     if [ "$protocol" = "Unknown" ] || [ "$protocol" = "null" ] || [ -z "$protocol" ]; then
       jq -c -n \
         --arg address "$holder_address" \
-        --argjson which_dex "$which_dex_json" \
-        '{address:$address, which_dex:$which_dex}' \
+        --arg which_dex_raw "$which_dex_json" \
+        '{address:$address, which_dex_raw:$which_dex_raw}' \
         >> "$UNKNOWN_JSONL"
       continue
     fi
