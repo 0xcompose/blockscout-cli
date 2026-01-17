@@ -1,0 +1,305 @@
+{"address":"0x8d441C2Ff54C015A1BE22ad88e5D42EFBEC6C7EF","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xa02ed9Fe9e3351FE2cd1F588B23973C1542dCbCC","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x0bf36731724f0bAcEb0748A9E71CD4883B69c533","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x64DEf29D3B9fA1ACD8002c2F59e056A08668d586","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xc2155Fc4Bb709d18641c65c8676109DE41EdF84A","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xcEAB8d0303924D3DB5B3a3eD178F055603398845","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x5c058e8A941b3989b999116C7Ffd35cc145908b2","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x85C66C70f3081c4f487d440Af90D91C06f061852","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x5a8A69B27f7953EA3597D0F0CD7E9EF233dD9854","name":"Voltage LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x53372C1c30a012c1C4263867bB5e13AafA97Db17","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x9c60DE353f5A21ab3DbFEE149AACcdbDFb71B4a6","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x73664524CF94E5318E4e5313aeC7558479a622A6","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x5847e08F34944E7799C83B447c9d6bC31B36DEDB","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x0FAf7F64750EBCBB1EcA3384c5A5C2a59CA76764","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xA253db0439DF65bC52599aD056b0d69f8960790B","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xE6FDd1e600a307173c7d854F2DDDca6Ad8E8d808","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xa2d8585441D357e0ac208d38B011411C7883b813","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xbFBf31D842d1869AD3A15FE84f8Da1fefb6C4819","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x5cCa6E8EF75cc31CbfDcdA91B709592568C93045","name":"Voltage LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xFFFa7EAe7336b08279F527d6559b1ef298454A21","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x7A04Ca13995DAAD48bcE8EcF4AcAdac82899E632","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xED254AD5De73CCDeF0720334eEf1FA5334F252DD","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xa563257c766771fb7Db7EEb1045bDC6811bCCE1d","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xB897906B5bfdd3D993D140F4cEfdC7b8308c6B26","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xbD8923A4028c5D6b6B8698ad4342104302611914","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xEB4E2B819e6bfDb2D805aC2c45cc8db391d1E279","name":"Voltage LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x5D33F8ce82C7F1c22c51F2C657b026e78273DC32","name":null,"protocol":"AlgebraIntegral","is_proxy":false,"is_verified":false}
+{"address":"0xfdd7FE80f2C9A76D03aAE386fA56850142ef9AF0","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x6f2681897505D6fE52148Ad14e32D00E522bC223","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x4b4a9b994434A7aB2e60715Cf541De0eAa24BaaE","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xE988B8f70201597dAAE068a7115Fb2563a48460a","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x098c05Ead1Ec080e94E800Bd1bbc825ABA9fd573","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xCe563791d7E40695beeF9557bB6157cdeFFF7106","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x834F33C4eD7767023abf6566c69626165E44f463","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x5A08E4F7217Ed97DE6a0edaF6aCA265AF7d88a19","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x607Ae0e3F867eB806395D8A485699473Fc5D5804","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xf077cf51b898Da3f22540e9DDEdEdDC516aB7B5D","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xeed2EDBb0818aAd7a14636c96387B1e8beA7aC1B","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x5d415B0680b5084ED5864fa1f0732959ca8da506","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xb07a0552294519351dbf6458721bF62DF6c3e330","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x82468c8FBd468cc92b269bE8B5d8D7F281cfC98E","name":"UniswapV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xffbEb57e47F959737b9c4e80b42175FCa7cDc1ea","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xA0f890B1ADB5E38cbDc8256Ec680F7eA254d9F41","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x21e35478a0E2b4dABFBFAebAeef1d9548aedEe7c","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x20CC1744A24C4F3821FC6ea6880166a6A0EEd044","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x06fC4513D23C3b4fd578b902A76EC25A5484331e","name":"UniswapV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xF67C3eD36807Eb2003e2D599CD2a2fe440EC6fFa","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x16fFdCaA4cAE9A587c6f197B087D67FFc0e3f48C","name":"UniswapV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x84bed935F2006f1221dcCC4156709c852b882214","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xF1bfd1E091A993165555cA0d72CdDbd316bA7F2c","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x27c47BFf6bdBA75f5A9C2A5E2244522f3c8303Ed","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x4b22aEDA0F0ab93A584D03e0CDBD4b1Bdcf597de","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xC5662CC730767C69033B71cf2A14FA1427DCa940","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x254d169D8b5FB91394fbd4ebA4acDe71bCaFF425","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x2C432C491b5BC2c7A6427b7e5966932BdA60E8D4","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xDE31Cab4386a1de4EFB705E0D33d9BF29FfEA354","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xA2f08Ba061FE1380a840cA423431BdA102649213","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x79f5cca86779d2Fe9198fe0cFEF98daaf29a5040","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xeE7e933617BBeF4404ef28E80bA685aB20f97B31","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x91520Fc2942Fd52949514f159aA4927b8850178d","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x2e7DeDEfC1b40eb2C935A5d07ACDb8F8a9B2A91D","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xece5875c6b58c12a4572cBAAfEB52f6Ce8fccA76","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xAcecF8D4Aef2c7f2Da94352e8a5727B657980662","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x23518Ca19447E7ABB8C6f6eb215A1D663c53Ea21","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xB12d593109D41F3649d0Ad834C4D909056428D37","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x23Ad3de1fBdc5aD8a005910B228c0C3eD164dfe6","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x0b6b1E18C99C369a0f355EE619035821930b2089","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x5E220C8A62619651541807165788500A78A0bD91","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x5Bff4378c5b91445C8C19d7027485785bbb80E55","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x00EbeF0C591078eDbf0653491a952A3ebD92C364","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xfA8546DCb3C8297D9Fe9AaECbB684a1B4F1D9310","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xB08fa1A54AffADF034dE2179C345479f87cE5406","name":"Elk Liquidity","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xc1Dc5602Ee4106dE38d2FA9acAaaD2AD51c74bEF","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xc67Fa95c89F3E4ADA54cDD6b4A22fAb190E4b8D4","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x41F4f671D60b876476039F7fa1dfe012E267684d","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xD465b8c72F5d0A2e795baD9628b839D83a442F41","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x1EC94B956E4F5Be1d7c871E89FD771B49CEa8946","name":null,"protocol":"UniswapV3","is_proxy":false,"is_verified":false}
+{"address":"0xB945ED0F03E92B98bC02B66B69941B3EE69a9b95","name":"Elk Liquidity","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x1A4C3FDcb149453d93c4F9e14FE8d7f85F91eE73","name":null,"protocol":"UniswapV3","is_proxy":false,"is_verified":false}
+{"address":"0xbfbC315760341f633E36647Cd78d51d70b38272a","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x61b32D4E0B015C6f90c20b7a3273588BB299E19D","name":null,"protocol":"UniswapV3","is_proxy":false,"is_verified":false}
+{"address":"0x04E1c8c9803C6a770A81aFD24bd97fDaEbEC8c5d","name":"ElkDexV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x1BCc21Aba7Cb50bE94D171d32b3b82728DA04492","name":"ElkDexV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x670e145B418c1920449c51929B9E08ce540492d6","name":"ElkDexV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x71369B5b632D97fB6c880C40E3faE3CdA605ed7C","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xC5662CC730767C69033B71cf2A14FA1427DCa940","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xe418c323fA450e7e18c4dB304bEFC7ffF92D2Cc1","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xCD95c42640DbB6F373dE17beD17b979fa282B9CD","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x25225C19A7CB84f8B4Abf2E0396560A9a9C5c6D2","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xE988B8f70201597dAAE068a7115Fb2563a48460a","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xb937A0Aa3C33fc20Cb1b0D26561597844eCF13CB","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x4A877571Da2746C03025e15A548c4B607275dadC","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xfdd7FE80f2C9A76D03aAE386fA56850142ef9AF0","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xc1Dc5602Ee4106dE38d2FA9acAaaD2AD51c74bEF","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xFEc0FB01CAb4752BBa08Ed917dAcA8812f1851D0","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xEb25d5eDba178475FcE4256C03496aA70Fdc3688","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x0BD49929fd9aB12015bB27C91e6Bef43E492031A","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xCa4a3dacDDF33D83C8D43B1152D0C8AadBC88b8b","name":"ElkDexV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xD5f18B2d9ecAC17209cFE901185C497d76C83eeD","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x7C420AEbd74e8F5A84a211A030dbC5192cc8dB76","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x6212E7228401ef547993853946B22A90ab37843A","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x550bFF08cd0d3b1c1Cf39D2725cE635aeFFA32Ff","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x57d5DF50033c5BE41166B8f6658c5dBb8072D976","name":"icecreamswap.com LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xDC77438F2c98C779C1e218d82a8530f1daC0AAba","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x6C2FE3C0BE609F9D72307Aa8A57128d637607199","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xCDd353B90448679b48D3ECAcA128DA40E8ba3e3b","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xe6bA597f1929896145d4610307b148BBDadec021","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x98862A024cc4c9cc89B8a4D16F4B53BCadDaB433","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xb325beA523F7fB535BAF4AA4613d810066e7e112","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x14eB7aa65307fFfcb9b49DC1d2cf534F12a21184","name":"icecreamswap.com LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x26ba3dbf7d43d9B62f817A77bAEa01Aa6a561fba","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xF000BEA59F89a082fC9aAb7e1f1fc4E269ee6863","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xb653FD17170102Bc96ee1D6A8Cf72A45B583Db90","name":"IceCreamSwapV2Pair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xB214264C9bdAb19908Ce73F3090f8d9e4e9157b0","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xfbaB7332ca1e879A4aF41Ad5BAcBbE182F665503","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xAcecF8D4Aef2c7f2Da94352e8a5727B657980662","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x23Ad3de1fBdc5aD8a005910B228c0C3eD164dfe6","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xb830d9FE05e1425f9DA1e80EBa4177A53F0f7877","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xe10AF54ee6CdAf3a43B4a7D153C51F7F757Cd677","name":null,"protocol":"AlgebraIntegral","is_proxy":false,"is_verified":false}
+{"address":"0x5C3A3946533A838c3fe15b682fD3E1BC0a3B9C3a","name":null,"protocol":"AlgebraIntegral","is_proxy":false,"is_verified":false}
+{"address":"0xB6CFA261601cd477581A1b0eCDf404f07B377eFb","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x05C600c0C4Ae2846212EeED1C7dfA6A02A1d7561","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x0aa414acFD5Ed3dD3d49c0DF32C63bBd7B03c9A7","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x1734672003535C1210B7EEF98C26cD2F1298600b","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x0CF70c61d6475081209d3C79E2583E0212A1b820","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xd6377BdDf5cdB2C020A2607CD49fAa53Fa42f268","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xE6FDd1e600a307173c7d854F2DDDca6Ad8E8d808","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xec5b872FD0D423424ee9F31e92a8F709D24B7830","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x6b934B3a08041BE4Fa574C98cDf457296162a63f","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x0cdd2D9B8DDFd748B3E52b8e1dECB8D3fb86ECb3","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x9f17b1895633E855b8b1C1D0Ade9B3B72EB0590C","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x00E485d833099679eD7D121CE46a9557ea8aDa1e","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xba9CA720e314F42E17E80991c1d0AFfE47387108","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x9B43Fa973105bF0086C937b6A386c82bdC658082","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xece5875c6b58c12a4572cBAAfEB52f6Ce8fccA76","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xc79983b0754ac688Bf54939aDd59BDF75916fDA2","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x20a680D69a5aE2677B8CF43aBF63aAD6D8d5119A","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x602352A9Eb5234466Eac23E59e7B99bCaE79C39c","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x206fBD40D3ee73b048a8dADAB5D67C3c4164e80a","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x885f4f3eC02D76B50137050e8779c496FdbdeAEc","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x0bf36731724f0bAcEb0748A9E71CD4883B69c533","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xBc043Bbac892CbdC47fE2671b8F0D6Ec79c6BA08","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x8c7538099a4f5e21752CAd6632f35161800e85C9","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x0CF70c61d6475081209d3C79E2583E0212A1b820","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x677409B2393E2ca19b454fB904F5E634E21D3D89","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xA253db0439DF65bC52599aD056b0d69f8960790B","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x5CcD01d249D196dAFc119adDFA4395ea0f033303","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xC1f3c23129A09960F8A0A9A83C84a3BFA8fFFEfb","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xE5d031E6856844229aBB98de5A20be3efc015702","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x677409B2393E2ca19b454fB904F5E634E21D3D89","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x716fD092b3aB741D38A7d38EBB52306cD5d724b0","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x23518Ca19447E7ABB8C6f6eb215A1D663c53Ea21","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xe16566CE1C66388DFDB01D7660CBE569D0b55600","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x18d75C293cEFD7804BB67b1aB2d38506d8A28bcd","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x7b2161B32E65F8E76F63d6aa2409D93525991c23","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xd6377BdDf5cdB2C020A2607CD49fAa53Fa42f268","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x0b31d85A35A06bfddD53F3dA0CD23Cbb33442778","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xB12d593109D41F3649d0Ad834C4D909056428D37","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xe2F9071fA298035A98B40e4Ce8bcF0d845284288","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xec5b872FD0D423424ee9F31e92a8F709D24B7830","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x30cB9372EE28CF70b4A497B901f717e20bC27d51","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x00E485d833099679eD7D121CE46a9557ea8aDa1e","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xd548e1b5FB16307651825453E53b360C6859629a","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x38EBDa3998815dAD9c01Eb0Becfb937F4C3E5461","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x206fBD40D3ee73b048a8dADAB5D67C3c4164e80a","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xc67Fa95c89F3E4ADA54cDD6b4A22fAb190E4b8D4","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xA670b12F8485aa379e99cF097017785b6acA5968","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x0481Da8F8c815C2A2cCC8cd2DB12D37ADAa0ba4a","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x4E6b54f8dee787B16D8CdBA4f759342b19239C2c","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x258c69d3E52c4927F8A1739bC3F2dF93fC9B3281","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x722d0dB0575a03612a4c29C1818b402eF37C6128","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xA503ee03D48feAE5164536B20712D303d2517D7C","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x0BD49929fd9aB12015bB27C91e6Bef43E492031A","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xA5D0Cd924a78911a72aBeb7dE0E282D454989E29","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xFEc0FB01CAb4752BBa08Ed917dAcA8812f1851D0","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xA7cbfE03706414dF4CCEE09c003bB22B71f70B36","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x0c5fAC0Cf5ECE9fA2B05f6b1ffD181bC1625108c","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x97F4F45F0172F2E20Ab284A61C8adcf5E4d04228","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x79FB917292f841Ab64941C04aCDf5F9059aa24E7","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x9d9e8787f25594fD68551989DE185408f9442124","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x48b21179382BE6A8A2672922981b9D01B2D3c234","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x3b69400d6D734104c79c93791021cE923df21193","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xE255444864f053584b18d278B46f6DB5976dCc0D","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xCABe82664c2Db05bF8763726ef12266d6d8CDbBC","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x6EE66B511706DeaB77B28Fb400CB14cC8CA315e7","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x821f6B28a7Aed1DB1d35d2B552ec444d10fB3a21","name":"FLUX-LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xd1FE203053Bef44Da3b15ee31Df0f3C18EAB23cE","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x8c64208F98B00d96dCFcD5Cd7d10C702FFf37e83","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x51cC986Df4C54877E0Cd9122532db389cc60016B","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x53372C1c30a012c1C4263867bB5e13AafA97Db17","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x55076eECCEDb8869f3C9670D9C8062D3FCB61b7c","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xd36700d303a6A3feb24E3505E560d8c97d42dA0c","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x7b2161B32E65F8E76F63d6aa2409D93525991c23","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xde2C93fB83DD29372A62f12653B95a0473d96295","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x6f2681897505D6fE52148Ad14e32D00E522bC223","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x1734672003535C1210B7EEF98C26cD2F1298600b","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xA5D0Cd924a78911a72aBeb7dE0E282D454989E29","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xE255444864f053584b18d278B46f6DB5976dCc0D","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x9c60DE353f5A21ab3DbFEE149AACcdbDFb71B4a6","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x97F4F45F0172F2E20Ab284A61C8adcf5E4d04228","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x7Fe1A61E4FE983D275cb5669072A9d1dee9Bd45C","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x79FB917292f841Ab64941C04aCDf5F9059aa24E7","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x75e24462108E49B71278c93b49B35A5837c0547C","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x90c3bA00d2F7F15Cd9FDE087538be3A2865E7E2F","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x9d9e8787f25594fD68551989DE185408f9442124","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xF9C63E6e21d65ba3Cb6B95790F559E8Da1B38764","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xc9582993F888ff51C78c320456bE3e8629848d45","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xcDd8964BA8963929867CAfFCf5942De4F085bFB7","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x7Fe1A61E4FE983D275cb5669072A9d1dee9Bd45C","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xcDd8964BA8963929867CAfFCf5942De4F085bFB7","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x9f17b1895633E855b8b1C1D0Ade9B3B72EB0590C","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x91520Fc2942Fd52949514f159aA4927b8850178d","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x75e24462108E49B71278c93b49B35A5837c0547C","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xA670b12F8485aa379e99cF097017785b6acA5968","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x22305A160Abc6890Eb7727f2b8A034D7fE56E883","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xA3fa018DA2d4081F9596bb3b7d6C5da5572DC595","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x2e7DeDEfC1b40eb2C935A5d07ACDb8F8a9B2A91D","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x4799bd3F3493618BC970dca797d5840d51019526","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x48f8aaAAD12AC89529c365baF66d7D15E4e5a40A","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x8d441C2Ff54C015A1BE22ad88e5D42EFBEC6C7EF","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xba9CA720e314F42E17E80991c1d0AFfE47387108","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xB6CFA261601cd477581A1b0eCDf404f07B377eFb","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x3b46eFdd411cc0Db43f1BE7853727e18Cce8b85b","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x1b2D1e4D84E594330F61A5940d42c300783501fB","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x933a10d094592EB3F2a26bCb366472eba8868A66","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x9B43Fa973105bF0086C937b6A386c82bdC658082","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x90c3bA00d2F7F15Cd9FDE087538be3A2865E7E2F","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xB08fa1A54AffADF034dE2179C345479f87cE5406","name":"Elk Liquidity","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x4A877571Da2746C03025e15A548c4B607275dadC","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xa02ed9Fe9e3351FE2cd1F588B23973C1542dCbCC","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xc79983b0754ac688Bf54939aDd59BDF75916fDA2","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x48515F859e44161Bf67AE610A7c83F53B0048713","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xde2C93fB83DD29372A62f12653B95a0473d96295","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x0481Da8F8c815C2A2cCC8cd2DB12D37ADAa0ba4a","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xA9c312E6DAC0EC56C6A8CB338e9121c6349D9beD","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x53B1B8Fb8bE9aA94076e6B29fb9D08bd9ced2D30","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xe418c323fA450e7e18c4dB304bEFC7ffF92D2Cc1","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xd548e1b5FB16307651825453E53b360C6859629a","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x48b21179382BE6A8A2672922981b9D01B2D3c234","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x602352A9Eb5234466Eac23E59e7B99bCaE79C39c","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x0b31d85A35A06bfddD53F3dA0CD23Cbb33442778","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xc9582993F888ff51C78c320456bE3e8629848d45","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x4f47a2c360266230795CFBca80b7C89EdA52Cd52","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x994ddb7c080E3893Ce4F564726b96a72c49f3829","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x3b69400d6D734104c79c93791021cE923df21193","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x11c38899b0F28723bbA14C40D06f18adcD881d18","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x391aCf760B439d64cA3491003ff2930ED1DE594E","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x6faCE8A66c7895D390B17d3Cefd36f063f98Bb58","name":"SushiSwap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x6ae564D7d8Db8d715AD873bca79528B5801405fa","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x3Df8938e749dD3A2b21Fa4dD073366CB2359158a","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x6c6D9856C44B2A2248D093f3797Db66a706225D6","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xB214264C9bdAb19908Ce73F3090f8d9e4e9157b0","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x64DEf29D3B9fA1ACD8002c2F59e056A08668d586","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x4b4a9b994434A7aB2e60715Cf541De0eAa24BaaE","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xEb25d5eDba178475FcE4256C03496aA70Fdc3688","name":"ElkPair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x69af672b7CA45C3DE476D7F949d7C3E658f841C9","name":"Uniswap V2","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xCcF94d880A1f606549601311DC20c0a38798FDb5","name":"Bombswap LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x88E6c053bC391aeA08F5CAD28594D0A6D16d921f","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x0cdd2D9B8DDFd748B3E52b8e1dECB8D3fb86ECb3","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xCa4a3dacDDF33D83C8D43B1152D0C8AadBC88b8b","name":"ElkDexV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xA41bBFb7E6968C5646921A4f830eF8B5eafcE523","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x05C600c0C4Ae2846212EeED1C7dfA6A02A1d7561","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x73664524CF94E5318E4e5313aeC7558479a622A6","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x225248DDF4A3E93fc5F419124DC001F4bE7B61Ce","name":"FLUX-LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x558F169eDfc30E61D6EC8D2341424A93E2F4E274","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xd729609735222F203fCe2e0Ed940ac749eaD839a","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x08517435C6d4Ec51AFe9913Fcf65a3e35df21983","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x74F32415d58BF23C3e7d8a9729035106700b857c","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0xaf1CE656120D74CCB8001479fA048301F2ef801F","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xF951765e258A04c4D529e3AF314B77769cA992d5","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xF250828e4e1ca3a2Fcab1baD48eC5648aBB1AfD7","name":"Degen Haus LP","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xeeD7A28eEd4E768fCD46dE3642AB73488De77e11","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xe2F9071fA298035A98B40e4Ce8bcF0d845284288","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x54d7537Bd5c407aA0F220421a4e50225D9Db3201","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x8c64208F98B00d96dCFcD5Cd7d10C702FFf37e83","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0x722d0dB0575a03612a4c29C1818b402eF37C6128","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xd9ec48C0Eb6C9C976a31f19dbaa64e838Ef1e945","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x08517435C6d4Ec51AFe9913Fcf65a3e35df21983","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xFf506Ef6FC979657DA0186E55d1D0873b772d603","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x1AA4B3695cEDbD60829A1da212cB4EAf03F1ce7A","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0x72ce3D186BBcCFEe81FA57392c7Ce8B4373877E9","name":"VoltagePair","protocol":"UniswapV2","is_proxy":false,"is_verified":true}
+{"address":"0xEe261Ca520DEb6bBfc6F2F177F6D768DeeBa0EFB","name":"Voltage LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xf42091441afBB2448BDcF35fdFDB4E0929d8994F","name":"Voltage LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0xdCC48C74c952017A6E54BdD9464EceA18f39f8a3","name":"Voltage LP Token","protocol":"UniswapV2","is_proxy":false,"is_verified":false}
+{"address":"0x51cC986Df4C54877E0Cd9122532db389cc60016B","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xffff11A9910dad5e16f42D03590666689c0a9151","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
+{"address":"0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39","name":"AlgebraPool","protocol":"AlgebraIntegral","is_proxy":false,"is_verified":true}
+{"address":"0xB38661219ACBE8d45D943214F40543f4d5b25121","name":"VoltageV3Pool","protocol":"UniswapV3","is_proxy":false,"is_verified":true}
